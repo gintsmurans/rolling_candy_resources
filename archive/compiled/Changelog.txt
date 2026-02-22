@@ -1,0 +1,72 @@
+** 2013-03-07
+Updated success view
+Levels button view background
+New element - pile of coins
+Updated first door design
+
+
+** 2013-03-01
++13-16 levels
+New restart, pause/play and menu buttons
+Levels view new design
+
+
+** 2013-03-01
+Few bug fixes
+1-12,17 levels
+
+
+** 2013-02-27
+Replaced candy with green monster for testing different characters
+Moving bricks (10th level)
+
+
+** 2013-02-26
+Upload all levels to dropbox
+Fixed spring
+Red Brick animation
+1-5, 9, 17 levels
+
+
+** 2013-02-25
+Dropbox access for loading (testing) created levels
+
+
+** 2013-02-22
+Sandclock
+Coins
+Updated the way all elements on the screen updates their positions
+
+
+** 2013-02-20
+First manually generated level (1st and 3rd)
+
+
+** 2013-02-19
+Fixed spring
+Added red bricks (with basic fadeout animation)
+Updated few graphics
+
+
+** 2013-02-18
+Improved helper behaviour
+Updated the way the test frame works to detect collisions
+
+
+** 2013-02-17
+Helper in the box
+
+
+** 2013-02-16
+Springs
+Improved falling off the bricks
+
+
+** 2013-02-15
+Theme 3
+
+
+** 2013-02-12
+Theme 2
+Improved physics (bounce)
+Improved brick collision detection

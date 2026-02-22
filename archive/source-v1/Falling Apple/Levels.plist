@@ -1,0 +1,3617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{121.46875, 426.47265625}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{25.55078125, 110.8125}, {35, 35}}</string>
+			<key>Length</key>
+			<real>570</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{9.734375, 154.421875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.2421875, 231.12109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.828125, 283.1875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.66015625, 334.484375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>60</integer>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{153.50390625, 1469.578125}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{17.35546875, 6.6171875}, {35, 35}}</string>
+			<key>Length</key>
+			<real>1550.578125</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{4.98046875, 470.87109375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{22.16796875, 419.97265625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{225.32421875, 475.0390625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{243.07421875, 425.4375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{1.87890625, 680.98046875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-83.0546875, 761.55078125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{125.36328125, 1280.421875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{44.359375, 1281.5078125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{85.58203125, 1324.6875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{114.79296875, 475.05859375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{113.58203125, 593.02734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{212.95703125, 1338.71875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{251.046875, 741.30078125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{221.6484375, 778.1484375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{221.87890625, 878.48828125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{252.06640625, 844.359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{220.71484375, 974.46484375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{250.046875, 937.33203125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{218.25, 1069.4140625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{248.7421875, 1033.375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{218.44140625, 1157.6328125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{248.484375, 1120.77734375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{154.93359375, 652.765625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{94.05078125, 652.7890625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{125.4140625, 699.9921875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{79.46875, 835.91796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{216.5, 1254.9765625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{246.578125, 1219.94140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{16.3125, 648.39453125}, {54.5, 40}}</string>
+					<key>Tag</key>
+					<integer>2010</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>85</integer>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{9.80859375, 2116.65625}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{282.11328125, 179.5}, {35, 35}}</string>
+			<key>Length</key>
+			<real>2197.65625</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{235.3046875, 215.8125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{159.2109375, 260.5078125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{85.328125, 307.75}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{1.11328125, 394.36328125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{136.97265625, 470.15625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{230.46484375, 563.27734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{3.72265625, 759.50390625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{220.9453125, 1046.8359375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{8.14453125, 1291.81640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{216.08203125, 1435.34375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{3.8359375, 1714.4140625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{118.015625, 1371.23046875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{99.921875, 1587.16015625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{118.1875, 408.0859375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{253.1875, 501.234375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.4921875, 627.73828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{252.74609375, 1006.69140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{221.015625, 1133.33203125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{252.79296875, 1096.48828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{245.09375, 1395.69921875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{244.625, 1492.265625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{214.26953125, 1528.37890625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{128.5, 1759.69140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{95.8125, 1184.09375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{152.71484375, 1808.125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{151.76171875, 1864.125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{137.52734375, 1916.53125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{111.0703125, 1977.3203125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{78.2265625, 2044.53125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{3.76953125, 250.55078125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{114.96875, 1429.83984375}, {47.5, 34.5}}</string>
+					<key>Tag</key>
+					<integer>2001</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>85</integer>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{101.0703125, 1744.05078125}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{6.14453125, 123.234375}, {35, 35}}</string>
+			<key>Length</key>
+			<real>1825.05078125</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{258.76171875, 333.43359375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{5.16796875, 332.8515625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{2.37109375, 198.66796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{70.578125, 332.8984375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{192.94921875, 335.03515625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{194.33203125, 407.4140625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{194.9453125, 471.265625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{71.3203125, 404.1328125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{69.8359375, 468.96484375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.44921875, 347.84765625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.546875, 413.21484375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.453125, 471.58203125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.03515625, 526.1328125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.10546875, 600.41015625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{124.71875, 771.12890625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{109.5625, 658.4921875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{124.3125, 837.203125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{125.55078125, 705.015625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{194.87109375, 534.3125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{69.62890625, 536.52734375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{7.73828125, 1006.32421875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{216.5, 1007.1328125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{109.1015625, 1005.9921875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{179.84765625, 1235.64453125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0.27734375, 1227.33984375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{269.69140625, 1226.828125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{51.96875, 1235.22265625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{142.25, 1172.00390625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{142.58984375, 1079.21484375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{142.9921875, 1123.30859375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{270.296875, 1058.8203125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-0.1171875, 1057.98046875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0.98046875, 1141.79296875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{270.8046875, 1141.49609375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{110.65625, 1524.8984375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.15234375, 1567.7734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{177.1015625, 1400.796875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{83.98046875, 1401.74609375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{82.28125, 1340.35546875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{179.359375, 1339.07421875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{181.41015625, 1278.12109375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{78.09765625, 1277.0078125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{170.6796875, 1461.859375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{86.8203125, 1462.46484375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>85</integer>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{91.40625, 2526.6171875}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{140, 114}, {35, 35}}</string>
+			<key>Length</key>
+			<real>2607.6171875</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{117.6484375, 235.18359375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{49.84375, 334.390625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{151.15625, 415.52734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{34.1015625, 515.671875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{31.62890625, 908.22265625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{263.0078125, 903.41015625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{178.06640625, 322.78125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{178.3984375, 356.59375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{178.3984375, 385.828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{210.79296875, 280.19140625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{239.0625, 240.953125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{156.02734375, 568.84375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{155.4296875, 634.046875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{156.1171875, 605.51171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{65.0859375, 483.01171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{63.6640625, 876.140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{197.25, 1108.078125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{251.22265625, 1108.5546875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{129.41796875, 1135.2734375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{118.26171875, 1219.33203125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{2.69140625, 1303.4140625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{32.109375, 1266.62109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{76.66015625, 598.03515625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{24.1484375, 1743.51171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{53.64453125, 1742.59375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{82.78125, 1742.37109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{113.703125, 1741.50390625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.3125, 1741.8046875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{174.5390625, 1728.4140625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-85.84375, 1942.390625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{76.609375, 657.5546875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{211.31640625, 660.19921875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{212.04296875, 597.6953125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{63.3984375, 842.41015625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-27.7109375, 1171.3828125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{101.30078125, 1171.625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.515625, 1478.67578125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{133.015625, 2065.83203125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.8203125, 2031.484375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.87890625, 2099.7109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{52.1640625, 1929.95703125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{25.99609375, 1779.296875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{119.40625, 2182.296875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{1.22265625, 2292.6796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{86.3671875, 2388.25}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{32.3828125, 2257.84375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{191.33984375, 2462.453125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{222.7734375, 2426.05859375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{222.16796875, 2395.78125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{223.12890625, 2365.16015625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{123.30859375, 673.03515625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1006</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{165.046875, 2143.7421875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{38.98828125, 2141.1484375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{23.12890625, 1969.07421875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>99</integer>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{92.2890625, 2389.8359375}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{15.375, 31.92578125}, {35, 35}}</string>
+			<key>Length</key>
+			<real>2470.8359375</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{168.68359375, 380.87890625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{127.4140625, 415.02734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{138.44921875, 384.8828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{97.28125, 420.11328125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{91.7734375, 449.1875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{12.2109375, 534.171875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{66.90625, 503.0625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{43.6953125, 568.68359375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{101.06640625, 541.23046875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{72.58984375, 603.921875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{134.4375, 576.9609375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{196.46875, 590.32421875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{246.43359375, 589.4375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{136.265625, 708.07421875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{222.22265625, 710.875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-86.25, 207.0390625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{133.0078125, 908.6875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{150.4375, 753.19921875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{50.0390625, 707.85546875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1006</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{162.21484375, 878.375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{219.29296875, 978.8046875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{251.18359375, 942.74609375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{221.265625, 1053.5546875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{251.5234375, 1024.828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{63.88671875, 1038.50390625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{42.6640625, 1225.16796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{77.578125, 1190.91015625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.1328125, 1051.84375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1006</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{207.22265625, 1383.65625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{118.25, 1383.3203125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-14.1796875, 1380.8984375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{147.921875, 1349.015625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{148.1484375, 1312.65234375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-11.8203125, 1586.4140625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{77.9296875, 1586.890625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{202.6875, 1587.11328125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{81.875, 1550.09765625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{149.56640625, 1730.1328125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{49.16015625, 1799.69140625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{178.9140625, 1695.46875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{79.9140625, 1765.01953125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{147.64453125, 1868.3359375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{176.61328125, 1836.01171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{166.7890625, 1909.7578125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{152.578125, 2075.796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{182.015625, 2041.39453125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{38.5859375, 1982.3046875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{68.91015625, 1947.3359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-38.24609375, 707.06640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{131.46484375, 2225.38671875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{131.5546875, 2258.3984375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.46875, 2289.4140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{131.61328125, 2192.37109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.58984375, 2321.33984375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{175.44140625, 348.8359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>100</integer>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{0.6953125, 2509.74609375}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{144, 114}, {35, 35}}</string>
+			<key>Length</key>
+			<real>2590.74609375</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{233.515625, 420.32421875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1007</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{1.01953125, 419.84375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0.34375, 368.37890625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{20.6796875, 657.734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.640625, 656.84765625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{206.0625, 656.40625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{161.32421875, 696.25}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{34.265625, 696.1328125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{99.6328125, 696.59375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{223.34765625, 695.8515625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{70.9296875, 887.12890625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{13.26171875, 889.1796875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{23.09765625, 843.51171875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{236.1328125, 621.2734375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{53.69921875, 622.57421875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{146.80078125, 614.45703125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{40.96484375, 935.3828125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{39.03125, 989.26171875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{39.77734375, 1044}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{222.29296875, 1218.3359375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{3.85546875, 1219.28515625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{249.9140625, 886.3828125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{193.55078125, 885.5234375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{221.48828125, 933.21875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{219.1875, 988.65625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{219.578125, 1044.046875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{108.76953125, 1217.9375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{5.72265625, 1622.3828125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{263.31640625, 1619.3828125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.5546875, 1671.28125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{163.69921875, 1761.59765625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{249.375, 1761.94921875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{74.625, 1761.33984375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-13.734375, 1761.4140625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.828125, 1806.125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{233.75, 1960.77734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{145.06640625, 1973.57421875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{72.484375, 2035.05859375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{113.14453125, 1147.6328125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{116.59375, 437.390625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1006</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{116.1640625, 1624.8203125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{6.2578125, 1879.61328125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{68.50390625, 1879.25390625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{129.83203125, 1877.7734375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{133.64453125, 2036.8125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{269.8046875, 370.453125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{54.55078125, 1984.7578125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{51.98046875, 807.6640625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{238.53125, 813.33984375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{145.0546875, 1589.62890625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{201.56640625, 1942.19140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{171.34375, 1941.3046875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{142.21484375, 1942.49609375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{24.70703125, 2204.44140625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{190.78515625, 1876.984375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{207.6171875, 848.3046875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{64.25, 1276.609375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1007</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{152.53515625, 1277.4375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1005</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{48.82421875, 2421.1640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{131.41015625, 2329.15625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{2.671875, 2159.11328125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{219.640625, 2199.65625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{252.44140625, 2199.1875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{286.984375, 2199.625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{288.2890625, 2164.07421875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{254.44140625, 2166.23828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{221.203125, 2165.60546875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{224.12890625, 2369.09375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{83.6484375, 2373.3828125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>88</integer>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{100.55859375, 2753.359375}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{254.78125, 114}, {35, 35}}</string>
+			<key>Length</key>
+			<real>2834.359375</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{231.23828125, 152.14453125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{232.65625, 310.6640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0.38671875, 156.515625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0.2265625, 315.265625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-0.078125, 483.17578125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{231.515625, 480.71484375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{32.625, 281.34765625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{30.50390625, 451.265625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-0.51953125, 636.3203125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{28.4609375, 605.734375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{230.18359375, 636.06640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{163.1640625, 625.64453125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{100.6875, 626.04296875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0.109375, 795.625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-1.12109375, 953.23828125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-0.51953125, 1105.00390625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{29.59765625, 766.6171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{28.85546875, 1073.23046875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{29.109375, 921.80859375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{228.86328125, 790.671875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{229.328125, 947.02734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{229.30859375, 1103.21875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{102.44921875, 1097.08984375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{163.65625, 1096.85546875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{2.6875, 1391.203125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{33.13671875, 1358.72265625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{229.875, 1315.0703125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1007</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{269.24609375, 1377.7578125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{214.9453125, 1377.8984375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{160.86328125, 1377.55078125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{105.6171875, 1378.55078125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{217.12890625, 1636.8046875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{249.76171875, 1605.26171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{118.35546875, 1597.515625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{148.3125, 1565.90234375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{14.44140625, 1559.31640625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{43.76953125, 1529.49609375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-27.01171875, 2062.3515625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{65.625, 2062.76953125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{154.76953125, 2064.2578125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{64.94921875, 1797.09375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{123.22265625, 1797.69921875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{93.75, 1843.8046875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{228.0390625, 2187.046875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{259.07421875, 2155.01171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{229.453125, 2367.3359375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{257.1640625, 2335.9765625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{115.265625, 2250.67578125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{1.2109375, 2365.6640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{188.33203125, 2507.203125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{219.1015625, 2473.796875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{35.890625, 2504.94921875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{184.76953125, 2588.1015625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{215.44921875, 2556.4921875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{183.5625, 2667.31640625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{213.82421875, 2636.54296875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>108</integer>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{102.86328125, 2759.4921875}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{136.91796875, 59.4765625}, {35, 35}}</string>
+			<key>Length</key>
+			<real>2840</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{204.625, 206.3515625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{233.96875, 168.28515625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{233.92578125, 133.08984375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{233.83203125, 96.33203125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{131.3359375, 361.95703125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{16.171875, 345.55859375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{17.58203125, 422.80859375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{17.015625, 491.3671875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{47.95703125, 308.93359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{49.57421875, 387.97265625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{49.70703125, 462.3984375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.9921875, 422.62109375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{113.2734375, 576.453125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{110.890625, 120.56640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{129.87109375, 305.90234375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{199.53515625, 794.3203125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{181.08203125, 741.84375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{210.0234375, 686.0703125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{36.1484375, 1647.3359375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{205.828125, 1645.32421875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.75, 1796}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{253.69140625, 1926.5234375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-33.04296875, 1927.79296875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{116.36328125, 1925.1015625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{26.6328125, 1795.20703125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{199.34375, 1796.76953125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{268.34375, 1889.296875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{132.96484375, 1870.921875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{117.20703125, 2076.265625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{3.36328125, 2200.35546875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{3.4609375, 2170.078125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{33.8671875, 2169.37890625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{63.1796875, 2168.41796875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{24.6171875, 2240.203125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{192.51953125, 2170.94921875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{118.30859375, 2324.9375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{198.51171875, 2440.53125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{49.69921875, 2517.91796875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{195.14453125, 2515.75}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{136.5078125, 2531.515625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{137.76953125, 2564.609375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{137.22265625, 2596.8671875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{138.51171875, 2631.52734375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{49.328125, 2618.87890625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{197.12109375, 2619.48828125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{24.265625, 666.65625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{73.7578125, 795.36328125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{40.234375, 844.57421875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{61.48046875, 889.390625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{207.94921875, 915.484375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{176.71875, 959.28125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{195.55859375, 1004.32421875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{83.0234375, 1034.78125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{52.83984375, 1077.98828125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{72.24609375, 1122.68359375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{318.58984375, 1353.24609375}, {25, 24.5}}</string>
+					<key>Tag</key>
+					<integer>2004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{61.94140625, 1333.91796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{190.73046875, 1335.0234375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{122.34765625, 1518.31640625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{252.2265625, 1305.3125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{193.03125, 1305.65625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{223.53125, 1298.82421875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{77.2421875, 1299.609375}, {54.5, 40}}</string>
+					<key>Tag</key>
+					<integer>2010</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>81</integer>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{105.3515625, 2932.453125}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{144, 114}, {35, 35}}</string>
+			<key>Length</key>
+			<real>3013.453125</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{117.5, 285}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>100</integer>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{104, 489}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{145.60546875, 14.9921875}, {35, 35}}</string>
+			<key>Length</key>
+			<real>570</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{117.5, 285}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{60.55078125, 332.22265625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{187.10546875, 342.09765625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{221.84375, 289.93359375}, {50, 53}}</string>
+					<key>Tag</key>
+					<integer>2009</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{134.44921875, 247.59375}, {54.5, 40}}</string>
+					<key>Tag</key>
+					<integer>2010</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>117</integer>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{112.2109375, 426.2578125}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{134.265625, 103.671875}, {35, 35}}</string>
+			<key>Length</key>
+			<real>570</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{229.55859375, 266.85546875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{10.3828125, 264.16015625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{162.4921875, 169.63671875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{25.90234375, 233.84375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.5, 354.25390625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{216.2421875, 135.39453125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{58.2734375, 168.984375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>60</integer>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{104, 519.61328125}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{102.3125, 118.48828125}, {35, 35}}</string>
+			<key>Length</key>
+			<real>600.61328125</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{46.41015625, 199.40234375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>120</integer>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{113.73828125, 781.85546875}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{141, 97}, {35, 35}}</string>
+			<key>Length</key>
+			<real>855.85546875</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{0, 0}, {0, 0}}</string>
+					<key>Tag</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0, 0}, {0, 0}}</string>
+					<key>Tag</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0, 0}, {0, 0}}</string>
+					<key>Tag</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{0, 0}, {0, 0}}</string>
+					<key>Tag</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{109.17578125, 276}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{117.734375, 145.16015625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{40.9609375, 223.046875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{114.9453125, 310.796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{188.12890625, 439.796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{87.421875, 584.60546875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{30.35546875, 701.3203125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{247.27734375, 404.1640625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{117.46875, 275.921875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.5, 550.44140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>60</integer>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{100, 859.140625}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{40.14453125, 119.53515625}, {35, 35}}</string>
+			<key>Length</key>
+			<real>940.140625</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{130.0390625, 594.12109375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{159.0625, 556.48046875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{18.72265625, 170.60546875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{28.49609375, 401.01171875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{125.4765625, 295.5625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{158.34375, 263.5}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{215.94921875, 361.7890625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{102.79296875, 731.2109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>72</integer>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{104.1875, 1262.7421875}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{144.8984375, 153.78125}, {35, 35}}</string>
+			<key>Length</key>
+			<real>1343.7421875</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{212.20703125, 293.46875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{106.515625, 373.6796875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{8.953125, 472.7265625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{218, 631.9140625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{111.44921875, 719.8203125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.14453125, 555.93359375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{9.1875, 806.453125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{108.91015625, 1019.734375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{141.7734375, 986.2109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{122.52734375, 191.3671875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{44.72265625, 1069.8515625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{12.15625, 1102.3359375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{115.2421875, 1199.01953125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.1953125, 1163.51953125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{108.9140625, 871.3125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{226.41796875, 913.79296875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>75</integer>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{45.2890625, 1245.13671875}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{250.62890625, 176.4765625}, {35, 35}}</string>
+			<key>Length</key>
+			<real>1326.13671875</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{0.16015625, 466.75}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{91.05078125, 466.58984375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{227.55859375, 218.23828125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{183.484375, 466.62109375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{119.93359375, 392.8828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{164.890625, 1142.0078125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{195.375, 1096.66796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{228.46484375, 1051.5390625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{167.62109375, 1113.46875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{200.7578125, 1066.7109375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{230.671875, 1019.45703125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{192.5859375, 775.90625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{192.75390625, 723.6796875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{192.29296875, 830.8828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{165.09765625, 876.0234375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{224.625, 939.0234375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{115.49609375, 246.91796875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{20.0703125, 243.66015625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{18.8359375, 285}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.75, 285}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{225.90625, 667.6796875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{11.9609375, 664.86328125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{26.015625, 632.38671875}, {54.5, 40}}</string>
+					<key>Tag</key>
+					<integer>2010</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>78</integer>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{206, 1393.92578125}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{140, 116}, {35, 35}}</string>
+			<key>Length</key>
+			<real>1474.92578125</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{115.84765625, 371.75}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{114.33203125, 584.82421875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{114.24609375, 854.55078125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{215.90625, 948.66015625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{15.65625, 949.17578125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{112.75, 949.80078125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{113.05078125, 674.28125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.5, 641.1484375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{144.8046875, 550.578125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.453125, 918.24609375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{33.875, 1187.69921875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{202.83984375, 1270.53125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{168.71484375, 1229.38671875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{238.80078125, 1315.6953125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>81</integer>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{101.140625, 1715.66796875}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{13.7265625, 84.08203125}, {35, 35}}</string>
+			<key>Length</key>
+			<real>1796.66796875</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{-28.26171875, 215.5234375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{57.33984375, 217.01171875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{145, 217.7578125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{271.99609375, 217.7578125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{151.9296875, 378.9453125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{234.4921875, 420.35546875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{9.79296875, 436.890625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{77.1171875, 919.2734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{161.83984375, 920.1328125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-43.78515625, 917.734375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{-26.7109375, 1076.64453125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{60.85546875, 1077.2734375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{149.73828125, 1078.05859375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{239.5625, 1077.8515625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{80.69921875, 1360.28515625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{9.33203125, 769.1953125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{94.2109375, 721.8671875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{281.41796875, 921.11328125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{206.16796875, 1464.171875}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.55078125, 1609.37890625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{180.7421875, 1038.1328125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{92.41015625, 1036.87890625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{123.21484375, 661.43359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{122.86328125, 607.5390625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{175.46875, 1540.7734375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{122.95703125, 547.8359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>84</integer>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Comments</key>
+			<string></string>
+			<key>EndRect</key>
+			<string>{{183.16015625, 1304.20703125}, {114, 81}}</string>
+			<key>InitRect</key>
+			<string>{{139.5, 114}, {35, 35}}</string>
+			<key>Length</key>
+			<real>1385.20703125</real>
+			<key>Objects</key>
+			<array>
+				<dict>
+					<key>Rect</key>
+					<string>{{154.53515625, 315}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{239.04296875, 316.43359375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{273.48828125, 286.68359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{241.8203125, 286.984375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{210.984375, 285.94140625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{205.48828125, 512.6953125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{115.609375, 513.08984375}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{23.51953125, 513.125}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{21.80078125, 627.12109375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{18.87109375, 740.1171875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{108.18359375, 741.3046875}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{199.03125, 740.40625}, {88.5, 33}}</string>
+					<key>Tag</key>
+					<integer>1004</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{24.35546875, 842.62109375}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{328.83984375, 673.48828125}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{141.83203125, 703.93359375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{55.13671875, 584.515625}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{54.17578125, 806.7734375}, {25, 25.5}}</string>
+					<key>Tag</key>
+					<integer>2008</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{116.08203125, 157.515625}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{9.359375, 304.13671875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{68.71875, 304.95703125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{153.234375, 831.8046875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{209.34765625, 830.36328125}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{146.71875, 1002.296875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{228.2109375, 1152.296875}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{15.49609375, 1141.546875}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{77.6015625, 1140.24609375}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{143.06640625, 1141.1015625}, {53.5, 54}}</string>
+					<key>Tag</key>
+					<integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Rect</key>
+					<string>{{78.1875, 420.703125}, {87, 35.5}}</string>
+					<key>Tag</key>
+					<integer>1000</integer>
+				</dict>
+			</array>
+			<key>Speed</key>
+			<integer>80</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

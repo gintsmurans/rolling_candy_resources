@@ -1,0 +1,5086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!-- created with http://www.physicseditor.de -->
+
+<plist version="1.0">
+	<dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>ptm_ratio</key>
+            <real>64</real>
+        </dict>
+        <key>bodies</key>
+		<dict>
+
+			<key>candy</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>20</real>
+                        <key>friction</key> <real>0.7</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>CIRCLE</string>
+
+                         <key>circle</key>
+                         <dict>
+                             <key>radius</key> <real>34.000</real>
+                             <key>position</key> <string>{ -0.800,-1.000 }</string>
+                         </dict>
+                    </dict>
+				</array>
+			</dict>
+			<key>coin-1</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>10</real>
+                        <key>friction</key> <real>0.9</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <true/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>CIRCLE</string>
+
+                         <key>circle</key>
+                         <dict>
+                             <key>radius</key> <real>19.000</real>
+                             <key>position</key> <string>{ 0.800,-0.550 }</string>
+                         </dict>
+                    </dict>
+				</array>
+			</dict>
+			<key>putns-zelta</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>5</real>
+                        <key>friction</key> <real>1</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -25.500,-43.500 }</string>	
+								<string>{ -10.833,-49.500 }</string>	
+								<string>{ 28.167,-34.167 }</string>	
+								<string>{ 32.167,-18.167 }</string>	
+								<string>{ 30.167,-1.833 }</string>	
+								<string>{ -29.500,2.500 }</string>	
+								<string>{ -33.833,-12.833 }</string>	
+								<string>{ -33.833,-25.500 }</string>
+							</array>
+							<array>	
+								<string>{ -113.500,40.500 }</string>	
+								<string>{ -131.500,24.500 }</string>	
+								<string>{ -38.500,20.500 }</string>	
+								<string>{ -76.500,36.500 }</string>
+							</array>
+							<array>	
+								<string>{ 110.500,39.500 }</string>	
+								<string>{ 75.500,36.500 }</string>	
+								<string>{ 50.167,23.167 }</string>	
+								<string>{ 125.500,27.500 }</string>
+							</array>
+							<array>	
+								<string>{ -76.500,36.500 }</string>	
+								<string>{ -38.500,20.500 }</string>	
+								<string>{ -17.500,36.500 }</string>	
+								<string>{ -40.833,37.500 }</string>
+							</array>
+							<array>	
+								<string>{ -38.500,20.500 }</string>	
+								<string>{ -29.500,2.500 }</string>	
+								<string>{ 30.167,-1.833 }</string>	
+								<string>{ 32.833,13.500 }</string>	
+								<string>{ 22.500,37.500 }</string>	
+								<string>{ -17.500,36.500 }</string>
+							</array>
+							<array>	
+								<string>{ 19.500,-45.500 }</string>	
+								<string>{ 28.167,-34.167 }</string>	
+								<string>{ -10.833,-49.500 }</string>	
+								<string>{ 4.500,-51.500 }</string>
+							</array>
+							<array>	
+								<string>{ 75.500,36.500 }</string>	
+								<string>{ 22.500,37.500 }</string>	
+								<string>{ 41.833,21.167 }</string>	
+								<string>{ 50.167,23.167 }</string>
+							</array>
+							<array>	
+								<string>{ 41.833,21.167 }</string>	
+								<string>{ 22.500,37.500 }</string>	
+								<string>{ 32.833,13.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>putns</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>5</real>
+                        <key>friction</key> <real>1</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -129.000,22.500 }</string>	
+								<string>{ -89.000,18.500 }</string>	
+								<string>{ -38.000,20.500 }</string>	
+								<string>{ -75.000,35.500 }</string>	
+								<string>{ -113.000,36.500 }</string>
+							</array>
+							<array>	
+								<string>{ -75.000,35.500 }</string>	
+								<string>{ -38.000,20.500 }</string>	
+								<string>{ -16.000,35.500 }</string>
+							</array>
+							<array>	
+								<string>{ -38.000,20.500 }</string>	
+								<string>{ -28.500,-1.000 }</string>	
+								<string>{ 27.000,0.500 }</string>	
+								<string>{ 40.000,20.500 }</string>	
+								<string>{ 24.000,34.500 }</string>	
+								<string>{ -16.000,35.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.500,-55.500 }</string>	
+								<string>{ 22.000,-47.500 }</string>	
+								<string>{ 33.500,-16.000 }</string>	
+								<string>{ 27.000,0.500 }</string>	
+								<string>{ -28.500,-1.000 }</string>	
+								<string>{ -34.000,-18.000 }</string>	
+								<string>{ -31.500,-32.500 }</string>	
+								<string>{ -22.000,-46.500 }</string>
+							</array>
+							<array>	
+								<string>{ 32.500,-33.000 }</string>	
+								<string>{ 33.500,-16.000 }</string>	
+								<string>{ 22.000,-47.500 }</string>
+							</array>
+							<array>	
+								<string>{ 111.000,36.500 }</string>	
+								<string>{ 72.000,34.500 }</string>	
+								<string>{ 40.000,20.500 }</string>	
+								<string>{ 128.000,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ 72.000,34.500 }</string>	
+								<string>{ 41.000,35.500 }</string>	
+								<string>{ 24.000,34.500 }</string>	
+								<string>{ 40.000,20.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps1</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -38.500,38.500 }</string>	
+								<string>{ -38.500,35.500 }</string>	
+								<string>{ -24.500,7.500 }</string>	
+								<string>{ -21.500,9.500 }</string>	
+								<string>{ -20.500,16.500 }</string>	
+								<string>{ -25.500,32.500 }</string>	
+								<string>{ -35.500,38.500 }</string>
+							</array>
+							<array>	
+								<string>{ 38.500,38.500 }</string>	
+								<string>{ 35.500,38.500 }</string>	
+								<string>{ 15.500,20.500 }</string>	
+								<string>{ 4.500,8.500 }</string>	
+								<string>{ 13.500,10.500 }</string>	
+								<string>{ 20.500,16.500 }</string>	
+								<string>{ 38.500,35.500 }</string>
+							</array>
+							<array>	
+								<string>{ -22.500,7.500 }</string>	
+								<string>{ -21.500,9.500 }</string>	
+								<string>{ -24.500,7.500 }</string>
+							</array>
+							<array>	
+								<string>{ -16.500,29.500 }</string>	
+								<string>{ -19.500,29.500 }</string>	
+								<string>{ -16.500,20.500 }</string>	
+								<string>{ -15.500,27.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.500,-6.500 }</string>	
+								<string>{ 21.500,-15.500 }</string>	
+								<string>{ 38.500,-35.500 }</string>	
+								<string>{ 24.500,-7.500 }</string>
+							</array>
+							<array>	
+								<string>{ -7.500,-21.500 }</string>	
+								<string>{ -15.500,-21.500 }</string>	
+								<string>{ -38.500,-35.500 }</string>	
+								<string>{ -37.500,-38.500 }</string>	
+								<string>{ -7.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ -7.500,22.500 }</string>	
+								<string>{ -8.500,25.500 }</string>	
+								<string>{ -15.500,27.500 }</string>	
+								<string>{ -16.500,20.500 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,-7.500 }</string>	
+								<string>{ -24.500,-7.500 }</string>	
+								<string>{ -38.500,-35.500 }</string>	
+								<string>{ -20.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -22.500,32.500 }</string>	
+								<string>{ -25.500,32.500 }</string>	
+								<string>{ -20.500,16.500 }</string>	
+								<string>{ -15.500,10.500 }</string>	
+								<string>{ -16.500,20.500 }</string>	
+								<string>{ -19.500,29.500 }</string>
+							</array>
+							<array>	
+								<string>{ 8.500,21.500 }</string>	
+								<string>{ 15.500,20.500 }</string>	
+								<string>{ 35.500,38.500 }</string>	
+								<string>{ 7.500,24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.500,8.500 }</string>	
+								<string>{ 24.500,7.500 }</string>	
+								<string>{ 38.500,35.500 }</string>	
+								<string>{ 20.500,16.500 }</string>
+							</array>
+							<array>	
+								<string>{ -1.500,9.500 }</string>	
+								<string>{ -3.500,7.500 }</string>	
+								<string>{ -8.500,-4.500 }</string>	
+								<string>{ 2.500,-7.500 }</string>	
+								<string>{ 4.500,-7.500 }</string>	
+								<string>{ 7.500,-3.500 }</string>	
+								<string>{ 7.500,4.500 }</string>	
+								<string>{ 4.500,8.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1.500,-9.500 }</string>	
+								<string>{ 2.500,-7.500 }</string>	
+								<string>{ -8.500,-4.500 }</string>	
+								<string>{ -5.500,-8.500 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,-21.500 }</string>	
+								<string>{ 6.500,-23.500 }</string>	
+								<string>{ 37.500,-38.500 }</string>	
+								<string>{ 38.500,-35.500 }</string>	
+								<string>{ 15.500,-21.500 }</string>
+							</array>
+							<array>	
+								<string>{ -10.500,-15.500 }</string>	
+								<string>{ -10.500,-13.500 }</string>	
+								<string>{ -20.500,-15.500 }</string>	
+								<string>{ -15.500,-19.500 }</string>
+							</array>
+							<array>	
+								<string>{ -16.500,20.500 }</string>	
+								<string>{ -15.500,10.500 }</string>	
+								<string>{ -13.500,10.500 }</string>	
+								<string>{ -14.500,20.500 }</string>
+							</array>
+							<array>	
+								<string>{ -14.500,20.500 }</string>	
+								<string>{ -13.500,10.500 }</string>	
+								<string>{ -8.500,5.500 }</string>	
+								<string>{ -3.500,7.500 }</string>
+							</array>
+							<array>	
+								<string>{ -8.500,5.500 }</string>	
+								<string>{ -8.500,-4.500 }</string>	
+								<string>{ -3.500,7.500 }</string>
+							</array>
+							<array>	
+								<string>{ 15.500,10.500 }</string>	
+								<string>{ 20.500,16.500 }</string>	
+								<string>{ 13.500,10.500 }</string>
+							</array>
+							<array>	
+								<string>{ 13.500,10.500 }</string>	
+								<string>{ 4.500,8.500 }</string>	
+								<string>{ 7.500,4.500 }</string>
+							</array>
+							<array>	
+								<string>{ 38.500,-35.500 }</string>	
+								<string>{ 21.500,-15.500 }</string>	
+								<string>{ 15.500,-19.500 }</string>	
+								<string>{ 15.500,-21.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.500,-15.500 }</string>	
+								<string>{ 7.500,-3.500 }</string>	
+								<string>{ 4.500,-7.500 }</string>	
+								<string>{ 15.500,-19.500 }</string>
+							</array>
+							<array>	
+								<string>{ -38.500,-35.500 }</string>	
+								<string>{ -15.500,-21.500 }</string>	
+								<string>{ -15.500,-19.500 }</string>	
+								<string>{ -20.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -20.500,-15.500 }</string>	
+								<string>{ -10.500,-13.500 }</string>	
+								<string>{ -5.500,-8.500 }</string>	
+								<string>{ -8.500,-4.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps2</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -38.500,-38.500 }</string>	
+								<string>{ -35.500,-38.500 }</string>	
+								<string>{ -36.500,-34.500 }</string>	
+								<string>{ -38.500,-35.500 }</string>
+							</array>
+							<array>	
+								<string>{ 38.500,38.500 }</string>	
+								<string>{ 35.500,38.500 }</string>	
+								<string>{ 34.500,36.500 }</string>	
+								<string>{ 38.500,35.500 }</string>
+							</array>
+							<array>	
+								<string>{ 19.500,-13.500 }</string>	
+								<string>{ 17.500,-13.500 }</string>	
+								<string>{ 15.500,-19.500 }</string>	
+								<string>{ 15.500,-21.500 }</string>	
+								<string>{ 19.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -38.500,38.500 }</string>	
+								<string>{ -38.500,34.500 }</string>	
+								<string>{ -36.500,34.500 }</string>	
+								<string>{ -34.500,36.500 }</string>	
+								<string>{ -34.500,38.500 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,-7.500 }</string>	
+								<string>{ -24.500,-8.500 }</string>	
+								<string>{ -36.500,-34.500 }</string>	
+								<string>{ -21.500,-12.500 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,21.500 }</string>	
+								<string>{ 11.500,21.500 }</string>	
+								<string>{ 34.500,36.500 }</string>	
+								<string>{ 6.500,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.500,-7.500 }</string>	
+								<string>{ 21.500,-15.500 }</string>	
+								<string>{ 38.500,-35.500 }</string>	
+								<string>{ 24.500,-7.500 }</string>
+							</array>
+							<array>	
+								<string>{ 7.500,-21.500 }</string>	
+								<string>{ 7.500,-24.500 }</string>	
+								<string>{ 37.500,-38.500 }</string>	
+								<string>{ 38.500,-35.500 }</string>	
+								<string>{ 15.500,-21.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.500,6.500 }</string>	
+								<string>{ 24.500,7.500 }</string>	
+								<string>{ 38.500,35.500 }</string>	
+								<string>{ 34.500,36.500 }</string>	
+								<string>{ 21.500,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -6.500,21.500 }</string>	
+								<string>{ -7.500,24.500 }</string>	
+								<string>{ -34.500,36.500 }</string>	
+								<string>{ -15.500,19.500 }</string>
+							</array>
+							<array>	
+								<string>{ -7.500,-21.500 }</string>	
+								<string>{ -15.500,-20.500 }</string>	
+								<string>{ -36.500,-34.500 }</string>	
+								<string>{ -35.500,-38.500 }</string>	
+								<string>{ -7.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 10.500,-16.500 }</string>	
+								<string>{ 13.500,-19.500 }</string>	
+								<string>{ 15.500,-19.500 }</string>	
+								<string>{ 17.500,-13.500 }</string>	
+								<string>{ 10.500,-13.500 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,6.500 }</string>	
+								<string>{ -21.500,12.500 }</string>	
+								<string>{ -36.500,34.500 }</string>	
+								<string>{ -23.500,6.500 }</string>
+							</array>
+							<array>	
+								<string>{ -11.500,17.500 }</string>	
+								<string>{ -15.500,19.500 }</string>	
+								<string>{ -19.500,15.500 }</string>	
+								<string>{ -19.500,13.500 }</string>	
+								<string>{ -12.500,9.500 }</string>	
+								<string>{ -11.500,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ 9.500,-1.500 }</string>	
+								<string>{ 8.500,4.500 }</string>	
+								<string>{ 5.500,8.500 }</string>	
+								<string>{ -3.500,7.500 }</string>	
+								<string>{ -7.500,4.500 }</string>	
+								<string>{ 7.500,-3.500 }</string>
+							</array>
+							<array>	
+								<string>{ -9.500,-2.500 }</string>	
+								<string>{ -7.500,-4.500 }</string>	
+								<string>{ 5.500,-8.500 }</string>	
+								<string>{ 7.500,-3.500 }</string>	
+								<string>{ -7.500,4.500 }</string>	
+								<string>{ -9.500,2.500 }</string>
+							</array>
+							<array>	
+								<string>{ -16.500,10.500 }</string>	
+								<string>{ -12.500,9.500 }</string>	
+								<string>{ -19.500,13.500 }</string>
+							</array>
+							<array>	
+								<string>{ 10.500,15.500 }</string>	
+								<string>{ 10.500,13.500 }</string>	
+								<string>{ 21.500,15.500 }</string>	
+								<string>{ 15.500,19.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.500,21.500 }</string>	
+								<string>{ 15.500,19.500 }</string>	
+								<string>{ 34.500,36.500 }</string>
+							</array>
+							<array>	
+								<string>{ 34.500,36.500 }</string>	
+								<string>{ 15.500,19.500 }</string>	
+								<string>{ 21.500,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.500,15.500 }</string>	
+								<string>{ 10.500,13.500 }</string>	
+								<string>{ 5.500,8.500 }</string>	
+								<string>{ 8.500,4.500 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,-12.500 }</string>	
+								<string>{ -36.500,-34.500 }</string>	
+								<string>{ -19.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -36.500,-34.500 }</string>	
+								<string>{ -15.500,-20.500 }</string>	
+								<string>{ -4.500,-8.500 }</string>	
+								<string>{ -7.500,-4.500 }</string>	
+								<string>{ -19.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -4.500,-8.500 }</string>	
+								<string>{ 5.500,-8.500 }</string>	
+								<string>{ -7.500,-4.500 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,12.500 }</string>	
+								<string>{ -19.500,15.500 }</string>	
+								<string>{ -34.500,36.500 }</string>	
+								<string>{ -36.500,34.500 }</string>
+							</array>
+							<array>	
+								<string>{ 38.500,-35.500 }</string>	
+								<string>{ 21.500,-15.500 }</string>	
+								<string>{ 19.500,-15.500 }</string>	
+								<string>{ 15.500,-21.500 }</string>
+							</array>
+							<array>	
+								<string>{ -34.500,36.500 }</string>	
+								<string>{ -19.500,15.500 }</string>	
+								<string>{ -15.500,19.500 }</string>
+							</array>
+							<array>	
+								<string>{ -11.500,15.500 }</string>	
+								<string>{ -12.500,9.500 }</string>	
+								<string>{ -7.500,4.500 }</string>	
+								<string>{ -3.500,7.500 }</string>
+							</array>
+							<array>	
+								<string>{ 5.500,-8.500 }</string>	
+								<string>{ 10.500,-13.500 }</string>	
+								<string>{ 17.500,-13.500 }</string>	
+								<string>{ 7.500,-3.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps3</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 46.500,-46.500 }</string>	
+								<string>{ 46.500,-43.500 }</string>	
+								<string>{ 28.500,-23.500 }</string>	
+								<string>{ 24.500,-28.500 }</string>	
+								<string>{ 43.500,-46.500 }</string>
+							</array>
+							<array>	
+								<string>{ 32.500,-11.500 }</string>	
+								<string>{ 34.500,-11.500 }</string>	
+								<string>{ 65.500,-0.500 }</string>	
+								<string>{ 35.500,-7.500 }</string>	
+								<string>{ 32.500,-9.500 }</string>
+							</array>
+							<array>	
+								<string>{ -30.500,-15.500 }</string>	
+								<string>{ -33.500,-16.500 }</string>	
+								<string>{ -46.500,-42.500 }</string>	
+								<string>{ -30.500,-20.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.500,-32.500 }</string>	
+								<string>{ 9.500,-32.500 }</string>	
+								<string>{ 5.500,-37.500 }</string>	
+								<string>{ -4.500,-53.500 }</string>	
+								<string>{ -1.500,-65.500 }</string>	
+								<string>{ 0.500,-65.500 }</string>	
+								<string>{ 11.500,-35.500 }</string>
+							</array>
+							<array>	
+								<string>{ -33.500,-11.500 }</string>	
+								<string>{ -33.500,-8.500 }</string>	
+								<string>{ -38.500,-3.500 }</string>	
+								<string>{ -43.500,-7.500 }</string>	
+								<string>{ -35.500,-11.500 }</string>
+							</array>
+							<array>	
+								<string>{ -11.500,33.500 }</string>	
+								<string>{ -9.500,33.500 }</string>	
+								<string>{ -3.500,38.500 }</string>	
+								<string>{ 1.500,65.500 }</string>	
+								<string>{ -1.500,66.500 }</string>	
+								<string>{ -11.500,36.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.500,33.500 }</string>	
+								<string>{ 11.500,36.500 }</string>	
+								<string>{ 9.500,38.500 }</string>	
+								<string>{ 3.500,38.500 }</string>	
+								<string>{ 9.500,33.500 }</string>
+							</array>
+							<array>	
+								<string>{ 65.500,1.500 }</string>	
+								<string>{ 63.500,2.500 }</string>	
+								<string>{ 38.500,3.500 }</string>	
+								<string>{ 7.500,3.500 }</string>	
+								<string>{ 10.500,-2.500 }</string>	
+								<string>{ 37.500,-3.500 }</string>	
+								<string>{ 65.500,-0.500 }</string>
+							</array>
+							<array>	
+								<string>{ -66.500,1.500 }</string>	
+								<string>{ -66.500,-0.500 }</string>	
+								<string>{ -38.500,-3.500 }</string>	
+								<string>{ -11.500,-2.500 }</string>	
+								<string>{ -8.500,3.500 }</string>	
+								<string>{ -38.500,3.500 }</string>	
+								<string>{ -64.500,2.500 }</string>
+							</array>
+							<array>	
+								<string>{ -11.500,-32.500 }</string>	
+								<string>{ -11.500,-36.500 }</string>	
+								<string>{ -6.500,-51.500 }</string>	
+								<string>{ -5.500,-37.500 }</string>	
+								<string>{ -9.500,-32.500 }</string>
+							</array>
+							<array>	
+								<string>{ -33.500,11.500 }</string>	
+								<string>{ -37.500,11.500 }</string>	
+								<string>{ -36.500,7.500 }</string>	
+								<string>{ -33.500,9.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,15.500 }</string>	
+								<string>{ 33.500,17.500 }</string>	
+								<string>{ 46.500,43.500 }</string>	
+								<string>{ 28.500,24.500 }</string>
+							</array>
+							<array>	
+								<string>{ -30.500,16.500 }</string>	
+								<string>{ -28.500,24.500 }</string>	
+								<string>{ -46.500,43.500 }</string>	
+								<string>{ -33.500,17.500 }</string>
+							</array>
+							<array>	
+								<string>{ -15.500,30.500 }</string>	
+								<string>{ -16.500,33.500 }</string>	
+								<string>{ -46.500,47.500 }</string>	
+								<string>{ -46.500,43.500 }</string>	
+								<string>{ -24.500,29.500 }</string>
+							</array>
+							<array>	
+								<string>{ 15.500,30.500 }</string>	
+								<string>{ 24.500,29.500 }</string>	
+								<string>{ 46.500,43.500 }</string>	
+								<string>{ 46.500,47.500 }</string>	
+								<string>{ 16.500,33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -16.500,-29.500 }</string>	
+								<string>{ -24.500,-28.500 }</string>	
+								<string>{ -46.500,-42.500 }</string>	
+								<string>{ -46.500,-46.500 }</string>	
+								<string>{ -16.500,-32.500 }</string>
+							</array>
+							<array>	
+								<string>{ -36.500,7.500 }</string>	
+								<string>{ -37.500,11.500 }</string>	
+								<string>{ -64.500,2.500 }</string>	
+								<string>{ -38.500,3.500 }</string>
+							</array>
+							<array>	
+								<string>{ 4.500,-9.500 }</string>	
+								<string>{ 8.500,-11.500 }</string>	
+								<string>{ 9.500,-5.500 }</string>	
+								<string>{ 4.500,-7.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.500,-29.500 }</string>	
+								<string>{ 15.500,-32.500 }</string>	
+								<string>{ 43.500,-46.500 }</string>	
+								<string>{ 24.500,-28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 32.500,9.500 }</string>	
+								<string>{ 38.500,3.500 }</string>	
+								<string>{ 63.500,2.500 }</string>	
+								<string>{ 33.500,12.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,-15.500 }</string>	
+								<string>{ 28.500,-23.500 }</string>	
+								<string>{ 46.500,-43.500 }</string>	
+								<string>{ 32.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ 9.500,38.500 }</string>	
+								<string>{ 1.500,65.500 }</string>	
+								<string>{ -3.500,38.500 }</string>
+							</array>
+							<array>	
+								<string>{ -43.500,-7.500 }</string>	
+								<string>{ -38.500,-3.500 }</string>	
+								<string>{ -66.500,-0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 24.500,-28.500 }</string>	
+								<string>{ 28.500,-23.500 }</string>	
+								<string>{ 9.500,-5.500 }</string>	
+								<string>{ 8.500,-11.500 }</string>	
+								<string>{ 8.500,-13.500 }</string>
+							</array>
+							<array>	
+								<string>{ -4.500,-53.500 }</string>	
+								<string>{ 5.500,-37.500 }</string>	
+								<string>{ -5.500,-37.500 }</string>	
+								<string>{ -6.500,-51.500 }</string>
+							</array>
+							<array>	
+								<string>{ -30.500,-20.500 }</string>	
+								<string>{ -46.500,-42.500 }</string>	
+								<string>{ -28.500,-23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -11.500,-2.500 }</string>	
+								<string>{ -10.500,-6.500 }</string>	
+								<string>{ -7.500,-10.500 }</string>	
+								<string>{ -5.500,-10.500 }</string>	
+								<string>{ 7.500,3.500 }</string>	
+								<string>{ 2.500,12.500 }</string>	
+								<string>{ -4.500,10.500 }</string>	
+								<string>{ -8.500,3.500 }</string>
+							</array>
+							<array>	
+								<string>{ -46.500,-42.500 }</string>	
+								<string>{ -24.500,-28.500 }</string>	
+								<string>{ -7.500,-10.500 }</string>	
+								<string>{ -10.500,-6.500 }</string>	
+								<string>{ -28.500,-23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -46.500,43.500 }</string>	
+								<string>{ -8.500,3.500 }</string>	
+								<string>{ -6.500,10.500 }</string>	
+								<string>{ -24.500,29.500 }</string>
+							</array>
+							<array>	
+								<string>{ -6.500,10.500 }</string>	
+								<string>{ -8.500,3.500 }</string>	
+								<string>{ -4.500,10.500 }</string>
+							</array>
+							<array>	
+								<string>{ 46.500,43.500 }</string>	
+								<string>{ 24.500,29.500 }</string>	
+								<string>{ 7.500,11.500 }</string>	
+								<string>{ 7.500,3.500 }</string>
+							</array>
+							<array>	
+								<string>{ 7.500,11.500 }</string>	
+								<string>{ 2.500,12.500 }</string>	
+								<string>{ 7.500,3.500 }</string>
+							</array>
+							<array>	
+								<string>{ 3.500,38.500 }</string>	
+								<string>{ -3.500,38.500 }</string>	
+								<string>{ -4.500,10.500 }</string>	
+								<string>{ 2.500,12.500 }</string>
+							</array>
+							<array>	
+								<string>{ -5.500,-10.500 }</string>	
+								<string>{ -3.500,-11.500 }</string>	
+								<string>{ 2.500,-7.500 }</string>	
+								<string>{ 7.500,3.500 }</string>
+							</array>
+							<array>	
+								<string>{ 35.500,-7.500 }</string>	
+								<string>{ 65.500,-0.500 }</string>	
+								<string>{ 37.500,-3.500 }</string>
+							</array>
+							<array>	
+								<string>{ 10.500,-2.500 }</string>	
+								<string>{ 7.500,3.500 }</string>	
+								<string>{ 2.500,-7.500 }</string>	
+								<string>{ 4.500,-7.500 }</string>	
+								<string>{ 9.500,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ -3.500,-37.500 }</string>	
+								<string>{ 3.500,-37.500 }</string>	
+								<string>{ 2.500,-7.500 }</string>	
+								<string>{ -3.500,-11.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps5</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 47.500,-47.500 }</string>	
+								<string>{ 47.500,-44.500 }</string>	
+								<string>{ 45.500,-43.500 }</string>	
+								<string>{ 44.500,-47.500 }</string>
+							</array>
+							<array>	
+								<string>{ -47.500,-47.500 }</string>	
+								<string>{ -44.500,-47.500 }</string>	
+								<string>{ -45.500,-43.500 }</string>	
+								<string>{ -47.500,-44.500 }</string>
+							</array>
+							<array>	
+								<string>{ 47.500,47.500 }</string>	
+								<string>{ 44.500,47.500 }</string>	
+								<string>{ 43.500,45.500 }</string>	
+								<string>{ 45.500,42.500 }</string>	
+								<string>{ 47.500,43.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,-16.500 }</string>	
+								<string>{ 30.500,-24.500 }</string>	
+								<string>{ 34.500,-21.500 }</string>	
+								<string>{ 34.500,-18.500 }</string>
+							</array>
+							<array>	
+								<string>{ -47.500,43.500 }</string>	
+								<string>{ -45.500,42.500 }</string>	
+								<string>{ -46.500,47.500 }</string>
+							</array>
+							<array>	
+								<string>{ 15.500,30.500 }</string>	
+								<string>{ 24.500,28.500 }</string>	
+								<string>{ 45.500,42.500 }</string>	
+								<string>{ 43.500,45.500 }</string>	
+								<string>{ 17.500,33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -30.500,15.500 }</string>	
+								<string>{ -29.500,23.500 }</string>	
+								<string>{ -45.500,42.500 }</string>	
+								<string>{ -33.500,16.500 }</string>
+							</array>
+							<array>	
+								<string>{ -30.500,-16.500 }</string>	
+								<string>{ -33.500,-17.500 }</string>	
+								<string>{ -45.500,-43.500 }</string>	
+								<string>{ -28.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,15.500 }</string>	
+								<string>{ 33.500,16.500 }</string>	
+								<string>{ 45.500,42.500 }</string>	
+								<string>{ 30.500,24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.500,-30.500 }</string>	
+								<string>{ 16.500,-33.500 }</string>	
+								<string>{ 44.500,-47.500 }</string>	
+								<string>{ 45.500,-43.500 }</string>	
+								<string>{ 24.500,-29.500 }</string>
+							</array>
+							<array>	
+								<string>{ -16.500,-30.500 }</string>	
+								<string>{ -24.500,-29.500 }</string>	
+								<string>{ -45.500,-43.500 }</string>	
+								<string>{ -44.500,-47.500 }</string>	
+								<string>{ -16.500,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1.500,-10.500 }</string>	
+								<string>{ 2.500,-8.500 }</string>	
+								<string>{ -4.500,-8.500 }</string>
+							</array>
+							<array>	
+								<string>{ -16.500,29.500 }</string>	
+								<string>{ -15.500,32.500 }</string>	
+								<string>{ -46.500,47.500 }</string>	
+								<string>{ -45.500,42.500 }</string>	
+								<string>{ -24.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 9.500,-1.500 }</string>	
+								<string>{ 8.500,4.500 }</string>	
+								<string>{ -3.500,7.500 }</string>	
+								<string>{ -8.500,4.500 }</string>	
+								<string>{ -8.500,-5.500 }</string>	
+								<string>{ -4.500,-8.500 }</string>	
+								<string>{ 2.500,-8.500 }</string>	
+								<string>{ 7.500,-4.500 }</string>
+							</array>
+							<array>	
+								<string>{ 34.500,-21.500 }</string>	
+								<string>{ 30.500,-24.500 }</string>	
+								<string>{ 24.500,-29.500 }</string>	
+								<string>{ 45.500,-43.500 }</string>
+							</array>
+							<array>	
+								<string>{ -25.500,19.500 }</string>	
+								<string>{ -23.500,19.500 }</string>	
+								<string>{ -24.500,28.500 }</string>	
+								<string>{ -45.500,42.500 }</string>	
+								<string>{ -29.500,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,-24.500 }</string>	
+								<string>{ 28.500,-24.500 }</string>	
+								<string>{ 24.500,-29.500 }</string>
+							</array>
+							<array>	
+								<string>{ 24.500,-29.500 }</string>	
+								<string>{ 28.500,-24.500 }</string>	
+								<string>{ 9.500,-4.500 }</string>	
+								<string>{ 7.500,-4.500 }</string>	
+								<string>{ 4.500,-8.500 }</string>
+							</array>
+							<array>	
+								<string>{ 4.500,-8.500 }</string>	
+								<string>{ 7.500,-4.500 }</string>	
+								<string>{ 2.500,-8.500 }</string>
+							</array>
+							<array>	
+								<string>{ -45.500,-43.500 }</string>	
+								<string>{ -24.500,-29.500 }</string>	
+								<string>{ -4.500,-8.500 }</string>	
+								<string>{ -8.500,-5.500 }</string>	
+								<string>{ -28.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 45.500,42.500 }</string>	
+								<string>{ 24.500,28.500 }</string>	
+								<string>{ 4.500,7.500 }</string>	
+								<string>{ 8.500,4.500 }</string>	
+								<string>{ 30.500,24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 4.500,7.500 }</string>	
+								<string>{ -3.500,7.500 }</string>	
+								<string>{ 8.500,4.500 }</string>
+							</array>
+							<array>	
+								<string>{ -8.500,4.500 }</string>	
+								<string>{ -3.500,7.500 }</string>	
+								<string>{ -24.500,28.500 }</string>	
+								<string>{ -23.500,19.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps6</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 45.500,47.500 }</string>	
+								<string>{ 44.500,45.500 }</string>	
+								<string>{ 47.500,43.500 }</string>	
+								<string>{ 47.500,46.500 }</string>
+							</array>
+							<array>	
+								<string>{ -47.500,-45.500 }</string>	
+								<string>{ -46.500,-47.500 }</string>	
+								<string>{ -43.500,-47.500 }</string>	
+								<string>{ -45.500,-44.500 }</string>
+							</array>
+							<array>	
+								<string>{ -44.500,47.500 }</string>	
+								<string>{ -47.500,45.500 }</string>	
+								<string>{ -43.500,45.500 }</string>
+							</array>
+							<array>	
+								<string>{ 44.500,-47.500 }</string>	
+								<string>{ 47.500,-46.500 }</string>	
+								<string>{ 43.500,-45.500 }</string>
+							</array>
+							<array>	
+								<string>{ -9.500,1.500 }</string>	
+								<string>{ -9.500,-2.500 }</string>	
+								<string>{ -7.500,-4.500 }</string>	
+								<string>{ 5.500,-8.500 }</string>	
+								<string>{ 8.500,-4.500 }</string>	
+								<string>{ -7.500,2.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,-16.500 }</string>	
+								<string>{ 29.500,-24.500 }</string>	
+								<string>{ 43.500,-45.500 }</string>	
+								<string>{ 47.500,-46.500 }</string>	
+								<string>{ 33.500,-16.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.500,29.500 }</string>	
+								<string>{ 25.500,29.500 }</string>	
+								<string>{ 44.500,45.500 }</string>	
+								<string>{ 16.500,32.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1.500,-10.500 }</string>	
+								<string>{ 5.500,-8.500 }</string>	
+								<string>{ -7.500,-4.500 }</string>	
+								<string>{ -4.500,-8.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,15.500 }</string>	
+								<string>{ 33.500,15.500 }</string>	
+								<string>{ 47.500,43.500 }</string>	
+								<string>{ 44.500,45.500 }</string>	
+								<string>{ 29.500,24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.500,-30.500 }</string>	
+								<string>{ 16.500,-33.500 }</string>	
+								<string>{ 43.500,-45.500 }</string>	
+								<string>{ 25.500,-29.500 }</string>
+							</array>
+							<array>	
+								<string>{ -15.500,-30.500 }</string>	
+								<string>{ -24.500,-29.500 }</string>	
+								<string>{ -45.500,-44.500 }</string>	
+								<string>{ -43.500,-47.500 }</string>	
+								<string>{ -15.500,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -29.500,-16.500 }</string>	
+								<string>{ -32.500,-16.500 }</string>	
+								<string>{ -45.500,-44.500 }</string>	
+								<string>{ -28.500,-25.500 }</string>
+							</array>
+							<array>	
+								<string>{ -29.500,16.500 }</string>	
+								<string>{ -28.500,24.500 }</string>	
+								<string>{ -43.500,45.500 }</string>	
+								<string>{ -47.500,45.500 }</string>	
+								<string>{ -32.500,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -16.500,29.500 }</string>	
+								<string>{ -15.500,32.500 }</string>	
+								<string>{ -43.500,45.500 }</string>	
+								<string>{ -24.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 25.500,18.500 }</string>	
+								<string>{ 29.500,22.500 }</string>	
+								<string>{ 29.500,24.500 }</string>	
+								<string>{ 25.500,29.500 }</string>	
+								<string>{ 22.500,18.500 }</string>
+							</array>
+							<array>	
+								<string>{ -18.500,-25.500 }</string>	
+								<string>{ -18.500,-22.500 }</string>	
+								<string>{ -28.500,-25.500 }</string>	
+								<string>{ -24.500,-29.500 }</string>	
+								<string>{ -22.500,-29.500 }</string>
+							</array>
+							<array>	
+								<string>{ -22.500,28.500 }</string>	
+								<string>{ -24.500,28.500 }</string>	
+								<string>{ -28.500,24.500 }</string>	
+								<string>{ -19.500,23.500 }</string>	
+								<string>{ -19.500,25.500 }</string>
+							</array>
+							<array>	
+								<string>{ 44.500,45.500 }</string>	
+								<string>{ 25.500,29.500 }</string>	
+								<string>{ 29.500,24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 25.500,29.500 }</string>	
+								<string>{ 4.500,7.500 }</string>	
+								<string>{ 8.500,4.500 }</string>	
+								<string>{ 22.500,18.500 }</string>
+							</array>
+							<array>	
+								<string>{ 8.500,4.500 }</string>	
+								<string>{ 4.500,7.500 }</string>	
+								<string>{ -3.500,7.500 }</string>	
+								<string>{ -7.500,4.500 }</string>	
+								<string>{ -7.500,2.500 }</string>	
+								<string>{ 8.500,-4.500 }</string>
+							</array>
+							<array>	
+								<string>{ -45.500,-44.500 }</string>	
+								<string>{ -24.500,-29.500 }</string>	
+								<string>{ -28.500,-25.500 }</string>
+							</array>
+							<array>	
+								<string>{ -28.500,-25.500 }</string>	
+								<string>{ -18.500,-22.500 }</string>	
+								<string>{ -4.500,-8.500 }</string>	
+								<string>{ -7.500,-4.500 }</string>
+							</array>
+							<array>	
+								<string>{ -43.500,45.500 }</string>	
+								<string>{ -28.500,24.500 }</string>	
+								<string>{ -24.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ -28.500,24.500 }</string>	
+								<string>{ -7.500,4.500 }</string>	
+								<string>{ -3.500,7.500 }</string>	
+								<string>{ -19.500,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 8.500,-4.500 }</string>	
+								<string>{ 5.500,-8.500 }</string>	
+								<string>{ 25.500,-29.500 }</string>	
+								<string>{ 43.500,-45.500 }</string>	
+								<string>{ 29.500,-24.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps7</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>CIRCLE</string>
+
+                         <key>circle</key>
+                         <dict>
+                             <key>radius</key> <real>40.012</real>
+                             <key>position</key> <string>{ -2.000,23.500 }</string>
+                         </dict>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps8</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>CIRCLE</string>
+
+                         <key>circle</key>
+                         <dict>
+                             <key>radius</key> <real>43.012</real>
+                             <key>position</key> <string>{ 0.000,22.500 }</string>
+                         </dict>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps9</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 42.000,43.500 }</string>	
+								<string>{ 0.000,28.500 }</string>	
+								<string>{ -34.000,3.500 }</string>	
+								<string>{ 37.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ -39.000,52.500 }</string>	
+								<string>{ -34.000,3.500 }</string>	
+								<string>{ 0.000,28.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>skeps10</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.2</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -16.000,34.500 }</string>	
+								<string>{ -18.000,34.500 }</string>	
+								<string>{ -23.000,33.500 }</string>	
+								<string>{ -16.000,31.500 }</string>
+							</array>
+							<array>	
+								<string>{ 37.000,40.500 }</string>	
+								<string>{ 27.000,19.500 }</string>	
+								<string>{ 30.000,13.500 }</string>	
+								<string>{ 40.000,39.500 }</string>
+							</array>
+							<array>	
+								<string>{ -29.000,-41.500 }</string>	
+								<string>{ -26.000,-41.500 }</string>	
+								<string>{ -23.000,-37.500 }</string>	
+								<string>{ -26.000,-33.500 }</string>	
+								<string>{ -30.000,-37.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.000,-49.500 }</string>	
+								<string>{ 18.000,-45.500 }</string>	
+								<string>{ 14.000,-47.500 }</string>	
+								<string>{ 16.000,-53.500 }</string>	
+								<string>{ 19.000,-53.500 }</string>
+							</array>
+							<array>	
+								<string>{ 27.000,12.500 }</string>	
+								<string>{ 30.000,13.500 }</string>	
+								<string>{ 27.000,19.500 }</string>
+							</array>
+							<array>	
+								<string>{ 41.000,-17.500 }</string>	
+								<string>{ 37.000,-14.500 }</string>	
+								<string>{ 39.000,-23.500 }</string>	
+								<string>{ 41.000,-22.500 }</string>
+							</array>
+							<array>	
+								<string>{ 33.000,-35.500 }</string>	
+								<string>{ 33.000,-28.500 }</string>	
+								<string>{ 24.000,-38.500 }</string>	
+								<string>{ 28.000,-39.500 }</string>
+							</array>
+							<array>	
+								<string>{ -31.000,23.500 }</string>	
+								<string>{ -30.000,29.500 }</string>	
+								<string>{ -36.000,53.500 }</string>	
+								<string>{ -38.000,53.500 }</string>	
+								<string>{ -34.000,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 14.000,23.500 }</string>	
+								<string>{ 21.000,24.500 }</string>	
+								<string>{ 23.000,30.500 }</string>	
+								<string>{ 14.000,26.500 }</string>
+							</array>
+							<array>	
+								<string>{ -41.000,-15.500 }</string>	
+								<string>{ -37.000,-18.500 }</string>	
+								<string>{ -34.000,-5.500 }</string>	
+								<string>{ -38.000,-6.500 }</string>	
+								<string>{ -41.000,-9.500 }</string>
+							</array>
+							<array>	
+								<string>{ 31.000,7.500 }</string>	
+								<string>{ 25.000,11.500 }</string>	
+								<string>{ 21.000,11.500 }</string>	
+								<string>{ 18.000,9.500 }</string>	
+								<string>{ 23.000,-41.500 }</string>	
+								<string>{ 24.000,-38.500 }</string>	
+								<string>{ 32.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.000,21.500 }</string>	
+								<string>{ 4.000,25.500 }</string>	
+								<string>{ -2.000,24.500 }</string>	
+								<string>{ -5.000,21.500 }</string>	
+								<string>{ 13.000,14.500 }</string>
+							</array>
+							<array>	
+								<string>{ 39.000,-5.500 }</string>	
+								<string>{ 35.000,0.500 }</string>	
+								<string>{ 32.000,0.500 }</string>	
+								<string>{ 24.000,-38.500 }</string>	
+								<string>{ 33.000,-28.500 }</string>	
+								<string>{ 37.000,-14.500 }</string>
+							</array>
+							<array>	
+								<string>{ -31.000,-31.500 }</string>	
+								<string>{ -27.000,-30.500 }</string>	
+								<string>{ -23.000,11.500 }</string>	
+								<string>{ -34.000,-5.500 }</string>	
+								<string>{ -37.000,-18.500 }</string>	
+								<string>{ -37.000,-26.500 }</string>	
+								<string>{ -35.000,-29.500 }</string>
+							</array>
+							<array>	
+								<string>{ 14.000,-47.500 }</string>	
+								<string>{ 18.000,-45.500 }</string>	
+								<string>{ 23.000,-41.500 }</string>	
+								<string>{ 6.000,-42.500 }</string>
+							</array>
+							<array>	
+								<string>{ -27.000,25.500 }</string>	
+								<string>{ -25.000,24.500 }</string>	
+								<string>{ -19.000,22.500 }</string>	
+								<string>{ -23.000,33.500 }</string>	
+								<string>{ -28.000,29.500 }</string>
+							</array>
+							<array>	
+								<string>{ -37.000,-1.500 }</string>	
+								<string>{ -34.000,-5.500 }</string>	
+								<string>{ -23.000,11.500 }</string>	
+								<string>{ -31.000,11.500 }</string>	
+								<string>{ -35.000,8.500 }</string>	
+								<string>{ -37.000,4.500 }</string>
+							</array>
+							<array>	
+								<string>{ -9.000,24.500 }</string>	
+								<string>{ -15.000,24.500 }</string>	
+								<string>{ -19.000,22.500 }</string>	
+								<string>{ -5.000,21.500 }</string>
+							</array>
+							<array>	
+								<string>{ -23.000,-37.500 }</string>	
+								<string>{ -13.000,-38.500 }</string>	
+								<string>{ -8.000,-35.500 }</string>	
+								<string>{ -23.000,11.500 }</string>	
+								<string>{ -27.000,-30.500 }</string>	
+								<string>{ -26.000,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -7.000,-39.500 }</string>	
+								<string>{ -4.000,-42.500 }</string>	
+								<string>{ 6.000,-42.500 }</string>	
+								<string>{ 23.000,-41.500 }</string>	
+								<string>{ -8.000,-35.500 }</string>
+							</array>
+							<array>	
+								<string>{ 17.000,19.500 }</string>	
+								<string>{ 15.000,14.500 }</string>	
+								<string>{ 18.000,11.500 }</string>	
+								<string>{ 21.000,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ 39.000,-25.500 }</string>	
+								<string>{ 39.000,-23.500 }</string>	
+								<string>{ 37.000,-14.500 }</string>	
+								<string>{ 33.000,-28.500 }</string>
+							</array>
+							<array>	
+								<string>{ -18.000,34.500 }</string>	
+								<string>{ -36.000,53.500 }</string>	
+								<string>{ -23.000,33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -8.000,-35.500 }</string>	
+								<string>{ 23.000,-41.500 }</string>	
+								<string>{ 18.000,9.500 }</string>	
+								<string>{ 15.000,14.500 }</string>	
+								<string>{ 13.000,14.500 }</string>	
+								<string>{ -23.000,11.500 }</string>
+							</array>
+							<array>	
+								<string>{ 25.000,17.500 }</string>	
+								<string>{ 25.000,19.500 }</string>	
+								<string>{ 24.000,32.500 }</string>	
+								<string>{ 18.000,11.500 }</string>
+							</array>
+							<array>	
+								<string>{ 36.000,38.500 }</string>	
+								<string>{ 24.000,32.500 }</string>	
+								<string>{ 25.000,19.500 }</string>	
+								<string>{ 27.000,19.500 }</string>
+							</array>
+							<array>	
+								<string>{ -5.000,21.500 }</string>	
+								<string>{ -19.000,22.500 }</string>	
+								<string>{ -22.000,18.500 }</string>	
+								<string>{ -23.000,11.500 }</string>	
+								<string>{ 13.000,14.500 }</string>
+							</array>
+							<array>	
+								<string>{ -36.000,53.500 }</string>	
+								<string>{ -30.000,29.500 }</string>	
+								<string>{ -28.000,29.500 }</string>	
+								<string>{ -23.000,33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -25.000,24.500 }</string>	
+								<string>{ -22.000,18.500 }</string>	
+								<string>{ -19.000,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.000,24.500 }</string>	
+								<string>{ 21.000,22.500 }</string>	
+								<string>{ 24.000,32.500 }</string>	
+								<string>{ 23.000,30.500 }</string>
+							</array>
+							<array>	
+								<string>{ 18.000,9.500 }</string>	
+								<string>{ 18.000,11.500 }</string>	
+								<string>{ 15.000,14.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>whale</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>20</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0.3</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 54.500,-4.500 }</string>	
+								<string>{ 64.000,15.500 }</string>	
+								<string>{ -73.000,43.500 }</string>	
+								<string>{ -67.500,17.000 }</string>	
+								<string>{ -48.000,-13.000 }</string>	
+								<string>{ -10.000,-32.500 }</string>	
+								<string>{ 14.000,-30.500 }</string>	
+								<string>{ 36.000,-20.000 }</string>
+							</array>
+							<array>	
+								<string>{ 69.000,43.500 }</string>	
+								<string>{ -73.000,43.500 }</string>	
+								<string>{ 64.000,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -63.000,2.500 }</string>	
+								<string>{ -48.000,-13.000 }</string>	
+								<string>{ -67.500,17.000 }</string>
+							</array>
+							<array>	
+								<string>{ -30.500,-26.500 }</string>	
+								<string>{ -10.000,-32.500 }</string>	
+								<string>{ -48.000,-13.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick1</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.3</real>
+                        <key>restitution</key> <real>0.5</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 77.500,14.500 }</string>	
+								<string>{ 72.500,14.500 }</string>	
+								<string>{ -30.500,7.500 }</string>	
+								<string>{ 78.500,7.500 }</string>	
+								<string>{ 79.500,10.500 }</string>
+							</array>
+							<array>	
+								<string>{ -80.500,10.500 }</string>	
+								<string>{ -78.500,7.500 }</string>	
+								<string>{ -30.500,7.500 }</string>	
+								<string>{ -70.500,14.500 }</string>	
+								<string>{ -78.500,14.500 }</string>
+							</array>
+							<array>	
+								<string>{ -70.500,14.500 }</string>	
+								<string>{ -30.500,7.500 }</string>	
+								<string>{ 72.500,14.500 }</string>	
+								<string>{ 71.500,21.500 }</string>	
+								<string>{ -70.500,21.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick2</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -59.500,20.500 }</string>	
+								<string>{ 53.500,21.500 }</string>	
+								<string>{ 64.500,36.500 }</string>	
+								<string>{ -64.500,36.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick3</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.05</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 70.500,20.500 }</string>	
+								<string>{ 40.500,18.500 }</string>	
+								<string>{ 17.500,15.500 }</string>	
+								<string>{ 24.500,-8.500 }</string>	
+								<string>{ 65.500,5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 17.500,15.500 }</string>	
+								<string>{ -6.500,18.500 }</string>	
+								<string>{ -72.500,21.500 }</string>	
+								<string>{ -67.500,5.500 }</string>	
+								<string>{ -32.500,-8.500 }</string>	
+								<string>{ 24.500,-8.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick4</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>1</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 82.500,-8.000 }</string>	
+								<string>{ 81.500,34.000 }</string>	
+								<string>{ 78.500,36.000 }</string>	
+								<string>{ -81.500,-10.000 }</string>	
+								<string>{ -77.500,-13.000 }</string>	
+								<string>{ 77.500,-12.000 }</string>
+							</array>
+							<array>	
+								<string>{ -81.500,30.000 }</string>	
+								<string>{ -81.500,-10.000 }</string>	
+								<string>{ 78.500,36.000 }</string>	
+								<string>{ -76.500,36.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick5</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>1</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 79.500,4.000 }</string>	
+								<string>{ 79.500,11.000 }</string>	
+								<string>{ 68.500,11.000 }</string>	
+								<string>{ 71.500,4.000 }</string>
+							</array>
+							<array>	
+								<string>{ -80.500,4.000 }</string>	
+								<string>{ -73.000,3.500 }</string>	
+								<string>{ -74.500,12.000 }</string>	
+								<string>{ -80.500,11.000 }</string>
+							</array>
+							<array>	
+								<string>{ 71.500,4.000 }</string>	
+								<string>{ 68.500,11.000 }</string>	
+								<string>{ -73.000,3.500 }</string>	
+								<string>{ -73.500,-5.000 }</string>	
+								<string>{ 70.500,-5.000 }</string>
+							</array>
+							<array>	
+								<string>{ 68.500,18.000 }</string>	
+								<string>{ 66.500,20.000 }</string>	
+								<string>{ -74.500,20.000 }</string>	
+								<string>{ -73.000,3.500 }</string>	
+								<string>{ 68.500,11.000 }</string>
+							</array>
+							<array>	
+								<string>{ -74.500,12.000 }</string>	
+								<string>{ -73.000,3.500 }</string>	
+								<string>{ -74.500,20.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>tree1</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -30.500,12.500 }</string>	
+								<string>{ -5.500,24.500 }</string>	
+								<string>{ 11.833,36.500 }</string>	
+								<string>{ 16.500,46.500 }</string>	
+								<string>{ 16.500,50.500 }</string>	
+								<string>{ -50.167,24.167 }</string>
+							</array>
+							<array>	
+								<string>{ -75.500,34.833 }</string>	
+								<string>{ -60.500,28.167 }</string>	
+								<string>{ -50.167,24.167 }</string>	
+								<string>{ 16.500,50.500 }</string>	
+								<string>{ -82.500,49.500 }</string>	
+								<string>{ -82.833,44.833 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>tree2</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -45.000,-90.000 }</string>	
+								<string>{ -28.000,-76.500 }</string>	
+								<string>{ -15.000,-59.000 }</string>	
+								<string>{ -9.000,-39.500 }</string>	
+								<string>{ -44.000,-56.000 }</string>
+							</array>
+							<array>	
+								<string>{ -45.000,68.000 }</string>	
+								<string>{ -23.000,53.500 }</string>	
+								<string>{ 14.500,61.500 }</string>	
+								<string>{ 35.000,84.000 }</string>	
+								<string>{ 33.000,90.000 }</string>	
+								<string>{ -45.000,89.000 }</string>
+							</array>
+							<array>	
+								<string>{ 4.000,50.000 }</string>	
+								<string>{ 14.500,61.500 }</string>	
+								<string>{ -23.000,53.500 }</string>	
+								<string>{ -17.500,45.000 }</string>
+							</array>
+							<array>	
+								<string>{ -23.000,53.500 }</string>	
+								<string>{ -28.500,33.000 }</string>	
+								<string>{ -27.000,10.500 }</string>	
+								<string>{ -19.000,27.000 }</string>	
+								<string>{ -17.500,45.000 }</string>
+							</array>
+							<array>	
+								<string>{ -19.000,27.000 }</string>	
+								<string>{ -27.000,10.500 }</string>	
+								<string>{ -24.000,-3.000 }</string>	
+								<string>{ -17.000,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -17.000,15.500 }</string>	
+								<string>{ -24.000,-3.000 }</string>	
+								<string>{ -24.500,-30.500 }</string>	
+								<string>{ -9.000,-39.500 }</string>	
+								<string>{ -12.000,-11.000 }</string>
+							</array>
+							<array>	
+								<string>{ -24.500,-30.500 }</string>	
+								<string>{ -36.000,-52.000 }</string>	
+								<string>{ -9.000,-39.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>tree3</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>CIRCLE</string>
+
+                         <key>circle</key>
+                         <dict>
+                             <key>radius</key> <real>37.014</real>
+                             <key>position</key> <string>{ 11.000,37.000 }</string>
+                         </dict>
+                    </dict>
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>CIRCLE</string>
+
+                         <key>circle</key>
+                         <dict>
+                             <key>radius</key> <real>14.560</real>
+                             <key>position</key> <string>{ -24.000,28.500 }</string>
+                         </dict>
+                    </dict>
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 39.500,12.000 }</string>	
+								<string>{ 31.500,6.000 }</string>	
+								<string>{ 40.500,-26.000 }</string>	
+								<string>{ 47.500,-7.000 }</string>
+							</array>
+							<array>	
+								<string>{ 36.500,-61.000 }</string>	
+								<string>{ 46.500,-84.000 }</string>	
+								<string>{ 47.500,-7.000 }</string>	
+								<string>{ 40.500,-26.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>tree4</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.2</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -38.500,95.500 }</string>	
+								<string>{ -5.500,70.500 }</string>	
+								<string>{ 71.500,95.500 }</string>	
+								<string>{ 68.500,101.500 }</string>	
+								<string>{ -36.500,101.500 }</string>
+							</array>
+							<array>	
+								<string>{ 44.500,71.500 }</string>	
+								<string>{ 71.500,95.500 }</string>	
+								<string>{ -5.500,70.500 }</string>
+							</array>
+						</array>
+                    </dict>
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.9</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>CIRCLE</string>
+
+                         <key>circle</key>
+                         <dict>
+                             <key>radius</key> <real>15.000</real>
+                             <key>position</key> <string>{ -17.000,22.500 }</string>
+                         </dict>
+                    </dict>
+				</array>
+			</dict>
+			<key>tree5</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.7</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 74.000,61.500 }</string>	
+								<string>{ 74.000,100.500 }</string>	
+								<string>{ -70.000,99.500 }</string>	
+								<string>{ -53.000,75.500 }</string>	
+								<string>{ -16.000,58.500 }</string>	
+								<string>{ 17.000,47.000 }</string>	
+								<string>{ 52.000,49.500 }</string>
+							</array>
+							<array>	
+								<string>{ -71.500,92.500 }</string>	
+								<string>{ -53.000,75.500 }</string>	
+								<string>{ -70.000,99.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick6</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.6</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -14.500,-39.500 }</string>	
+								<string>{ -6.500,-40.500 }</string>	
+								<string>{ 6.500,-10.500 }</string>	
+								<string>{ -16.500,-31.500 }</string>
+							</array>
+							<array>	
+								<string>{ 105.500,27.500 }</string>	
+								<string>{ 106.500,30.500 }</string>	
+								<string>{ 107.500,40.500 }</string>	
+								<string>{ 52.500,40.500 }</string>	
+								<string>{ 46.500,37.500 }</string>	
+								<string>{ 103.500,27.500 }</string>
+							</array>
+							<array>	
+								<string>{ 110.500,33.500 }</string>	
+								<string>{ 110.500,37.500 }</string>	
+								<string>{ 107.500,40.500 }</string>	
+								<string>{ 106.500,30.500 }</string>
+							</array>
+							<array>	
+								<string>{ 65.500,-8.500 }</string>	
+								<string>{ 71.500,1.500 }</string>	
+								<string>{ 71.500,5.500 }</string>	
+								<string>{ 34.500,2.500 }</string>	
+								<string>{ 40.500,-3.500 }</string>
+							</array>
+							<array>	
+								<string>{ -109.500,39.500 }</string>	
+								<string>{ -110.500,35.500 }</string>	
+								<string>{ -102.500,27.500 }</string>	
+								<string>{ -73.500,19.500 }</string>	
+								<string>{ -41.500,40.500 }</string>	
+								<string>{ -107.500,40.500 }</string>
+							</array>
+							<array>	
+								<string>{ -73.500,19.500 }</string>	
+								<string>{ -59.500,-3.500 }</string>	
+								<string>{ -45.500,-7.500 }</string>	
+								<string>{ -36.500,35.500 }</string>	
+								<string>{ -41.500,40.500 }</string>
+							</array>
+							<array>	
+								<string>{ -50.500,-7.500 }</string>	
+								<string>{ -45.500,-7.500 }</string>	
+								<string>{ -52.500,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 26.500,-4.500 }</string>	
+								<string>{ 30.500,-2.500 }</string>	
+								<string>{ 34.500,2.500 }</string>	
+								<string>{ -36.500,35.500 }</string>	
+								<string>{ 22.500,-4.500 }</string>
+							</array>
+							<array>	
+								<string>{ 98.500,19.500 }</string>	
+								<string>{ 103.500,25.500 }</string>	
+								<string>{ 103.500,27.500 }</string>	
+								<string>{ -32.500,36.500 }</string>	
+								<string>{ -36.500,35.500 }</string>	
+								<string>{ 79.500,16.500 }</string>
+							</array>
+							<array>	
+								<string>{ 74.500,6.500 }</string>	
+								<string>{ 79.500,16.500 }</string>	
+								<string>{ -36.500,35.500 }</string>	
+								<string>{ 34.500,2.500 }</string>	
+								<string>{ 71.500,5.500 }</string>
+							</array>
+							<array>	
+								<string>{ -27.500,40.500 }</string>	
+								<string>{ -32.500,36.500 }</string>	
+								<string>{ 103.500,27.500 }</string>	
+								<string>{ 46.500,37.500 }</string>	
+								<string>{ 3.500,40.500 }</string>
+							</array>
+							<array>	
+								<string>{ -18.500,-30.500 }</string>	
+								<string>{ -16.500,-31.500 }</string>	
+								<string>{ 6.500,-10.500 }</string>	
+								<string>{ -22.500,-18.500 }</string>
+							</array>
+							<array>	
+								<string>{ -42.500,-10.500 }</string>	
+								<string>{ -24.500,-16.500 }</string>	
+								<string>{ 6.500,-10.500 }</string>	
+								<string>{ 20.500,-6.500 }</string>	
+								<string>{ 22.500,-4.500 }</string>	
+								<string>{ -36.500,35.500 }</string>	
+								<string>{ -45.500,-7.500 }</string>
+							</array>
+							<array>	
+								<string>{ -22.500,-18.500 }</string>	
+								<string>{ 6.500,-10.500 }</string>	
+								<string>{ -24.500,-16.500 }</string>
+							</array>
+							<array>	
+								<string>{ 43.500,40.500 }</string>	
+								<string>{ 3.500,40.500 }</string>	
+								<string>{ 46.500,37.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick7</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.6</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -10.500,-22.500 }</string>	
+								<string>{ -7.500,-23.500 }</string>	
+								<string>{ 26.500,-12.500 }</string>	
+								<string>{ 45.500,5.500 }</string>	
+								<string>{ -10.500,-20.500 }</string>
+							</array>
+							<array>	
+								<string>{ 48.500,6.500 }</string>	
+								<string>{ 49.500,10.500 }</string>	
+								<string>{ -47.500,9.500 }</string>	
+								<string>{ 45.500,5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 45.500,1.500 }</string>	
+								<string>{ 45.500,5.500 }</string>	
+								<string>{ 26.500,-12.500 }</string>	
+								<string>{ 42.500,-1.500 }</string>
+							</array>
+							<array>	
+								<string>{ -40.500,-3.500 }</string>	
+								<string>{ -37.500,-6.500 }</string>	
+								<string>{ -17.500,-17.500 }</string>	
+								<string>{ -40.500,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 110.500,44.500 }</string>	
+								<string>{ 110.500,50.500 }</string>	
+								<string>{ 107.500,52.500 }</string>	
+								<string>{ 47.500,52.500 }</string>	
+								<string>{ 99.500,39.500 }</string>
+							</array>
+							<array>	
+								<string>{ 95.500,28.500 }</string>	
+								<string>{ 99.500,36.500 }</string>	
+								<string>{ 99.500,39.500 }</string>	
+								<string>{ 47.500,52.500 }</string>	
+								<string>{ 28.500,52.500 }</string>	
+								<string>{ 82.500,25.500 }</string>	
+								<string>{ 88.500,25.500 }</string>
+							</array>
+							<array>	
+								<string>{ -102.500,29.500 }</string>	
+								<string>{ -92.500,26.500 }</string>	
+								<string>{ -50.500,52.500 }</string>	
+								<string>{ -104.500,52.500 }</string>	
+								<string>{ -110.500,47.500 }</string>	
+								<string>{ -110.500,43.500 }</string>
+							</array>
+							<array>	
+								<string>{ -1.500,-43.500 }</string>	
+								<string>{ 7.500,-51.500 }</string>	
+								<string>{ 11.500,-51.500 }</string>	
+								<string>{ 20.500,-31.500 }</string>	
+								<string>{ -4.500,-27.500 }</string>
+							</array>
+							<array>	
+								<string>{ 18.500,-44.500 }</string>	
+								<string>{ 20.500,-31.500 }</string>	
+								<string>{ 11.500,-51.500 }</string>
+							</array>
+							<array>	
+								<string>{ 81.500,23.500 }</string>	
+								<string>{ 82.500,25.500 }</string>	
+								<string>{ 28.500,52.500 }</string>	
+								<string>{ -87.500,20.500 }</string>	
+								<string>{ -84.500,19.500 }</string>	
+								<string>{ -54.500,12.500 }</string>	
+								<string>{ 76.500,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ -35.500,-12.500 }</string>	
+								<string>{ -31.500,-15.500 }</string>	
+								<string>{ -17.500,-17.500 }</string>	
+								<string>{ -37.500,-6.500 }</string>
+							</array>
+							<array>	
+								<string>{ 70.500,15.500 }</string>	
+								<string>{ 76.500,22.500 }</string>	
+								<string>{ -54.500,12.500 }</string>	
+								<string>{ -52.500,10.500 }</string>	
+								<string>{ -47.500,9.500 }</string>	
+								<string>{ 52.500,13.500 }</string>
+							</array>
+							<array>	
+								<string>{ -13.500,-20.500 }</string>	
+								<string>{ -10.500,-20.500 }</string>	
+								<string>{ 45.500,5.500 }</string>	
+								<string>{ -47.500,9.500 }</string>	
+								<string>{ -40.500,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ -76.500,9.500 }</string>	
+								<string>{ -70.500,8.500 }</string>	
+								<string>{ -54.500,12.500 }</string>	
+								<string>{ -84.500,19.500 }</string>	
+								<string>{ -84.500,17.500 }</string>
+							</array>
+							<array>	
+								<string>{ -44.500,3.500 }</string>	
+								<string>{ -40.500,0.500 }</string>	
+								<string>{ -47.500,9.500 }</string>
+							</array>
+							<array>	
+								<string>{ -92.500,26.500 }</string>	
+								<string>{ -87.500,20.500 }</string>	
+								<string>{ 28.500,52.500 }</string>	
+								<string>{ -50.500,52.500 }</string>
+							</array>
+							<array>	
+								<string>{ -4.500,-27.500 }</string>	
+								<string>{ 20.500,-31.500 }</string>	
+								<string>{ 22.500,-30.500 }</string>	
+								<string>{ 26.500,-12.500 }</string>	
+								<string>{ -7.500,-23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 42.500,-3.500 }</string>	
+								<string>{ 42.500,-1.500 }</string>	
+								<string>{ 26.500,-12.500 }</string>
+							</array>
+							<array>	
+								<string>{ 49.500,10.500 }</string>	
+								<string>{ 52.500,13.500 }</string>	
+								<string>{ -47.500,9.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick8</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.6</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -105.500,44.500 }</string>	
+								<string>{ -105.500,41.500 }</string>	
+								<string>{ -87.500,28.500 }</string>	
+								<string>{ -48.500,3.500 }</string>	
+								<string>{ 66.500,24.500 }</string>	
+								<string>{ 69.500,25.500 }</string>	
+								<string>{ 102.500,47.500 }</string>	
+								<string>{ -103.500,45.500 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,-47.500 }</string>	
+								<string>{ -19.500,-33.500 }</string>	
+								<string>{ -20.500,-27.500 }</string>	
+								<string>{ -35.500,-25.500 }</string>	
+								<string>{ -37.500,-26.500 }</string>	
+								<string>{ -37.500,-31.500 }</string>	
+								<string>{ -29.500,-48.500 }</string>
+							</array>
+							<array>	
+								<string>{ -14.500,-11.500 }</string>	
+								<string>{ -12.500,-9.500 }</string>	
+								<string>{ -9.500,-2.500 }</string>	
+								<string>{ -46.500,1.500 }</string>	
+								<string>{ -17.500,-11.500 }</string>
+							</array>
+							<array>	
+								<string>{ -83.500,19.500 }</string>	
+								<string>{ -81.500,18.500 }</string>	
+								<string>{ -83.500,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -69.500,8.500 }</string>	
+								<string>{ -64.500,9.500 }</string>	
+								<string>{ -83.500,23.500 }</string>	
+								<string>{ -81.500,18.500 }</string>	
+								<string>{ -72.500,10.500 }</string>
+							</array>
+							<array>	
+								<string>{ -76.500,10.500 }</string>	
+								<string>{ -72.500,10.500 }</string>	
+								<string>{ -81.500,18.500 }</string>	
+								<string>{ -80.500,14.500 }</string>
+							</array>
+							<array>	
+								<string>{ -85.500,23.500 }</string>	
+								<string>{ -83.500,23.500 }</string>	
+								<string>{ -87.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 4.500,-3.500 }</string>	
+								<string>{ 10.500,-3.500 }</string>	
+								<string>{ 12.500,-1.500 }</string>	
+								<string>{ 3.500,-1.500 }</string>
+							</array>
+							<array>	
+								<string>{ -97.500,31.500 }</string>	
+								<string>{ -87.500,28.500 }</string>	
+								<string>{ -105.500,41.500 }</string>
+							</array>
+							<array>	
+								<string>{ 105.500,40.500 }</string>	
+								<string>{ 102.500,47.500 }</string>	
+								<string>{ 103.500,40.500 }</string>
+							</array>
+							<array>	
+								<string>{ 103.500,40.500 }</string>	
+								<string>{ 102.500,47.500 }</string>	
+								<string>{ 96.500,34.500 }</string>	
+								<string>{ 98.500,34.500 }</string>
+							</array>
+							<array>	
+								<string>{ 89.500,25.500 }</string>	
+								<string>{ 96.500,32.500 }</string>	
+								<string>{ 96.500,34.500 }</string>	
+								<string>{ 69.500,25.500 }</string>
+							</array>
+							<array>	
+								<string>{ -43.500,-14.500 }</string>	
+								<string>{ -35.500,-23.500 }</string>	
+								<string>{ -17.500,-11.500 }</string>	
+								<string>{ -46.500,1.500 }</string>
+							</array>
+							<array>	
+								<string>{ 60.500,16.500 }</string>	
+								<string>{ 66.500,24.500 }</string>	
+								<string>{ 30.500,12.500 }</string>
+							</array>
+							<array>	
+								<string>{ 20.500,-1.500 }</string>	
+								<string>{ 24.500,0.500 }</string>	
+								<string>{ 30.500,12.500 }</string>	
+								<string>{ 3.500,-1.500 }</string>
+							</array>
+							<array>	
+								<string>{ -20.500,-27.500 }</string>	
+								<string>{ -18.500,-25.500 }</string>	
+								<string>{ -17.500,-11.500 }</string>	
+								<string>{ -35.500,-23.500 }</string>	
+								<string>{ -35.500,-25.500 }</string>
+							</array>
+							<array>	
+								<string>{ -61.500,6.500 }</string>	
+								<string>{ -48.500,3.500 }</string>	
+								<string>{ -64.500,9.500 }</string>
+							</array>
+							<array>	
+								<string>{ 3.500,-1.500 }</string>	
+								<string>{ 30.500,12.500 }</string>	
+								<string>{ -46.500,1.500 }</string>	
+								<string>{ -9.500,-2.500 }</string>
+							</array>
+							<array>	
+								<string>{ -64.500,9.500 }</string>	
+								<string>{ -48.500,3.500 }</string>	
+								<string>{ -87.500,28.500 }</string>	
+								<string>{ -83.500,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 96.500,34.500 }</string>	
+								<string>{ 102.500,47.500 }</string>	
+								<string>{ 69.500,25.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,12.500 }</string>	
+								<string>{ 66.500,24.500 }</string>	
+								<string>{ -48.500,3.500 }</string>	
+								<string>{ -46.500,1.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick9</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.3</real>
+                        <key>restitution</key> <real>0.3</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -54.000,8.500 }</string>	
+								<string>{ -55.000,5.500 }</string>	
+								<string>{ -51.000,8.500 }</string>
+							</array>
+							<array>	
+								<string>{ 53.000,-10.500 }</string>	
+								<string>{ 45.000,-12.500 }</string>	
+								<string>{ 9.000,-55.500 }</string>	
+								<string>{ 12.000,-53.500 }</string>	
+								<string>{ 58.000,-17.500 }</string>
+							</array>
+							<array>	
+								<string>{ -54.000,-68.500 }</string>	
+								<string>{ -26.000,-63.500 }</string>	
+								<string>{ -26.000,-61.500 }</string>	
+								<string>{ -67.000,-55.500 }</string>
+							</array>
+							<array>	
+								<string>{ -113.000,-49.500 }</string>	
+								<string>{ -105.000,-55.500 }</string>	
+								<string>{ -67.000,-55.500 }</string>	
+								<string>{ -106.000,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -80.000,-23.500 }</string>	
+								<string>{ -80.000,-25.500 }</string>	
+								<string>{ -18.000,-55.500 }</string>	
+								<string>{ 9.000,-55.500 }</string>	
+								<string>{ -76.000,-22.500 }</string>
+							</array>
+							<array>	
+								<string>{ -23.000,68.500 }</string>	
+								<string>{ -26.000,68.500 }</string>	
+								<string>{ -30.000,65.500 }</string>	
+								<string>{ -30.000,46.500 }</string>	
+								<string>{ -22.000,57.500 }</string>	
+								<string>{ -21.000,66.500 }</string>
+							</array>
+							<array>	
+								<string>{ -35.000,34.500 }</string>	
+								<string>{ -36.000,29.500 }</string>	
+								<string>{ -38.000,16.500 }</string>	
+								<string>{ -5.000,16.500 }</string>	
+								<string>{ -12.000,26.500 }</string>	
+								<string>{ -33.000,34.500 }</string>
+							</array>
+							<array>	
+								<string>{ 35.000,-58.500 }</string>	
+								<string>{ 37.000,-58.500 }</string>	
+								<string>{ 60.000,-55.500 }</string>	
+								<string>{ 108.000,-40.500 }</string>	
+								<string>{ 33.000,-55.500 }</string>
+							</array>
+							<array>	
+								<string>{ -67.000,2.500 }</string>	
+								<string>{ -69.000,-17.500 }</string>	
+								<string>{ -55.000,5.500 }</string>	
+								<string>{ -58.000,6.500 }</string>
+							</array>
+							<array>	
+								<string>{ -34.000,-68.500 }</string>	
+								<string>{ -31.000,-68.500 }</string>	
+								<string>{ -26.000,-63.500 }</string>	
+								<string>{ -37.000,-65.500 }</string>
+							</array>
+							<array>	
+								<string>{ -12.000,31.500 }</string>	
+								<string>{ -14.000,32.500 }</string>	
+								<string>{ -33.000,34.500 }</string>	
+								<string>{ -12.000,26.500 }</string>
+							</array>
+							<array>	
+								<string>{ 49.000,-66.500 }</string>	
+								<string>{ 60.000,-55.500 }</string>	
+								<string>{ 37.000,-58.500 }</string>	
+								<string>{ 37.000,-61.500 }</string>	
+								<string>{ 41.000,-65.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.000,9.500 }</string>	
+								<string>{ -5.000,16.500 }</string>	
+								<string>{ -38.000,16.500 }</string>	
+								<string>{ -39.000,11.500 }</string>	
+								<string>{ 23.000,-3.500 }</string>
+							</array>
+							<array>	
+								<string>{ -40.000,18.500 }</string>	
+								<string>{ -38.000,16.500 }</string>	
+								<string>{ -36.000,29.500 }</string>	
+								<string>{ -40.000,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 112.000,-45.500 }</string>	
+								<string>{ 108.000,-40.500 }</string>	
+								<string>{ 60.000,-55.500 }</string>	
+								<string>{ 105.000,-55.500 }</string>	
+								<string>{ 112.000,-49.500 }</string>
+							</array>
+							<array>	
+								<string>{ 102.000,-34.500 }</string>	
+								<string>{ 89.000,-35.500 }</string>	
+								<string>{ 12.000,-53.500 }</string>	
+								<string>{ 106.000,-40.500 }</string>	
+								<string>{ 106.000,-38.500 }</string>
+							</array>
+							<array>	
+								<string>{ -47.000,11.500 }</string>	
+								<string>{ -55.000,5.500 }</string>	
+								<string>{ -69.000,-17.500 }</string>	
+								<string>{ 9.000,-55.500 }</string>	
+								<string>{ 45.000,-12.500 }</string>	
+								<string>{ 23.000,-3.500 }</string>	
+								<string>{ -39.000,11.500 }</string>
+							</array>
+							<array>	
+								<string>{ -23.000,-61.500 }</string>	
+								<string>{ -18.000,-55.500 }</string>	
+								<string>{ -80.000,-25.500 }</string>	
+								<string>{ -87.000,-27.500 }</string>	
+								<string>{ -88.000,-29.500 }</string>	
+								<string>{ -26.000,-61.500 }</string>
+							</array>
+							<array>	
+								<string>{ -9.000,25.500 }</string>	
+								<string>{ -12.000,26.500 }</string>	
+								<string>{ -5.000,16.500 }</string>
+							</array>
+							<array>	
+								<string>{ 81.000,-25.500 }</string>	
+								<string>{ 58.000,-17.500 }</string>	
+								<string>{ 12.000,-53.500 }</string>	
+								<string>{ 89.000,-35.500 }</string>
+							</array>
+							<array>	
+								<string>{ -30.000,46.500 }</string>	
+								<string>{ -33.000,34.500 }</string>	
+								<string>{ -19.000,42.500 }</string>	
+								<string>{ -20.000,56.500 }</string>	
+								<string>{ -22.000,57.500 }</string>
+							</array>
+							<array>	
+								<string>{ -67.000,-55.500 }</string>	
+								<string>{ -26.000,-61.500 }</string>	
+								<string>{ -88.000,-29.500 }</string>	
+								<string>{ -103.000,-30.500 }</string>	
+								<string>{ -106.000,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -75.000,-20.500 }</string>	
+								<string>{ -76.000,-22.500 }</string>	
+								<string>{ 9.000,-55.500 }</string>	
+								<string>{ -69.000,-17.500 }</string>
+							</array>
+							<array>	
+								<string>{ -19.000,42.500 }</string>	
+								<string>{ -33.000,34.500 }</string>	
+								<string>{ -14.000,32.500 }</string>
+							</array>
+							<array>	
+								<string>{ 13.000,-55.500 }</string>	
+								<string>{ 33.000,-55.500 }</string>	
+								<string>{ 108.000,-40.500 }</string>	
+								<string>{ 106.000,-40.500 }</string>	
+								<string>{ 12.000,-53.500 }</string>
+							</array>
+							<array>	
+								<string>{ 26.000,-3.500 }</string>	
+								<string>{ 23.000,-3.500 }</string>	
+								<string>{ 45.000,-12.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick10</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.3</real>
+                        <key>restitution</key> <real>0.3</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 63.500,-4.000 }</string>	
+								<string>{ 60.500,-8.000 }</string>	
+								<string>{ 87.500,-17.000 }</string>	
+								<string>{ 85.500,-9.000 }</string>	
+								<string>{ 83.500,-7.000 }</string>	
+								<string>{ 69.500,-4.000 }</string>
+							</array>
+							<array>	
+								<string>{ -32.500,28.000 }</string>	
+								<string>{ -37.500,19.000 }</string>	
+								<string>{ -37.500,16.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ 40.500,-1.000 }</string>	
+								<string>{ 10.500,18.000 }</string>	
+								<string>{ -24.500,29.000 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,32.000 }</string>	
+								<string>{ 3.500,35.000 }</string>	
+								<string>{ -15.500,36.000 }</string>	
+								<string>{ -24.500,29.000 }</string>	
+								<string>{ 6.500,28.000 }</string>
+							</array>
+							<array>	
+								<string>{ 74.500,7.000 }</string>	
+								<string>{ 73.500,1.000 }</string>	
+								<string>{ 84.500,-4.000 }</string>	
+								<string>{ 82.500,4.000 }</string>	
+								<string>{ 77.500,8.000 }</string>
+							</array>
+							<array>	
+								<string>{ 73.500,1.000 }</string>	
+								<string>{ 69.500,-4.000 }</string>	
+								<string>{ 83.500,-7.000 }</string>	
+								<string>{ 84.500,-4.000 }</string>
+							</array>
+							<array>	
+								<string>{ -75.500,-9.000 }</string>	
+								<string>{ -81.500,-22.000 }</string>	
+								<string>{ -76.500,-52.000 }</string>	
+								<string>{ -72.500,-52.000 }</string>	
+								<string>{ -54.500,-50.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ -61.500,-6.000 }</string>	
+								<string>{ -64.500,-5.000 }</string>
+							</array>
+							<array>	
+								<string>{ -13.500,52.000 }</string>	
+								<string>{ -12.500,47.000 }</string>	
+								<string>{ 3.500,41.000 }</string>	
+								<string>{ -0.500,53.000 }</string>	
+								<string>{ -6.500,58.000 }</string>	
+								<string>{ -8.500,58.000 }</string>
+							</array>
+							<array>	
+								<string>{ -99.500,-27.000 }</string>	
+								<string>{ -105.500,-34.000 }</string>	
+								<string>{ -105.500,-37.000 }</string>	
+								<string>{ -101.500,-40.000 }</string>	
+								<string>{ -87.500,-40.000 }</string>	
+								<string>{ -91.500,-26.000 }</string>
+							</array>
+							<array>	
+								<string>{ -35.500,-42.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ -54.500,-50.000 }</string>	
+								<string>{ -38.500,-44.000 }</string>
+							</array>
+							<array>	
+								<string>{ -72.500,-55.000 }</string>	
+								<string>{ -69.500,-58.000 }</string>	
+								<string>{ -58.500,-56.000 }</string>	
+								<string>{ -54.500,-50.000 }</string>	
+								<string>{ -72.500,-52.000 }</string>
+							</array>
+							<array>	
+								<string>{ 99.500,-36.000 }</string>	
+								<string>{ 105.500,-30.000 }</string>	
+								<string>{ 105.500,-27.000 }</string>	
+								<string>{ 91.500,-21.000 }</string>	
+								<string>{ 87.500,-36.000 }</string>
+							</array>
+							<array>	
+								<string>{ 33.500,-43.000 }</string>	
+								<string>{ 38.500,-40.000 }</string>	
+								<string>{ 10.500,-40.000 }</string>	
+								<string>{ 28.500,-43.000 }</string>
+							</array>
+							<array>	
+								<string>{ -87.500,-40.000 }</string>	
+								<string>{ -76.500,-52.000 }</string>	
+								<string>{ -81.500,-22.000 }</string>	
+								<string>{ -89.500,-24.000 }</string>	
+								<string>{ -91.500,-26.000 }</string>
+							</array>
+							<array>	
+								<string>{ -40.500,-48.000 }</string>	
+								<string>{ -38.500,-44.000 }</string>	
+								<string>{ -54.500,-50.000 }</string>
+							</array>
+							<array>	
+								<string>{ 16.500,-48.000 }</string>	
+								<string>{ 19.500,-48.000 }</string>	
+								<string>{ 27.500,-45.000 }</string>	
+								<string>{ 28.500,-43.000 }</string>	
+								<string>{ 10.500,-40.000 }</string>
+							</array>
+							<array>	
+								<string>{ 83.500,-40.000 }</string>	
+								<string>{ 87.500,-36.000 }</string>	
+								<string>{ 91.500,-21.000 }</string>	
+								<string>{ 60.500,-8.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>
+							</array>
+							<array>	
+								<string>{ -14.500,45.000 }</string>	
+								<string>{ -15.500,36.000 }</string>	
+								<string>{ 3.500,35.000 }</string>	
+								<string>{ 3.500,41.000 }</string>	
+								<string>{ -12.500,47.000 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,28.000 }</string>	
+								<string>{ -24.500,29.000 }</string>	
+								<string>{ 10.500,18.000 }</string>
+							</array>
+							<array>	
+								<string>{ -61.500,-4.000 }</string>	
+								<string>{ -61.500,-6.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ -48.500,-1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 36.500,8.000 }</string>	
+								<string>{ 32.500,12.000 }</string>	
+								<string>{ 10.500,18.000 }</string>	
+								<string>{ 40.500,-1.000 }</string>
+							</array>
+							<array>	
+								<string>{ -39.500,15.000 }</string>	
+								<string>{ -45.500,2.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ -37.500,16.000 }</string>
+							</array>
+							<array>	
+								<string>{ 87.500,-17.000 }</string>	
+								<string>{ 60.500,-8.000 }</string>	
+								<string>{ 91.500,-21.000 }</string>
+							</array>
+							<array>	
+								<string>{ 55.500,-6.000 }</string>	
+								<string>{ 40.500,-1.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ 57.500,-8.000 }</string>
+							</array>
+							<array>	
+								<string>{ -48.500,-1.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ -45.500,2.000 }</string>
+							</array>
+							<array>	
+								<string>{ 57.500,-8.000 }</string>	
+								<string>{ -35.500,-40.000 }</string>	
+								<string>{ 60.500,-8.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>star</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <true/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 0.500,-29.000 }</string>	
+								<string>{ 39.500,13.000 }</string>	
+								<string>{ 21.500,30.000 }</string>	
+								<string>{ -22.500,30.000 }</string>	
+								<string>{ -39.500,13.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>lacis</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -38.000,38.000 }</string>	
+								<string>{ 2.000,36.000 }</string>	
+								<string>{ 47.000,47.000 }</string>	
+								<string>{ 45.000,55.000 }</string>	
+								<string>{ -40.000,48.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>zars1</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.1</real>
+                        <key>restitution</key> <real>0.3</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -80.500,-84.500 }</string>	
+								<string>{ -80.500,-86.500 }</string>	
+								<string>{ -70.500,-85.500 }</string>	
+								<string>{ -78.500,-84.500 }</string>
+							</array>
+							<array>	
+								<string>{ -82.500,-56.500 }</string>	
+								<string>{ -82.500,-59.500 }</string>	
+								<string>{ -78.500,-62.500 }</string>	
+								<string>{ -68.500,-65.500 }</string>	
+								<string>{ -73.500,-57.500 }</string>	
+								<string>{ -80.500,-55.500 }</string>
+							</array>
+							<array>	
+								<string>{ -73.500,-57.500 }</string>	
+								<string>{ -68.500,-65.500 }</string>	
+								<string>{ -62.500,-65.500 }</string>	
+								<string>{ -63.500,-57.500 }</string>
+							</array>
+							<array>	
+								<string>{ -63.500,-57.500 }</string>	
+								<string>{ -62.500,-65.500 }</string>	
+								<string>{ -56.500,-67.500 }</string>	
+								<string>{ -53.500,-64.500 }</string>	
+								<string>{ -49.500,-52.500 }</string>	
+								<string>{ -52.500,-52.500 }</string>
+							</array>
+							<array>	
+								<string>{ 71.500,78.500 }</string>	
+								<string>{ 68.500,72.500 }</string>	
+								<string>{ 77.500,79.500 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,-19.500 }</string>	
+								<string>{ 3.500,-23.500 }</string>	
+								<string>{ 1.500,-31.500 }</string>	
+								<string>{ 12.500,-19.500 }</string>
+							</array>
+							<array>	
+								<string>{ 39.500,-8.500 }</string>	
+								<string>{ 42.500,-9.500 }</string>	
+								<string>{ 82.500,85.500 }</string>	
+								<string>{ 38.500,-3.500 }</string>
+							</array>
+							<array>	
+								<string>{ 69.500,-55.500 }</string>	
+								<string>{ 78.500,-56.500 }</string>	
+								<string>{ 82.500,-53.500 }</string>	
+								<string>{ 82.500,85.500 }</string>	
+								<string>{ 65.500,-45.500 }</string>	
+								<string>{ 65.500,-49.500 }</string>
+							</array>
+							<array>	
+								<string>{ -5.500,-33.500 }</string>	
+								<string>{ -5.500,-35.500 }</string>	
+								<string>{ -0.500,-37.500 }</string>	
+								<string>{ 5.500,-37.500 }</string>	
+								<string>{ 14.500,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ 14.500,-33.500 }</string>	
+								<string>{ 18.500,-25.500 }</string>	
+								<string>{ 16.500,-19.500 }</string>	
+								<string>{ -0.500,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ 42.500,-16.500 }</string>	
+								<string>{ 46.500,-20.500 }</string>	
+								<string>{ 49.500,-20.500 }</string>	
+								<string>{ 42.500,-9.500 }</string>
+							</array>
+							<array>	
+								<string>{ 28.500,-7.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>	
+								<string>{ 25.500,-9.500 }</string>
+							</array>
+							<array>	
+								<string>{ 13.500,-13.500 }</string>	
+								<string>{ 15.500,-10.500 }</string>	
+								<string>{ 33.500,28.500 }</string>	
+								<string>{ 11.500,-13.500 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,-25.500 }</string>	
+								<string>{ -21.500,-27.500 }</string>	
+								<string>{ -18.500,-41.500 }</string>	
+								<string>{ -18.500,-23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -18.500,-21.500 }</string>	
+								<string>{ -18.500,-41.500 }</string>	
+								<string>{ -15.500,-19.500 }</string>
+							</array>
+							<array>	
+								<string>{ -15.500,-17.500 }</string>	
+								<string>{ -15.500,-19.500 }</string>	
+								<string>{ -12.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ 39.500,40.500 }</string>	
+								<string>{ 39.500,36.500 }</string>	
+								<string>{ 44.500,44.500 }</string>
+							</array>
+							<array>	
+								<string>{ -45.500,-82.500 }</string>	
+								<string>{ -51.500,-79.500 }</string>	
+								<string>{ -62.500,-79.500 }</string>	
+								<string>{ -57.500,-84.500 }</string>	
+								<string>{ -46.500,-84.500 }</string>
+							</array>
+							<array>	
+								<string>{ -51.500,-79.500 }</string>	
+								<string>{ -52.500,-72.500 }</string>	
+								<string>{ -56.500,-67.500 }</string>	
+								<string>{ -71.500,-67.500 }</string>	
+								<string>{ -73.500,-69.500 }</string>	
+								<string>{ -62.500,-79.500 }</string>
+							</array>
+							<array>	
+								<string>{ 77.500,82.500 }</string>	
+								<string>{ 77.500,79.500 }</string>	
+								<string>{ 82.500,85.500 }</string>	
+								<string>{ 80.500,85.500 }</string>
+							</array>
+							<array>	
+								<string>{ -48.500,-50.500 }</string>	
+								<string>{ -49.500,-52.500 }</string>	
+								<string>{ -49.500,-64.500 }</string>	
+								<string>{ -29.500,-52.500 }</string>	
+								<string>{ -44.500,-49.500 }</string>
+							</array>
+							<array>	
+								<string>{ 34.500,33.500 }</string>	
+								<string>{ 33.500,28.500 }</string>	
+								<string>{ 39.500,36.500 }</string>	
+								<string>{ 37.500,36.500 }</string>
+							</array>
+							<array>	
+								<string>{ 59.500,-41.500 }</string>	
+								<string>{ 63.500,-45.500 }</string>	
+								<string>{ 65.500,-45.500 }</string>	
+								<string>{ 82.500,85.500 }</string>	
+								<string>{ 59.500,-30.500 }</string>
+							</array>
+							<array>	
+								<string>{ 58.500,64.500 }</string>	
+								<string>{ 59.500,58.500 }</string>	
+								<string>{ 68.500,72.500 }</string>	
+								<string>{ 62.500,71.500 }</string>	
+								<string>{ 60.500,69.500 }</string>
+							</array>
+							<array>	
+								<string>{ 53.500,-29.500 }</string>	
+								<string>{ 59.500,-30.500 }</string>	
+								<string>{ 49.500,-20.500 }</string>	
+								<string>{ 50.500,-26.500 }</string>
+							</array>
+							<array>	
+								<string>{ 22.500,-15.500 }</string>	
+								<string>{ 25.500,-9.500 }</string>	
+								<string>{ 16.500,-19.500 }</string>
+							</array>
+							<array>	
+								<string>{ 44.500,51.500 }</string>	
+								<string>{ 44.500,44.500 }</string>	
+								<string>{ 57.500,56.500 }</string>	
+								<string>{ 46.500,52.500 }</string>
+							</array>
+							<array>	
+								<string>{ -10.500,-10.500 }</string>	
+								<string>{ -12.500,-15.500 }</string>	
+								<string>{ -18.500,-41.500 }</string>	
+								<string>{ -7.500,-8.500 }</string>
+							</array>
+							<array>	
+								<string>{ 53.500,57.500 }</string>	
+								<string>{ 46.500,54.500 }</string>	
+								<string>{ 46.500,52.500 }</string>	
+								<string>{ 57.500,56.500 }</string>
+							</array>
+							<array>	
+								<string>{ -78.500,-84.500 }</string>	
+								<string>{ -70.500,-85.500 }</string>	
+								<string>{ -64.500,-82.500 }</string>	
+								<string>{ -75.500,-80.500 }</string>
+							</array>
+							<array>	
+								<string>{ -75.500,-80.500 }</string>	
+								<string>{ -64.500,-82.500 }</string>	
+								<string>{ -62.500,-79.500 }</string>	
+								<string>{ -73.500,-69.500 }</string>
+							</array>
+							<array>	
+								<string>{ 7.500,-18.500 }</string>	
+								<string>{ 11.500,-13.500 }</string>	
+								<string>{ 33.500,28.500 }</string>	
+								<string>{ 5.500,-18.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.500,4.500 }</string>	
+								<string>{ 0.500,2.500 }</string>	
+								<string>{ 33.500,28.500 }</string>	
+								<string>{ 5.500,8.500 }</string>
+							</array>
+							<array>	
+								<string>{ -39.500,-44.500 }</string>	
+								<string>{ -44.500,-49.500 }</string>	
+								<string>{ -29.500,-52.500 }</string>	
+								<string>{ -37.500,-44.500 }</string>
+							</array>
+							<array>	
+								<string>{ -37.500,-59.500 }</string>	
+								<string>{ -29.500,-52.500 }</string>	
+								<string>{ -49.500,-64.500 }</string>
+							</array>
+							<array>	
+								<string>{ 68.500,72.500 }</string>	
+								<string>{ 59.500,58.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>	
+								<string>{ 77.500,79.500 }</string>
+							</array>
+							<array>	
+								<string>{ 49.500,-20.500 }</string>	
+								<string>{ 59.500,-30.500 }</string>	
+								<string>{ 82.500,85.500 }</string>	
+								<string>{ 42.500,-9.500 }</string>
+							</array>
+							<array>	
+								<string>{ -64.500,-67.500 }</string>	
+								<string>{ -56.500,-67.500 }</string>	
+								<string>{ -62.500,-65.500 }</string>
+							</array>
+							<array>	
+								<string>{ -53.500,-64.500 }</string>	
+								<string>{ -49.500,-64.500 }</string>	
+								<string>{ -49.500,-52.500 }</string>
+							</array>
+							<array>	
+								<string>{ -37.500,-44.500 }</string>	
+								<string>{ -29.500,-52.500 }</string>	
+								<string>{ -27.500,-52.500 }</string>	
+								<string>{ -18.500,-41.500 }</string>	
+								<string>{ -21.500,-27.500 }</string>
+							</array>
+							<array>	
+								<string>{ -18.500,-43.500 }</string>	
+								<string>{ -18.500,-41.500 }</string>	
+								<string>{ -27.500,-52.500 }</string>
+							</array>
+							<array>	
+								<string>{ -7.500,-6.500 }</string>	
+								<string>{ -7.500,-8.500 }</string>	
+								<string>{ 0.500,2.500 }</string>
+							</array>
+							<array>	
+								<string>{ 30.500,28.500 }</string>	
+								<string>{ 20.500,23.500 }</string>	
+								<string>{ 5.500,10.500 }</string>	
+								<string>{ 5.500,8.500 }</string>	
+								<string>{ 33.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 44.500,44.500 }</string>	
+								<string>{ 39.500,36.500 }</string>	
+								<string>{ 16.500,-15.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>	
+								<string>{ 57.500,56.500 }</string>
+							</array>
+							<array>	
+								<string>{ -15.500,-19.500 }</string>	
+								<string>{ -18.500,-41.500 }</string>	
+								<string>{ -12.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -7.500,-8.500 }</string>	
+								<string>{ -18.500,-41.500 }</string>	
+								<string>{ -16.500,-41.500 }</string>	
+								<string>{ 5.500,-18.500 }</string>	
+								<string>{ 33.500,28.500 }</string>	
+								<string>{ 0.500,2.500 }</string>
+							</array>
+							<array>	
+								<string>{ 38.500,-3.500 }</string>	
+								<string>{ 82.500,85.500 }</string>	
+								<string>{ 31.500,-3.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.500,-19.500 }</string>	
+								<string>{ 25.500,-9.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>	
+								<string>{ -0.500,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ 15.500,-10.500 }</string>	
+								<string>{ 19.500,-8.500 }</string>	
+								<string>{ 39.500,36.500 }</string>	
+								<string>{ 33.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 31.500,-3.500 }</string>	
+								<string>{ 82.500,85.500 }</string>	
+								<string>{ 77.500,79.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 59.500,58.500 }</string>	
+								<string>{ 57.500,56.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.500,-15.500 }</string>	
+								<string>{ 12.500,-19.500 }</string>	
+								<string>{ 1.500,-31.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>zars3</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.5</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -18.500,-85.000 }</string>	
+								<string>{ -18.500,-82.000 }</string>	
+								<string>{ -22.500,-79.000 }</string>	
+								<string>{ -27.500,-78.000 }</string>	
+								<string>{ -21.500,-85.000 }</string>
+							</array>
+							<array>	
+								<string>{ -44.500,-26.000 }</string>	
+								<string>{ -46.500,-37.000 }</string>	
+								<string>{ -43.500,-46.000 }</string>	
+								<string>{ -40.500,-46.000 }</string>	
+								<string>{ -34.500,-25.000 }</string>
+							</array>
+							<array>	
+								<string>{ -76.500,-98.000 }</string>	
+								<string>{ -73.500,-98.000 }</string>	
+								<string>{ -69.500,-95.000 }</string>	
+								<string>{ -76.500,-96.000 }</string>
+							</array>
+							<array>	
+								<string>{ -22.500,-79.000 }</string>	
+								<string>{ -24.500,-75.000 }</string>	
+								<string>{ -27.500,-78.000 }</string>
+							</array>
+							<array>	
+								<string>{ -82.500,-79.000 }</string>	
+								<string>{ -83.500,-85.000 }</string>	
+								<string>{ -81.500,-87.000 }</string>	
+								<string>{ -77.500,-78.000 }</string>
+							</array>
+							<array>	
+								<string>{ 63.500,80.000 }</string>	
+								<string>{ 63.500,73.000 }</string>	
+								<string>{ 69.500,83.000 }</string>
+							</array>
+							<array>	
+								<string>{ -21.500,-69.000 }</string>	
+								<string>{ -21.500,-67.000 }</string>	
+								<string>{ -24.500,-65.000 }</string>	
+								<string>{ -28.500,-65.000 }</string>	
+								<string>{ -25.500,-69.000 }</string>
+							</array>
+							<array>	
+								<string>{ -32.500,-21.000 }</string>	
+								<string>{ -34.500,-25.000 }</string>	
+								<string>{ -40.500,-46.000 }</string>	
+								<string>{ -29.500,-21.000 }</string>
+							</array>
+							<array>	
+								<string>{ 43.500,40.000 }</string>	
+								<string>{ 40.500,38.000 }</string>	
+								<string>{ 30.500,21.000 }</string>	
+								<string>{ 29.500,11.000 }</string>	
+								<string>{ 39.500,-8.000 }</string>	
+								<string>{ 42.500,-13.000 }</string>	
+								<string>{ 46.500,39.000 }</string>
+							</array>
+							<array>	
+								<string>{ -24.500,-75.000 }</string>	
+								<string>{ -25.500,-69.000 }</string>	
+								<string>{ -28.500,-65.000 }</string>	
+								<string>{ -27.500,-78.000 }</string>
+							</array>
+							<array>	
+								<string>{ 64.500,-109.000 }</string>	
+								<string>{ 70.500,-109.000 }</string>	
+								<string>{ 75.500,-105.000 }</string>	
+								<string>{ 47.500,-91.000 }</string>	
+								<string>{ 60.500,-105.000 }</string>
+							</array>
+							<array>	
+								<string>{ -12.500,-46.000 }</string>	
+								<string>{ -8.500,-42.000 }</string>	
+								<string>{ -8.500,-38.000 }</string>	
+								<string>{ -17.500,-46.000 }</string>
+							</array>
+							<array>	
+								<string>{ 68.500,100.000 }</string>	
+								<string>{ 67.500,90.000 }</string>	
+								<string>{ 69.500,88.000 }</string>	
+								<string>{ 83.500,102.000 }</string>	
+								<string>{ 80.500,104.000 }</string>	
+								<string>{ 74.500,104.000 }</string>
+							</array>
+							<array>	
+								<string>{ 39.500,-21.000 }</string>	
+								<string>{ 42.500,-27.000 }</string>	
+								<string>{ 42.500,-13.000 }</string>
+							</array>
+							<array>	
+								<string>{ 46.500,44.000 }</string>	
+								<string>{ 46.500,39.000 }</string>	
+								<string>{ 75.500,-105.000 }</string>	
+								<string>{ 77.500,-112.000 }</string>	
+								<string>{ 83.500,-116.000 }</string>	
+								<string>{ 51.500,47.000 }</string>	
+								<string>{ 49.500,47.000 }</string>
+							</array>
+							<array>	
+								<string>{ -8.500,-14.000 }</string>	
+								<string>{ -11.500,-12.000 }</string>	
+								<string>{ -26.500,-11.000 }</string>	
+								<string>{ -28.500,-13.000 }</string>	
+								<string>{ -29.500,-21.000 }</string>	
+								<string>{ -7.500,-18.000 }</string>
+							</array>
+							<array>	
+								<string>{ 44.500,-95.000 }</string>	
+								<string>{ 42.500,-98.000 }</string>	
+								<string>{ 42.500,-103.000 }</string>	
+								<string>{ 45.500,-108.000 }</string>	
+								<string>{ 55.500,-112.000 }</string>	
+								<string>{ 58.500,-108.000 }</string>	
+								<string>{ 57.500,-105.000 }</string>	
+								<string>{ 46.500,-95.000 }</string>
+							</array>
+							<array>	
+								<string>{ 28.500,58.000 }</string>	
+								<string>{ 20.500,57.000 }</string>	
+								<string>{ 11.500,51.000 }</string>	
+								<string>{ 11.500,48.000 }</string>	
+								<string>{ 17.500,39.000 }</string>	
+								<string>{ 37.500,41.000 }</string>
+							</array>
+							<array>	
+								<string>{ 35.500,-89.000 }</string>	
+								<string>{ 40.500,-92.000 }</string>	
+								<string>{ 47.500,-91.000 }</string>	
+								<string>{ 33.500,-81.000 }</string>
+							</array>
+							<array>	
+								<string>{ 22.500,-59.000 }</string>	
+								<string>{ 21.500,-64.000 }</string>	
+								<string>{ 25.500,-70.000 }</string>	
+								<string>{ 25.500,-57.000 }</string>
+							</array>
+							<array>	
+								<string>{ 62.500,-110.000 }</string>	
+								<string>{ 58.500,-108.000 }</string>	
+								<string>{ 55.500,-112.000 }</string>	
+								<string>{ 62.500,-112.000 }</string>
+							</array>
+							<array>	
+								<string>{ 34.500,-33.000 }</string>	
+								<string>{ 35.500,-43.000 }</string>	
+								<string>{ 75.500,-105.000 }</string>	
+								<string>{ 42.500,-27.000 }</string>	
+								<string>{ 38.500,-28.000 }</string>
+							</array>
+							<array>	
+								<string>{ 40.500,-12.000 }</string>	
+								<string>{ 42.500,-13.000 }</string>	
+								<string>{ 39.500,-8.000 }</string>
+							</array>
+							<array>	
+								<string>{ -24.500,-65.000 }</string>	
+								<string>{ -24.500,-62.000 }</string>	
+								<string>{ -28.500,-65.000 }</string>
+							</array>
+							<array>	
+								<string>{ -24.500,-62.000 }</string>	
+								<string>{ -23.500,-57.000 }</string>	
+								<string>{ -28.500,-65.000 }</string>
+							</array>
+							<array>	
+								<string>{ 27.500,-76.000 }</string>	
+								<string>{ 30.500,-80.000 }</string>	
+								<string>{ 33.500,-81.000 }</string>	
+								<string>{ 27.500,-70.000 }</string>
+							</array>
+							<array>	
+								<string>{ 56.500,64.000 }</string>	
+								<string>{ 59.500,58.000 }</string>	
+								<string>{ 63.500,73.000 }</string>	
+								<string>{ 61.500,73.000 }</string>	
+								<string>{ 57.500,69.000 }</string>
+							</array>
+							<array>	
+								<string>{ 25.500,8.000 }</string>	
+								<string>{ 25.500,6.000 }</string>	
+								<string>{ 29.500,11.000 }</string>
+							</array>
+							<array>	
+								<string>{ 26.500,24.000 }</string>	
+								<string>{ 30.500,21.000 }</string>	
+								<string>{ 40.500,38.000 }</string>	
+								<string>{ 37.500,41.000 }</string>	
+								<string>{ 26.500,26.000 }</string>
+							</array>
+							<array>	
+								<string>{ -79.500,-95.000 }</string>	
+								<string>{ -76.500,-96.000 }</string>	
+								<string>{ -69.500,-95.000 }</string>	
+								<string>{ -62.500,-93.000 }</string>	
+								<string>{ -61.500,-69.000 }</string>	
+								<string>{ -81.500,-87.000 }</string>	
+								<string>{ -82.500,-89.000 }</string>
+							</array>
+							<array>	
+								<string>{ 23.500,-53.000 }</string>	
+								<string>{ 25.500,-57.000 }</string>	
+								<string>{ 27.500,-45.000 }</string>	
+								<string>{ 25.500,-45.000 }</string>
+							</array>
+							<array>	
+								<string>{ 28.500,-43.000 }</string>	
+								<string>{ 27.500,-45.000 }</string>	
+								<string>{ 25.500,-57.000 }</string>	
+								<string>{ 25.500,-70.000 }</string>	
+								<string>{ 27.500,-70.000 }</string>	
+								<string>{ 35.500,-43.000 }</string>
+							</array>
+							<array>	
+								<string>{ 28.500,19.000 }</string>	
+								<string>{ 29.500,11.000 }</string>	
+								<string>{ 30.500,21.000 }</string>
+							</array>
+							<array>	
+								<string>{ -77.500,-78.000 }</string>	
+								<string>{ -81.500,-87.000 }</string>	
+								<string>{ -61.500,-69.000 }</string>
+							</array>
+							<array>	
+								<string>{ 46.500,-95.000 }</string>	
+								<string>{ 57.500,-105.000 }</string>	
+								<string>{ 60.500,-105.000 }</string>	
+								<string>{ 47.500,-91.000 }</string>
+							</array>
+							<array>	
+								<string>{ 54.500,57.000 }</string>	
+								<string>{ 52.500,55.000 }</string>	
+								<string>{ 51.500,47.000 }</string>	
+								<string>{ 83.500,-116.000 }</string>	
+								<string>{ 59.500,58.000 }</string>
+							</array>
+							<array>	
+								<string>{ 33.500,-81.000 }</string>	
+								<string>{ 47.500,-91.000 }</string>	
+								<string>{ 75.500,-105.000 }</string>	
+								<string>{ 35.500,-43.000 }</string>	
+								<string>{ 27.500,-70.000 }</string>
+							</array>
+							<array>	
+								<string>{ 14.500,-28.000 }</string>	
+								<string>{ 21.500,-22.000 }</string>	
+								<string>{ 8.500,-30.000 }</string>
+							</array>
+							<array>	
+								<string>{ 69.500,88.000 }</string>	
+								<string>{ 69.500,83.000 }</string>	
+								<string>{ 83.500,102.000 }</string>
+							</array>
+							<array>	
+								<string>{ -20.500,-54.000 }</string>	
+								<string>{ -17.500,-46.000 }</string>	
+								<string>{ -23.500,-57.000 }</string>
+							</array>
+							<array>	
+								<string>{ -29.500,-21.000 }</string>	
+								<string>{ -40.500,-46.000 }</string>	
+								<string>{ -7.500,-18.000 }</string>
+							</array>
+							<array>	
+								<string>{ 15.500,40.000 }</string>	
+								<string>{ 17.500,39.000 }</string>	
+								<string>{ 11.500,48.000 }</string>
+							</array>
+							<array>	
+								<string>{ 17.500,39.000 }</string>	
+								<string>{ 18.500,35.000 }</string>	
+								<string>{ 26.500,26.000 }</string>	
+								<string>{ 37.500,41.000 }</string>
+							</array>
+							<array>	
+								<string>{ 63.500,73.000 }</string>	
+								<string>{ 59.500,58.000 }</string>	
+								<string>{ 83.500,-116.000 }</string>	
+								<string>{ 83.500,102.000 }</string>	
+								<string>{ 69.500,83.000 }</string>
+							</array>
+							<array>	
+								<string>{ -61.500,-69.000 }</string>	
+								<string>{ -62.500,-93.000 }</string>	
+								<string>{ -41.500,-49.000 }</string>
+							</array>
+							<array>	
+								<string>{ -57.500,-90.000 }</string>	
+								<string>{ -47.500,-82.000 }</string>	
+								<string>{ -17.500,-46.000 }</string>	
+								<string>{ -41.500,-49.000 }</string>	
+								<string>{ -61.500,-91.000 }</string>
+							</array>
+							<array>	
+								<string>{ 7.500,-32.000 }</string>	
+								<string>{ 8.500,-30.000 }</string>	
+								<string>{ -8.500,-38.000 }</string>
+							</array>
+							<array>	
+								<string>{ -28.500,-65.000 }</string>	
+								<string>{ -23.500,-57.000 }</string>	
+								<string>{ -17.500,-46.000 }</string>	
+								<string>{ -47.500,-82.000 }</string>	
+								<string>{ -45.500,-82.000 }</string>
+							</array>
+							<array>	
+								<string>{ 23.500,-22.000 }</string>	
+								<string>{ 39.500,-8.000 }</string>	
+								<string>{ 21.500,-22.000 }</string>
+							</array>
+							<array>	
+								<string>{ -7.500,-18.000 }</string>	
+								<string>{ -40.500,-46.000 }</string>	
+								<string>{ -41.500,-49.000 }</string>	
+								<string>{ -17.500,-46.000 }</string>	
+								<string>{ -8.500,-38.000 }</string>	
+								<string>{ 8.500,-9.000 }</string>
+							</array>
+							<array>	
+								<string>{ 42.500,-27.000 }</string>	
+								<string>{ 75.500,-105.000 }</string>	
+								<string>{ 46.500,39.000 }</string>	
+								<string>{ 42.500,-13.000 }</string>
+							</array>
+							<array>	
+								<string>{ 8.500,-30.000 }</string>	
+								<string>{ 21.500,-22.000 }</string>	
+								<string>{ 39.500,-8.000 }</string>	
+								<string>{ 29.500,11.000 }</string>	
+								<string>{ -8.500,-38.000 }</string>
+							</array>
+							<array>	
+								<string>{ 25.500,6.000 }</string>	
+								<string>{ 8.500,-9.000 }</string>	
+								<string>{ -8.500,-38.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>zars2</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0.5</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -74.500,-101.500 }</string>	
+								<string>{ -72.500,-101.500 }</string>	
+								<string>{ -60.500,-98.500 }</string>	
+								<string>{ -38.500,-84.500 }</string>	
+								<string>{ -34.500,-75.500 }</string>	
+								<string>{ -35.500,-37.500 }</string>	
+								<string>{ -42.500,-21.500 }</string>	
+								<string>{ -74.500,-99.500 }</string>
+							</array>
+							<array>	
+								<string>{ -32.500,-96.500 }</string>	
+								<string>{ -37.500,-92.500 }</string>	
+								<string>{ -47.500,-93.500 }</string>	
+								<string>{ -40.500,-96.500 }</string>
+							</array>
+							<array>	
+								<string>{ -47.500,69.500 }</string>	
+								<string>{ -52.500,69.500 }</string>	
+								<string>{ -59.500,65.500 }</string>	
+								<string>{ -48.500,66.500 }</string>
+							</array>
+							<array>	
+								<string>{ -41.500,31.500 }</string>	
+								<string>{ -45.500,32.500 }</string>	
+								<string>{ -76.500,-99.500 }</string>	
+								<string>{ -41.500,26.500 }</string>
+							</array>
+							<array>	
+								<string>{ -41.500,50.500 }</string>	
+								<string>{ -49.500,54.500 }</string>	
+								<string>{ -52.500,54.500 }</string>	
+								<string>{ -45.500,35.500 }</string>	
+								<string>{ -42.500,42.500 }</string>
+							</array>
+							<array>	
+								<string>{ -3.500,-67.500 }</string>	
+								<string>{ -2.500,-70.500 }</string>	
+								<string>{ 2.500,-68.500 }</string>	
+								<string>{ 5.500,-65.500 }</string>	
+								<string>{ 0.500,-65.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.500,-65.500 }</string>	
+								<string>{ 5.500,-65.500 }</string>	
+								<string>{ 5.500,-63.500 }</string>	
+								<string>{ 3.500,-61.500 }</string>
+							</array>
+							<array>	
+								<string>{ -37.500,-92.500 }</string>	
+								<string>{ -38.500,-84.500 }</string>	
+								<string>{ -47.500,-93.500 }</string>
+							</array>
+							<array>	
+								<string>{ 4.500,-14.500 }</string>	
+								<string>{ 1.500,-12.500 }</string>	
+								<string>{ 4.500,-17.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.500,-74.500 }</string>	
+								<string>{ 14.500,-69.500 }</string>	
+								<string>{ 14.500,-62.500 }</string>	
+								<string>{ 11.500,-65.500 }</string>	
+								<string>{ 8.500,-73.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.500,-65.500 }</string>	
+								<string>{ 14.500,-62.500 }</string>	
+								<string>{ 22.500,-51.500 }</string>	
+								<string>{ 10.500,-62.500 }</string>
+							</array>
+							<array>	
+								<string>{ 23.500,-57.500 }</string>	
+								<string>{ 22.500,-51.500 }</string>	
+								<string>{ 14.500,-62.500 }</string>
+							</array>
+							<array>	
+								<string>{ -52.500,69.500 }</string>	
+								<string>{ -57.500,81.500 }</string>	
+								<string>{ -61.500,84.500 }</string>	
+								<string>{ -63.500,83.500 }</string>	
+								<string>{ -59.500,65.500 }</string>
+							</array>
+							<array>	
+								<string>{ -28.500,-71.500 }</string>	
+								<string>{ -27.500,-64.500 }</string>	
+								<string>{ -35.500,-37.500 }</string>	
+								<string>{ -34.500,-75.500 }</string>
+							</array>
+							<array>	
+								<string>{ 18.500,-25.500 }</string>	
+								<string>{ 13.500,-22.500 }</string>	
+								<string>{ 9.500,-23.500 }</string>	
+								<string>{ 18.500,-29.500 }</string>
+							</array>
+							<array>	
+								<string>{ -4.500,-50.500 }</string>	
+								<string>{ 1.500,-51.500 }</string>	
+								<string>{ 22.500,-51.500 }</string>	
+								<string>{ -13.500,-25.500 }</string>	
+								<string>{ -6.500,-46.500 }</string>
+							</array>
+							<array>	
+								<string>{ -25.500,-40.500 }</string>	
+								<string>{ -31.500,-36.500 }</string>	
+								<string>{ -35.500,-37.500 }</string>	
+								<string>{ -27.500,-64.500 }</string>	
+								<string>{ -25.500,-51.500 }</string>
+							</array>
+							<array>	
+								<string>{ -19.500,-47.500 }</string>	
+								<string>{ -6.500,-46.500 }</string>	
+								<string>{ -13.500,-25.500 }</string>	
+								<string>{ -19.500,-26.500 }</string>	
+								<string>{ -22.500,-29.500 }</string>	
+								<string>{ -22.500,-41.500 }</string>
+							</array>
+							<array>	
+								<string>{ -68.500,105.500 }</string>	
+								<string>{ -74.500,110.500 }</string>	
+								<string>{ -80.500,110.500 }</string>	
+								<string>{ -84.500,107.500 }</string>	
+								<string>{ -70.500,93.500 }</string>	
+								<string>{ -67.500,97.500 }</string>
+							</array>
+							<array>	
+								<string>{ -51.500,-98.500 }</string>	
+								<string>{ -47.500,-93.500 }</string>	
+								<string>{ -60.500,-98.500 }</string>
+							</array>
+							<array>	
+								<string>{ -34.500,-80.500 }</string>	
+								<string>{ -34.500,-75.500 }</string>	
+								<string>{ -38.500,-84.500 }</string>
+							</array>
+							<array>	
+								<string>{ -65.500,-103.500 }</string>	
+								<string>{ -60.500,-98.500 }</string>	
+								<string>{ -72.500,-101.500 }</string>	
+								<string>{ -71.500,-103.500 }</string>
+							</array>
+							<array>	
+								<string>{ -55.500,63.500 }</string>	
+								<string>{ -60.500,63.500 }</string>	
+								<string>{ -52.500,54.500 }</string>	
+								<string>{ -52.500,60.500 }</string>
+							</array>
+							<array>	
+								<string>{ -22.500,-54.500 }</string>	
+								<string>{ -25.500,-51.500 }</string>	
+								<string>{ -27.500,-64.500 }</string>	
+								<string>{ -22.500,-59.500 }</string>
+							</array>
+							<array>	
+								<string>{ -28.500,18.500 }</string>	
+								<string>{ -30.500,18.500 }</string>	
+								<string>{ -26.500,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ 5.500,-63.500 }</string>	
+								<string>{ 10.500,-62.500 }</string>	
+								<string>{ 22.500,-51.500 }</string>	
+								<string>{ 1.500,-51.500 }</string>	
+								<string>{ 3.500,-61.500 }</string>
+							</array>
+							<array>	
+								<string>{ -39.500,-2.500 }</string>	
+								<string>{ -40.500,-0.500 }</string>	
+								<string>{ -42.500,-6.500 }</string>
+							</array>
+							<array>	
+								<string>{ -76.500,-104.500 }</string>	
+								<string>{ -76.500,-99.500 }</string>	
+								<string>{ -78.500,-105.500 }</string>
+							</array>
+							<array>	
+								<string>{ -34.500,-28.500 }</string>	
+								<string>{ -38.500,-22.500 }</string>	
+								<string>{ -42.500,-21.500 }</string>	
+								<string>{ -35.500,-37.500 }</string>
+							</array>
+							<array>	
+								<string>{ 67.500,-83.500 }</string>	
+								<string>{ 74.500,-82.500 }</string>	
+								<string>{ 81.500,-75.500 }</string>	
+								<string>{ 84.500,-68.500 }</string>	
+								<string>{ 69.500,-52.500 }</string>	
+								<string>{ 67.500,-81.500 }</string>
+							</array>
+							<array>	
+								<string>{ -66.500,88.500 }</string>	
+								<string>{ -70.500,89.500 }</string>	
+								<string>{ -63.500,83.500 }</string>	
+								<string>{ -63.500,85.500 }</string>
+							</array>
+							<array>	
+								<string>{ 63.500,-78.500 }</string>	
+								<string>{ 67.500,-81.500 }</string>	
+								<string>{ 69.500,-52.500 }</string>	
+								<string>{ 61.500,-73.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1.500,-10.500 }</string>	
+								<string>{ -2.500,-7.500 }</string>	
+								<string>{ 1.500,-12.500 }</string>
+							</array>
+							<array>	
+								<string>{ -32.500,-6.500 }</string>	
+								<string>{ -30.500,-6.500 }</string>	
+								<string>{ -35.500,-2.500 }</string>
+							</array>
+							<array>	
+								<string>{ -24.500,15.500 }</string>	
+								<string>{ -26.500,15.500 }</string>	
+								<string>{ -21.500,10.500 }</string>	
+								<string>{ -21.500,12.500 }</string>
+							</array>
+							<array>	
+								<string>{ -40.500,-11.500 }</string>	
+								<string>{ -42.500,-9.500 }</string>	
+								<string>{ -42.500,-21.500 }</string>	
+								<string>{ -40.500,-17.500 }</string>
+							</array>
+							<array>	
+								<string>{ 61.500,-73.500 }</string>	
+								<string>{ 69.500,-52.500 }</string>	
+								<string>{ 48.500,-63.500 }</string>	
+								<string>{ 56.500,-71.500 }</string>
+							</array>
+							<array>	
+								<string>{ 48.500,-63.500 }</string>	
+								<string>{ 69.500,-52.500 }</string>	
+								<string>{ 67.500,-52.500 }</string>	
+								<string>{ 34.500,-55.500 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,-17.500 }</string>	
+								<string>{ 4.500,-17.500 }</string>	
+								<string>{ 9.500,-23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -78.500,-107.500 }</string>	
+								<string>{ -78.500,-105.500 }</string>	
+								<string>{ -84.500,-110.500 }</string>
+							</array>
+							<array>	
+								<string>{ -78.500,-105.500 }</string>	
+								<string>{ -76.500,-99.500 }</string>	
+								<string>{ -45.500,32.500 }</string>	
+								<string>{ -45.500,35.500 }</string>	
+								<string>{ -84.500,107.500 }</string>	
+								<string>{ -84.500,-110.500 }</string>
+							</array>
+							<array>	
+								<string>{ -47.500,-93.500 }</string>	
+								<string>{ -38.500,-84.500 }</string>	
+								<string>{ -60.500,-98.500 }</string>
+							</array>
+							<array>	
+								<string>{ -63.500,83.500 }</string>	
+								<string>{ -70.500,89.500 }</string>	
+								<string>{ -59.500,65.500 }</string>
+							</array>
+							<array>	
+								<string>{ -31.500,20.500 }</string>	
+								<string>{ -38.500,23.500 }</string>	
+								<string>{ -30.500,18.500 }</string>
+							</array>
+							<array>	
+								<string>{ 64.500,-48.500 }</string>	
+								<string>{ 42.500,-37.500 }</string>	
+								<string>{ 18.500,-29.500 }</string>	
+								<string>{ 34.500,-55.500 }</string>	
+								<string>{ 67.500,-52.500 }</string>
+							</array>
+							<array>	
+								<string>{ -52.500,54.500 }</string>	
+								<string>{ -60.500,63.500 }</string>	
+								<string>{ -45.500,35.500 }</string>
+							</array>
+							<array>	
+								<string>{ 53.500,-41.500 }</string>	
+								<string>{ 45.500,-37.500 }</string>	
+								<string>{ 42.500,-37.500 }</string>	
+								<string>{ 54.500,-43.500 }</string>
+							</array>
+							<array>	
+								<string>{ -70.500,93.500 }</string>	
+								<string>{ -84.500,107.500 }</string>	
+								<string>{ -70.500,89.500 }</string>
+							</array>
+							<array>	
+								<string>{ -70.500,89.500 }</string>	
+								<string>{ -84.500,107.500 }</string>	
+								<string>{ -60.500,63.500 }</string>	
+								<string>{ -59.500,65.500 }</string>
+							</array>
+							<array>	
+								<string>{ -18.500,10.500 }</string>	
+								<string>{ -21.500,10.500 }</string>	
+								<string>{ -2.500,-7.500 }</string>	
+								<string>{ -2.500,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ -13.500,-25.500 }</string>	
+								<string>{ 22.500,-51.500 }</string>	
+								<string>{ 34.500,-55.500 }</string>	
+								<string>{ 18.500,-29.500 }</string>	
+								<string>{ 9.500,-23.500 }</string>	
+								<string>{ -30.500,-6.500 }</string>
+							</array>
+							<array>	
+								<string>{ 38.500,-34.500 }</string>	
+								<string>{ 18.500,-29.500 }</string>	
+								<string>{ 42.500,-37.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1.500,-12.500 }</string>	
+								<string>{ -2.500,-7.500 }</string>	
+								<string>{ -30.500,18.500 }</string>	
+								<string>{ -38.500,23.500 }</string>	
+								<string>{ 4.500,-17.500 }</string>
+							</array>
+							<array>	
+								<string>{ -26.500,15.500 }</string>	
+								<string>{ -30.500,18.500 }</string>	
+								<string>{ -21.500,10.500 }</string>
+							</array>
+							<array>	
+								<string>{ -42.500,-21.500 }</string>	
+								<string>{ -42.500,-6.500 }</string>	
+								<string>{ -76.500,-99.500 }</string>	
+								<string>{ -74.500,-99.500 }</string>
+							</array>
+							<array>	
+								<string>{ -41.500,26.500 }</string>	
+								<string>{ -76.500,-99.500 }</string>	
+								<string>{ -40.500,-0.500 }</string>	
+								<string>{ -38.500,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ 4.500,-17.500 }</string>	
+								<string>{ -38.500,23.500 }</string>	
+								<string>{ -35.500,-2.500 }</string>	
+								<string>{ -30.500,-6.500 }</string>	
+								<string>{ 9.500,-23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -40.500,-0.500 }</string>	
+								<string>{ -35.500,-2.500 }</string>	
+								<string>{ -38.500,23.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>cave</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <true/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 23.000,-11.000 }</string>	
+								<string>{ 6.000,-3.000 }</string>	
+								<string>{ -12.000,0.000 }</string>	
+								<string>{ -26.000,-15.000 }</string>	
+								<string>{ -30.000,-23.000 }</string>	
+								<string>{ -30.000,-32.000 }</string>	
+								<string>{ 26.000,-33.000 }</string>
+							</array>
+							<array>	
+								<string>{ -22.000,-6.000 }</string>	
+								<string>{ -26.000,-15.000 }</string>	
+								<string>{ -12.000,0.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>b11-bg</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.9</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -63.500,33.500 }</string>	
+								<string>{ -63.500,31.500 }</string>	
+								<string>{ -54.500,32.500 }</string>	
+								<string>{ -55.500,34.500 }</string>	
+								<string>{ -60.500,34.500 }</string>
+							</array>
+							<array>	
+								<string>{ 62.500,34.500 }</string>	
+								<string>{ 57.500,34.500 }</string>	
+								<string>{ 54.500,32.500 }</string>	
+								<string>{ 64.500,31.500 }</string>
+							</array>
+							<array>	
+								<string>{ 78.500,20.500 }</string>	
+								<string>{ 76.500,22.500 }</string>	
+								<string>{ 64.500,31.500 }</string>	
+								<string>{ 54.500,32.500 }</string>	
+								<string>{ -75.500,-1.500 }</string>	
+								<string>{ -72.500,-2.500 }</string>	
+								<string>{ -48.500,-7.500 }</string>	
+								<string>{ 78.500,17.500 }</string>
+							</array>
+							<array>	
+								<string>{ 76.500,26.500 }</string>	
+								<string>{ 71.500,30.500 }</string>	
+								<string>{ 64.500,31.500 }</string>	
+								<string>{ 76.500,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ -80.500,12.500 }</string>	
+								<string>{ -75.500,-1.500 }</string>	
+								<string>{ 54.500,32.500 }</string>	
+								<string>{ -54.500,32.500 }</string>	
+								<string>{ -71.500,30.500 }</string>	
+								<string>{ -75.500,27.500 }</string>
+							</array>
+							<array>	
+								<string>{ 62.500,-8.500 }</string>	
+								<string>{ 76.500,-0.500 }</string>	
+								<string>{ 78.500,7.500 }</string>	
+								<string>{ 78.500,17.500 }</string>	
+								<string>{ 53.500,-7.500 }</string>
+							</array>
+							<array>	
+								<string>{ 72.500,-4.500 }</string>	
+								<string>{ 76.500,-0.500 }</string>	
+								<string>{ 69.500,-4.500 }</string>
+							</array>
+							<array>	
+								<string>{ 80.500,16.500 }</string>	
+								<string>{ 78.500,17.500 }</string>	
+								<string>{ 78.500,7.500 }</string>	
+								<string>{ 80.500,9.500 }</string>
+							</array>
+							<array>	
+								<string>{ -62.500,-8.500 }</string>	
+								<string>{ -55.500,-8.500 }</string>	
+								<string>{ -48.500,-7.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>
+							</array>
+							<array>	
+								<string>{ -72.500,-4.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>	
+								<string>{ -48.500,-7.500 }</string>	
+								<string>{ -72.500,-2.500 }</string>
+							</array>
+							<array>	
+								<string>{ 53.500,-7.500 }</string>	
+								<string>{ 78.500,17.500 }</string>	
+								<string>{ -48.500,-7.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>sling-bottom-gear</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.9</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -23.000,-16.000 }</string>	
+								<string>{ -22.000,-19.000 }</string>	
+								<string>{ -18.000,-23.000 }</string>	
+								<string>{ -12.000,-21.000 }</string>	
+								<string>{ -21.000,-15.000 }</string>
+							</array>
+							<array>	
+								<string>{ -28.000,-5.000 }</string>	
+								<string>{ -24.000,-5.000 }</string>	
+								<string>{ -24.000,5.000 }</string>	
+								<string>{ -27.000,5.000 }</string>	
+								<string>{ -29.000,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ -4.000,-29.000 }</string>	
+								<string>{ 4.000,-29.000 }</string>	
+								<string>{ 5.000,-24.000 }</string>	
+								<string>{ -5.000,-24.000 }</string>
+							</array>
+							<array>	
+								<string>{ 4.000,28.000 }</string>	
+								<string>{ -2.000,29.000 }</string>	
+								<string>{ -5.000,27.000 }</string>	
+								<string>{ -6.000,23.000 }</string>	
+								<string>{ 6.000,23.000 }</string>
+							</array>
+							<array>	
+								<string>{ 18.000,-23.000 }</string>	
+								<string>{ 19.000,-21.000 }</string>	
+								<string>{ 21.000,-15.000 }</string>	
+								<string>{ 21.000,-12.000 }</string>	
+								<string>{ 13.000,-21.000 }</string>	
+								<string>{ 15.000,-23.000 }</string>
+							</array>
+							<array>	
+								<string>{ 28.000,-5.000 }</string>	
+								<string>{ 29.000,1.000 }</string>	
+								<string>{ 27.000,5.000 }</string>	
+								<string>{ 24.000,5.000 }</string>	
+								<string>{ 24.000,-6.000 }</string>
+							</array>
+							<array>	
+								<string>{ -23.000,15.000 }</string>	
+								<string>{ -21.000,14.000 }</string>	
+								<string>{ -13.000,20.000 }</string>	
+								<string>{ -15.000,22.000 }</string>	
+								<string>{ -18.000,22.000 }</string>	
+								<string>{ -22.000,19.000 }</string>
+							</array>
+							<array>	
+								<string>{ 23.000,17.000 }</string>	
+								<string>{ 20.000,21.000 }</string>	
+								<string>{ 15.000,22.000 }</string>	
+								<string>{ 13.000,20.000 }</string>	
+								<string>{ 21.000,11.000 }</string>
+							</array>
+							<array>	
+								<string>{ 23.000,-16.000 }</string>	
+								<string>{ 21.000,-15.000 }</string>	
+								<string>{ 19.000,-21.000 }</string>	
+								<string>{ 21.000,-21.000 }</string>
+							</array>
+							<array>	
+								<string>{ 23.000,10.000 }</string>	
+								<string>{ 21.000,11.000 }</string>	
+								<string>{ 24.000,-6.000 }</string>	
+								<string>{ 24.000,5.000 }</string>
+							</array>
+							<array>	
+								<string>{ 12.000,22.000 }</string>	
+								<string>{ 6.000,23.000 }</string>	
+								<string>{ -6.000,23.000 }</string>	
+								<string>{ 21.000,-12.000 }</string>	
+								<string>{ 24.000,-6.000 }</string>	
+								<string>{ 13.000,20.000 }</string>
+							</array>
+							<array>	
+								<string>{ -8.000,-24.000 }</string>	
+								<string>{ 5.000,-24.000 }</string>	
+								<string>{ 21.000,-12.000 }</string>	
+								<string>{ -6.000,23.000 }</string>	
+								<string>{ -9.000,23.000 }</string>	
+								<string>{ -13.000,20.000 }</string>	
+								<string>{ -12.000,-21.000 }</string>
+							</array>
+							<array>	
+								<string>{ -23.000,-10.000 }</string>	
+								<string>{ -12.000,-21.000 }</string>	
+								<string>{ -13.000,20.000 }</string>	
+								<string>{ -21.000,11.000 }</string>	
+								<string>{ -24.000,-5.000 }</string>
+							</array>
+							<array>	
+								<string>{ -21.000,14.000 }</string>	
+								<string>{ -21.000,11.000 }</string>	
+								<string>{ -13.000,20.000 }</string>
+							</array>
+							<array>	
+								<string>{ -21.000,-15.000 }</string>	
+								<string>{ -12.000,-21.000 }</string>	
+								<string>{ -21.000,-12.000 }</string>
+							</array>
+							<array>	
+								<string>{ 11.000,-23.000 }</string>	
+								<string>{ 13.000,-21.000 }</string>	
+								<string>{ 21.000,-12.000 }</string>	
+								<string>{ 5.000,-24.000 }</string>
+							</array>
+							<array>	
+								<string>{ -24.000,5.000 }</string>	
+								<string>{ -24.000,-5.000 }</string>	
+								<string>{ -21.000,11.000 }</string>
+							</array>
+							<array>	
+								<string>{ 21.000,11.000 }</string>	
+								<string>{ 13.000,20.000 }</string>	
+								<string>{ 24.000,-6.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>sling-middle-gear</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.4865,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.9</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 14.000,13.500 }</string>	
+								<string>{ -5.000,13.500 }</string>	
+								<string>{ -13.000,8.500 }</string>	
+								<string>{ -13.000,5.500 }</string>	
+								<string>{ 7.000,-13.500 }</string>	
+								<string>{ 14.000,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ -15.000,-9.500 }</string>	
+								<string>{ -14.000,-12.500 }</string>	
+								<string>{ -10.000,-15.500 }</string>	
+								<string>{ -8.000,-13.500 }</string>	
+								<string>{ -13.000,-8.500 }</string>
+							</array>
+							<array>	
+								<string>{ -15.000,9.500 }</string>	
+								<string>{ -13.000,8.500 }</string>	
+								<string>{ -5.000,13.500 }</string>	
+								<string>{ -11.000,14.500 }</string>	
+								<string>{ -14.000,12.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.000,-15.500 }</string>	
+								<string>{ 12.000,-13.500 }</string>	
+								<string>{ 14.000,-5.500 }</string>	
+								<string>{ 7.000,-13.500 }</string>
+							</array>
+							<array>	
+								<string>{ 4.000,-18.500 }</string>	
+								<string>{ 5.000,-14.500 }</string>	
+								<string>{ -4.000,-14.500 }</string>	
+								<string>{ -3.000,-18.500 }</string>
+							</array>
+							<array>	
+								<string>{ -17.000,4.500 }</string>	
+								<string>{ -18.000,-2.500 }</string>	
+								<string>{ -17.000,-4.500 }</string>	
+								<string>{ -13.000,-5.500 }</string>	
+								<string>{ -13.000,5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 5.000,17.500 }</string>	
+								<string>{ -2.000,18.500 }</string>	
+								<string>{ -4.000,17.500 }</string>	
+								<string>{ -5.000,13.500 }</string>	
+								<string>{ 6.000,13.500 }</string>
+							</array>
+							<array>	
+								<string>{ 18.000,-4.500 }</string>	
+								<string>{ 18.000,4.500 }</string>	
+								<string>{ 14.000,5.500 }</string>	
+								<string>{ 14.000,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 14.000,-13.500 }</string>	
+								<string>{ 14.000,-5.500 }</string>	
+								<string>{ 12.000,-13.500 }</string>
+							</array>
+							<array>	
+								<string>{ -13.000,-8.500 }</string>	
+								<string>{ -8.000,-13.500 }</string>	
+								<string>{ -4.000,-14.500 }</string>	
+								<string>{ 5.000,-14.500 }</string>	
+								<string>{ 7.000,-13.500 }</string>	
+								<string>{ -13.000,5.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>sling-top-gear</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.9</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 23.500,-24.500 }</string>	
+								<string>{ 23.500,-22.500 }</string>	
+								<string>{ 14.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,-31.500 }</string>	
+								<string>{ 5.500,-28.500 }</string>	
+								<string>{ -5.500,-28.500 }</string>	
+								<string>{ -5.500,-32.500 }</string>	
+								<string>{ 3.500,-33.500 }</string>
+							</array>
+							<array>	
+								<string>{ -28.500,8.500 }</string>	
+								<string>{ -28.500,6.500 }</string>	
+								<string>{ -24.500,-14.500 }</string>	
+								<string>{ -16.500,-24.500 }</string>	
+								<string>{ -14.500,-24.500 }</string>	
+								<string>{ -26.500,9.500 }</string>
+							</array>
+							<array>	
+								<string>{ -26.500,-20.500 }</string>	
+								<string>{ -21.500,-25.500 }</string>	
+								<string>{ -17.500,-26.500 }</string>	
+								<string>{ -16.500,-24.500 }</string>	
+								<string>{ -24.500,-14.500 }</string>
+							</array>
+							<array>	
+								<string>{ 26.500,-20.500 }</string>	
+								<string>{ 24.500,-14.500 }</string>	
+								<string>{ 14.500,-24.500 }</string>	
+								<string>{ 23.500,-22.500 }</string>
+							</array>
+							<array>	
+								<string>{ 31.500,6.500 }</string>	
+								<string>{ 28.500,6.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>	
+								<string>{ 32.500,-5.500 }</string>	
+								<string>{ 33.500,-3.500 }</string>	
+								<string>{ 33.500,3.500 }</string>
+							</array>
+							<array>	
+								<string>{ -31.500,6.500 }</string>	
+								<string>{ -33.500,3.500 }</string>	
+								<string>{ -33.500,-3.500 }</string>	
+								<string>{ -32.500,-5.500 }</string>	
+								<string>{ -28.500,-5.500 }</string>	
+								<string>{ -28.500,6.500 }</string>
+							</array>
+							<array>	
+								<string>{ 6.500,31.500 }</string>	
+								<string>{ 4.500,33.500 }</string>	
+								<string>{ -4.500,33.500 }</string>	
+								<string>{ -6.500,31.500 }</string>	
+								<string>{ -6.500,28.500 }</string>	
+								<string>{ 6.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 20.500,26.500 }</string>	
+								<string>{ 14.500,25.500 }</string>	
+								<string>{ 24.500,15.500 }</string>	
+								<string>{ 26.500,17.500 }</string>	
+								<string>{ 26.500,21.500 }</string>
+							</array>
+							<array>	
+								<string>{ -26.500,17.500 }</string>	
+								<string>{ -24.500,15.500 }</string>	
+								<string>{ -15.500,24.500 }</string>	
+								<string>{ -17.500,26.500 }</string>	
+								<string>{ -21.500,26.500 }</string>	
+								<string>{ -25.500,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ 20.500,-26.500 }</string>	
+								<string>{ 21.500,-24.500 }</string>	
+								<string>{ 14.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ -27.500,11.500 }</string>	
+								<string>{ -26.500,9.500 }</string>	
+								<string>{ 7.500,-27.500 }</string>	
+								<string>{ 14.500,-24.500 }</string>	
+								<string>{ -24.500,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ 27.500,-11.500 }</string>	
+								<string>{ 28.500,-5.500 }</string>	
+								<string>{ 28.500,6.500 }</string>	
+								<string>{ 24.500,15.500 }</string>	
+								<string>{ 14.500,25.500 }</string>	
+								<string>{ 6.500,28.500 }</string>	
+								<string>{ 14.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ 10.500,-27.500 }</string>	
+								<string>{ 14.500,-24.500 }</string>	
+								<string>{ 7.500,-27.500 }</string>
+							</array>
+							<array>	
+								<string>{ -10.500,-27.500 }</string>	
+								<string>{ -5.500,-28.500 }</string>	
+								<string>{ 5.500,-28.500 }</string>	
+								<string>{ 7.500,-27.500 }</string>	
+								<string>{ -26.500,9.500 }</string>	
+								<string>{ -14.500,-24.500 }</string>
+							</array>
+							<array>	
+								<string>{ -27.500,-10.500 }</string>	
+								<string>{ -24.500,-14.500 }</string>	
+								<string>{ -28.500,6.500 }</string>	
+								<string>{ -28.500,-5.500 }</string>
+							</array>
+							<array>	
+								<string>{ -11.500,27.500 }</string>	
+								<string>{ -15.500,24.500 }</string>	
+								<string>{ -24.500,15.500 }</string>	
+								<string>{ 14.500,-24.500 }</string>	
+								<string>{ 6.500,28.500 }</string>	
+								<string>{ -6.500,28.500 }</string>
+							</array>
+							<array>	
+								<string>{ 12.500,27.500 }</string>	
+								<string>{ 6.500,28.500 }</string>	
+								<string>{ 14.500,25.500 }</string>
+							</array>
+							<array>	
+								<string>{ 28.500,9.500 }</string>	
+								<string>{ 24.500,15.500 }</string>	
+								<string>{ 28.500,6.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>sling-branch</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>10</real>
+                        <key>friction</key> <real>0.5</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 80.000,17.000 }</string>	
+								<string>{ 80.000,20.000 }</string>	
+								<string>{ 73.000,18.000 }</string>	
+								<string>{ 77.000,17.000 }</string>
+							</array>
+							<array>	
+								<string>{ 2.000,-18.000 }</string>	
+								<string>{ -1.000,-18.000 }</string>	
+								<string>{ -8.000,-19.000 }</string>	
+								<string>{ 2.000,-20.000 }</string>
+							</array>
+							<array>	
+								<string>{ 77.000,17.000 }</string>	
+								<string>{ 73.000,18.000 }</string>	
+								<string>{ 66.000,19.000 }</string>	
+								<string>{ 57.000,14.000 }</string>	
+								<string>{ 69.000,13.000 }</string>
+							</array>
+							<array>	
+								<string>{ 19.000,-8.000 }</string>	
+								<string>{ 22.000,-5.000 }</string>	
+								<string>{ 39.000,23.000 }</string>	
+								<string>{ 10.000,8.000 }</string>	
+								<string>{ 16.000,-8.000 }</string>
+							</array>
+							<array>	
+								<string>{ -81.000,-28.000 }</string>	
+								<string>{ -81.000,-41.000 }</string>	
+								<string>{ -78.000,-43.000 }</string>	
+								<string>{ -65.000,-41.000 }</string>	
+								<string>{ -49.000,-37.000 }</string>	
+								<string>{ -37.000,-31.000 }</string>	
+								<string>{ -46.000,-17.000 }</string>
+							</array>
+							<array>	
+								<string>{ 16.000,25.000 }</string>	
+								<string>{ 15.000,17.000 }</string>	
+								<string>{ 19.000,15.000 }</string>	
+								<string>{ 19.000,26.000 }</string>
+							</array>
+							<array>	
+								<string>{ 15.000,17.000 }</string>	
+								<string>{ 11.000,12.000 }</string>	
+								<string>{ 10.000,8.000 }</string>	
+								<string>{ 18.000,13.000 }</string>	
+								<string>{ 19.000,15.000 }</string>
+							</array>
+							<array>	
+								<string>{ 72.000,45.000 }</string>	
+								<string>{ 65.000,39.000 }</string>	
+								<string>{ 66.000,19.000 }</string>	
+								<string>{ 82.000,29.000 }</string>	
+								<string>{ 82.000,36.000 }</string>	
+								<string>{ 76.000,44.000 }</string>
+							</array>
+							<array>	
+								<string>{ 65.000,39.000 }</string>	
+								<string>{ 50.000,31.000 }</string>	
+								<string>{ 57.000,14.000 }</string>	
+								<string>{ 66.000,19.000 }</string>
+							</array>
+							<array>	
+								<string>{ 43.000,27.000 }</string>	
+								<string>{ 39.000,23.000 }</string>	
+								<string>{ 22.000,-5.000 }</string>	
+								<string>{ 33.000,1.000 }</string>	
+								<string>{ 48.000,28.000 }</string>
+							</array>
+							<array>	
+								<string>{ 38.000,2.000 }</string>	
+								<string>{ 39.000,4.000 }</string>	
+								<string>{ 50.000,31.000 }</string>	
+								<string>{ 48.000,28.000 }</string>	
+								<string>{ 33.000,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ -1.000,-18.000 }</string>	
+								<string>{ -1.000,-16.000 }</string>	
+								<string>{ -28.000,-10.000 }</string>	
+								<string>{ -32.000,-10.000 }</string>	
+								<string>{ -8.000,-19.000 }</string>
+							</array>
+							<array>	
+								<string>{ -14.000,-23.000 }</string>	
+								<string>{ -8.000,-19.000 }</string>	
+								<string>{ -32.000,-10.000 }</string>	
+								<string>{ -18.000,-23.000 }</string>
+							</array>
+							<array>	
+								<string>{ 27.000,-4.000 }</string>	
+								<string>{ 33.000,1.000 }</string>	
+								<string>{ 22.000,-5.000 }</string>
+							</array>
+							<array>	
+								<string>{ 57.000,14.000 }</string>	
+								<string>{ 50.000,31.000 }</string>	
+								<string>{ 48.000,9.000 }</string>	
+								<string>{ 54.000,11.000 }</string>
+							</array>
+							<array>	
+								<string>{ -78.000,-45.000 }</string>	
+								<string>{ -67.000,-43.000 }</string>	
+								<string>{ -65.000,-41.000 }</string>	
+								<string>{ -78.000,-43.000 }</string>
+							</array>
+							<array>	
+								<string>{ -46.000,-17.000 }</string>	
+								<string>{ -37.000,-31.000 }</string>	
+								<string>{ -21.000,-26.000 }</string>	
+								<string>{ -18.000,-23.000 }</string>	
+								<string>{ -32.000,-10.000 }</string>
+							</array>
+							<array>	
+								<string>{ 47.000,7.000 }</string>	
+								<string>{ 48.000,9.000 }</string>	
+								<string>{ 50.000,31.000 }</string>	
+								<string>{ 39.000,4.000 }</string>
+							</array>
+							<array>	
+								<string>{ -27.000,-8.000 }</string>	
+								<string>{ -28.000,-10.000 }</string>	
+								<string>{ -1.000,-16.000 }</string>	
+								<string>{ -17.000,-5.000 }</string>
+							</array>
+							<array>	
+								<string>{ -9.000,0.000 }</string>	
+								<string>{ -17.000,-5.000 }</string>	
+								<string>{ -1.000,-16.000 }</string>	
+								<string>{ 4.000,-15.000 }</string>	
+								<string>{ 16.000,-8.000 }</string>	
+								<string>{ -6.000,0.000 }</string>
+							</array>
+							<array>	
+								<string>{ 18.000,13.000 }</string>	
+								<string>{ 10.000,8.000 }</string>	
+								<string>{ 39.000,23.000 }</string>
+							</array>
+							<array>	
+								<string>{ -6.000,0.000 }</string>	
+								<string>{ 16.000,-8.000 }</string>	
+								<string>{ 10.000,8.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>sling-branch2</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0.7</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -73.500,2.500 }</string>	
+								<string>{ -73.500,0.500 }</string>	
+								<string>{ -70.500,-2.500 }</string>	
+								<string>{ 74.500,-2.500 }</string>	
+								<string>{ 74.500,3.500 }</string>	
+								<string>{ -69.500,3.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>cage-handle</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.1250,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 85.250,8.000 }</string>	
+								<string>{ 75.250,6.000 }</string>	
+								<string>{ 65.250,3.000 }</string>	
+								<string>{ 64.250,-4.000 }</string>	
+								<string>{ 70.250,-5.000 }</string>	
+								<string>{ 81.250,-6.000 }</string>	
+								<string>{ 87.250,3.000 }</string>
+							</array>
+							<array>	
+								<string>{ 86.250,-7.000 }</string>	
+								<string>{ 87.250,-3.000 }</string>	
+								<string>{ 87.250,3.000 }</string>	
+								<string>{ 81.250,-6.000 }</string>
+							</array>
+							<array>	
+								<string>{ 61.250,-5.000 }</string>	
+								<string>{ 64.250,-4.000 }</string>	
+								<string>{ 65.250,3.000 }</string>	
+								<string>{ 59.250,-3.000 }</string>
+							</array>
+							<array>	
+								<string>{ 55.250,-9.000 }</string>	
+								<string>{ 55.250,-7.000 }</string>	
+								<string>{ 51.250,-6.000 }</string>	
+								<string>{ 51.250,-9.000 }</string>
+							</array>
+							<array>	
+								<string>{ 69.250,7.000 }</string>	
+								<string>{ 65.250,3.000 }</string>	
+								<string>{ 75.250,6.000 }</string>
+							</array>
+							<array>	
+								<string>{ 79.250,9.000 }</string>	
+								<string>{ 75.250,6.000 }</string>	
+								<string>{ 80.250,7.000 }</string>
+							</array>
+							<array>	
+								<string>{ -12.750,1.000 }</string>	
+								<string>{ -11.750,-3.000 }</string>	
+								<string>{ -1.750,-3.000 }</string>	
+								<string>{ -1.750,3.000 }</string>	
+								<string>{ -10.750,3.000 }</string>
+							</array>
+							<array>	
+								<string>{ -1.750,-3.000 }</string>	
+								<string>{ 5.250,-5.000 }</string>	
+								<string>{ 6.250,-3.000 }</string>	
+								<string>{ 6.250,3.000 }</string>	
+								<string>{ 5.250,5.000 }</string>	
+								<string>{ -0.750,5.000 }</string>	
+								<string>{ -1.750,3.000 }</string>
+							</array>
+							<array>	
+								<string>{ 35.250,9.000 }</string>	
+								<string>{ 34.250,5.000 }</string>	
+								<string>{ 35.250,3.000 }</string>	
+								<string>{ 37.250,9.000 }</string>
+							</array>
+							<array>	
+								<string>{ 89.250,2.000 }</string>	
+								<string>{ 87.250,3.000 }</string>	
+								<string>{ 87.250,-3.000 }</string>	
+								<string>{ 89.250,-2.000 }</string>
+							</array>
+							<array>	
+								<string>{ 65.250,-6.000 }</string>	
+								<string>{ 70.250,-5.000 }</string>	
+								<string>{ 64.250,-4.000 }</string>
+							</array>
+							<array>	
+								<string>{ 34.250,5.000 }</string>	
+								<string>{ 31.250,3.000 }</string>	
+								<string>{ 35.250,3.000 }</string>
+							</array>
+							<array>	
+								<string>{ 51.250,-9.000 }</string>	
+								<string>{ 51.250,-6.000 }</string>	
+								<string>{ 49.250,-3.000 }</string>	
+								<string>{ 35.250,3.000 }</string>
+							</array>
+							<array>	
+								<string>{ 80.250,-8.000 }</string>	
+								<string>{ 81.250,-6.000 }</string>	
+								<string>{ 70.250,-5.000 }</string>
+							</array>
+							<array>	
+								<string>{ 59.250,-3.000 }</string>	
+								<string>{ 65.250,3.000 }</string>	
+								<string>{ 35.250,3.000 }</string>	
+								<string>{ 49.250,-3.000 }</string>
+							</array>
+							<array>	
+								<string>{ 43.250,-3.000 }</string>	
+								<string>{ 35.250,3.000 }</string>	
+								<string>{ 6.250,3.000 }</string>	
+								<string>{ 6.250,-3.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>cage</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -45.000,17.500 }</string>	
+								<string>{ -52.000,17.500 }</string>	
+								<string>{ -52.000,-87.500 }</string>	
+								<string>{ -46.000,-87.500 }</string>
+							</array>
+						</array>
+                    </dict>
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 45.000,17.500 }</string>	
+								<string>{ 45.000,-87.500 }</string>	
+								<string>{ 52.000,-87.500 }</string>	
+								<string>{ 52.000,17.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>brick12</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.5000,0.5000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>3</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 67.500,-2.500 }</string>	
+								<string>{ 68.500,3.500 }</string>	
+								<string>{ 61.500,-4.500 }</string>
+							</array>
+							<array>	
+								<string>{ 46.500,-24.500 }</string>	
+								<string>{ 49.500,-26.500 }</string>	
+								<string>{ 53.500,-19.500 }</string>	
+								<string>{ 49.500,-18.500 }</string>
+							</array>
+							<array>	
+								<string>{ 49.500,-18.500 }</string>	
+								<string>{ 53.500,-19.500 }</string>	
+								<string>{ 53.500,-12.500 }</string>	
+								<string>{ 49.500,-14.500 }</string>
+							</array>
+							<array>	
+								<string>{ 39.500,-21.500 }</string>	
+								<string>{ 43.500,-15.500 }</string>	
+								<string>{ 36.500,-17.500 }</string>	
+								<string>{ 36.500,-19.500 }</string>
+							</array>
+							<array>	
+								<string>{ -43.500,26.500 }</string>	
+								<string>{ -46.500,22.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>	
+								<string>{ -35.500,22.500 }</string>	
+								<string>{ -38.500,26.500 }</string>
+							</array>
+							<array>	
+								<string>{ 79.500,6.500 }</string>	
+								<string>{ 81.500,12.500 }</string>	
+								<string>{ 79.500,13.500 }</string>	
+								<string>{ 52.500,22.500 }</string>	
+								<string>{ 41.500,22.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>
+							</array>
+							<array>	
+								<string>{ -72.500,19.500 }</string>	
+								<string>{ -71.500,15.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>	
+								<string>{ -46.500,22.500 }</string>	
+								<string>{ -69.500,23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -78.500,5.500 }</string>	
+								<string>{ -74.500,5.500 }</string>	
+								<string>{ -71.500,15.500 }</string>	
+								<string>{ -79.500,15.500 }</string>	
+								<string>{ -81.500,13.500 }</string>	
+								<string>{ -81.500,8.500 }</string>
+							</array>
+							<array>	
+								<string>{ -34.500,-22.500 }</string>	
+								<string>{ -25.500,-20.500 }</string>	
+								<string>{ -38.500,-18.500 }</string>
+							</array>
+							<array>	
+								<string>{ 50.500,25.500 }</string>	
+								<string>{ 44.500,25.500 }</string>	
+								<string>{ 41.500,22.500 }</string>	
+								<string>{ 52.500,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ -75.500,0.500 }</string>	
+								<string>{ -72.500,-4.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>	
+								<string>{ -71.500,15.500 }</string>	
+								<string>{ -74.500,5.500 }</string>
+							</array>
+							<array>	
+								<string>{ 79.500,15.500 }</string>	
+								<string>{ 73.500,15.500 }</string>	
+								<string>{ 79.500,13.500 }</string>
+							</array>
+							<array>	
+								<string>{ -9.500,-25.500 }</string>	
+								<string>{ -5.500,-25.500 }</string>	
+								<string>{ -1.500,-22.500 }</string>	
+								<string>{ -1.500,-20.500 }</string>	
+								<string>{ -11.500,-23.500 }</string>
+							</array>
+							<array>	
+								<string>{ -46.500,-19.500 }</string>	
+								<string>{ -38.500,-18.500 }</string>	
+								<string>{ -48.500,-16.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.500,-21.500 }</string>	
+								<string>{ 14.500,-22.500 }</string>	
+								<string>{ 21.500,-22.500 }</string>	
+								<string>{ 24.500,-21.500 }</string>	
+								<string>{ 27.500,-17.500 }</string>	
+								<string>{ 9.500,-18.500 }</string>
+							</array>
+							<array>	
+								<string>{ -23.500,-23.500 }</string>	
+								<string>{ -20.500,-24.500 }</string>	
+								<string>{ -11.500,-23.500 }</string>	
+								<string>{ -1.500,-20.500 }</string>	
+								<string>{ -25.500,-20.500 }</string>
+							</array>
+							<array>	
+								<string>{ 60.500,-8.500 }</string>	
+								<string>{ 61.500,-4.500 }</string>	
+								<string>{ 53.500,-12.500 }</string>	
+								<string>{ 57.500,-11.500 }</string>
+							</array>
+							<array>	
+								<string>{ 73.500,21.500 }</string>	
+								<string>{ 71.500,23.500 }</string>	
+								<string>{ 52.500,22.500 }</string>	
+								<string>{ 73.500,15.500 }</string>
+							</array>
+							<array>	
+								<string>{ 5.500,-20.500 }</string>	
+								<string>{ 6.500,-18.500 }</string>	
+								<string>{ -38.500,-18.500 }</string>	
+								<string>{ -25.500,-20.500 }</string>
+							</array>
+							<array>	
+								<string>{ -58.500,-15.500 }</string>	
+								<string>{ -48.500,-16.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>	
+								<string>{ -62.500,-11.500 }</string>
+							</array>
+							<array>	
+								<string>{ -35.500,22.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>	
+								<string>{ 41.500,22.500 }</string>
+							</array>
+							<array>	
+								<string>{ 49.500,-14.500 }</string>	
+								<string>{ 53.500,-12.500 }</string>	
+								<string>{ 61.500,-4.500 }</string>	
+								<string>{ 68.500,3.500 }</string>	
+								<string>{ 9.500,-18.500 }</string>	
+								<string>{ 27.500,-17.500 }</string>	
+								<string>{ 43.500,-15.500 }</string>
+							</array>
+							<array>	
+								<string>{ -48.500,-16.500 }</string>	
+								<string>{ -38.500,-18.500 }</string>	
+								<string>{ 9.500,-18.500 }</string>	
+								<string>{ 68.500,3.500 }</string>	
+								<string>{ 70.500,5.500 }</string>	
+								<string>{ -64.500,-6.500 }</string>
+							</array>
+							<array>	
+								<string>{ 36.500,-17.500 }</string>	
+								<string>{ 43.500,-15.500 }</string>	
+								<string>{ 27.500,-17.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>
+

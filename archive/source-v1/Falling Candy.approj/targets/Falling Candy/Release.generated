@@ -1,0 +1,2361 @@
+{
+    "assets": [
+        {
+            "asset": "Falling Apple/en.lproj/InfoPlist.strings", 
+            "target": "en.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "Falling Apple/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "Falling Apple/Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/en.lproj/ViewController.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Falling Apple/Resources/brick-1@2x.png", 
+            "target": "brick-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/game-bg-1@2x.png", 
+            "target": "game-bg-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/logo@2x.png", 
+            "target": "logo@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/brick-1.png", 
+            "target": "brick-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/game-bg-1.png", 
+            "target": "game-bg-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/logo.png", 
+            "target": "logo.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/home-bg.png", 
+            "target": "home-bg.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/home-bg@2x.png", 
+            "target": "home-bg@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/playing-games.m4a", 
+            "target": "playing-games.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/pause@2x.png", 
+            "target": "pause@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/play@2x.png", 
+            "target": "play@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/share@2x.png", 
+            "target": "share@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/small-play@2x.png", 
+            "target": "small-play@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/sound-off@2x.png", 
+            "target": "sound-off@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/sound@2x.png", 
+            "target": "sound@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/pause.png", 
+            "target": "pause.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/play.png", 
+            "target": "play.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/share.png", 
+            "target": "share.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/small-play.png", 
+            "target": "small-play.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/sound-off.png", 
+            "target": "sound-off.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/sound.png", 
+            "target": "sound.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-empty.png", 
+            "target": "star-empty.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/GROBOLD.ttf", 
+            "target": "GROBOLD.ttf"
+        }, 
+        {
+            "asset": "Falling Candy v2/Resources/GROBOLD.ttf", 
+            "target": "GROBOLD.ttf"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/playing-games-home.m4a", 
+            "target": "playing-games-home.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/playing-games-levels.m4a", 
+            "target": "playing-games-levels.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/bump.m4a", 
+            "target": "bump.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/buttons.m4a", 
+            "target": "buttons.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/break.m4a", 
+            "target": "break.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/twitter@2x.png", 
+            "target": "twitter@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/facebook@2x.png", 
+            "target": "facebook@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/cancel@2x.png", 
+            "target": "cancel@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/cancel.png", 
+            "target": "cancel.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/facebook.png", 
+            "target": "facebook.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/twitter.png", 
+            "target": "twitter.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/rcandy-1.png", 
+            "target": "rcandy-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/rcandy-2.png", 
+            "target": "rcandy-2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/rcandy-3.png", 
+            "target": "rcandy-3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/rcandy-1@2x.png", 
+            "target": "rcandy-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/rcandy-2@2x.png", 
+            "target": "rcandy-2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/rcandy-3@2x.png", 
+            "target": "rcandy-3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/logo-without-candy@2x.png", 
+            "target": "logo-without-candy@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/logo-without-candy.png", 
+            "target": "logo-without-candy.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw.m4a", 
+            "target": "saw.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/cave@2x.png", 
+            "target": "cave@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/cave.png", 
+            "target": "cave.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/ground@2x.png", 
+            "target": "ground@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/ground.png", 
+            "target": "ground.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/progress-bg@2x.png", 
+            "target": "progress-bg@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/progress-full@2x.png", 
+            "target": "progress-full@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/small-candy@2x.png", 
+            "target": "small-candy@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/progress-bg.png", 
+            "target": "progress-bg.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/progress-full.png", 
+            "target": "progress-full.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/small-candy.png", 
+            "target": "small-candy.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/chim.m4a", 
+            "target": "chim.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-1.png", 
+            "target": "monster-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-2.png", 
+            "target": "monster-2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-3.png", 
+            "target": "monster-3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-4.png", 
+            "target": "monster-4.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-4@2x.png", 
+            "target": "monster-4@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-3@2x.png", 
+            "target": "monster-3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-2@2x.png", 
+            "target": "monster-2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/monster-1@2x.png", 
+            "target": "monster-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/laugh.m4a", 
+            "target": "laugh.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/perfect@2x.png", 
+            "target": "perfect@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/great@2x.png", 
+            "target": "great@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/well-done@2x.png", 
+            "target": "well-done@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/great.png", 
+            "target": "great.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/perfect.png", 
+            "target": "perfect.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/well-done.png", 
+            "target": "well-done.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-1@2x.png", 
+            "target": "fire-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-2@2x.png", 
+            "target": "fire-2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-3@2x.png", 
+            "target": "fire-3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-4@2x.png", 
+            "target": "fire-4@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-5@2x.png", 
+            "target": "fire-5@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-1.png", 
+            "target": "fire-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-2.png", 
+            "target": "fire-2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-3.png", 
+            "target": "fire-3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-4.png", 
+            "target": "fire-4.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire-5.png", 
+            "target": "fire-5.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/arbuzs@2x.png", 
+            "target": "arbuzs@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/bananas@2x.png", 
+            "target": "bananas@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf1@2x.png", 
+            "target": "puf1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf2@2x.png", 
+            "target": "puf2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf3@2x.png", 
+            "target": "puf3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf4@2x.png", 
+            "target": "puf4@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/strawberry@2x.png", 
+            "target": "strawberry@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/arbuzs.png", 
+            "target": "arbuzs.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/bananas.png", 
+            "target": "bananas.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf1.png", 
+            "target": "puf1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf2.png", 
+            "target": "puf2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf3.png", 
+            "target": "puf3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puf4.png", 
+            "target": "puf4.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/strawberry.png", 
+            "target": "strawberry.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/puff.m4a", 
+            "target": "puff.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green6@2x.png", 
+            "target": "green6@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green5@2x.png", 
+            "target": "green5@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green4@2x.png", 
+            "target": "green4@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green3@2x.png", 
+            "target": "green3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green2@2x.png", 
+            "target": "green2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green1@2x.png", 
+            "target": "green1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green1.png", 
+            "target": "green1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green2.png", 
+            "target": "green2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green3.png", 
+            "target": "green3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green4.png", 
+            "target": "green4.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green5.png", 
+            "target": "green5.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green6.png", 
+            "target": "green6.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green-shadow.png", 
+            "target": "green-shadow.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green-shadow@2x.png", 
+            "target": "green-shadow@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green-sad.png", 
+            "target": "green-sad.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/green-sad@2x.png", 
+            "target": "green-sad@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level@2x.png", 
+            "target": "level@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level-locked@2x.png", 
+            "target": "level-locked@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level-locked.png", 
+            "target": "level-locked.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level.png", 
+            "target": "level.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-small-empty@2x.png", 
+            "target": "star-small-empty@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-small@2x.png", 
+            "target": "star-small@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-small-empty.png", 
+            "target": "star-small-empty.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-small.png", 
+            "target": "star-small.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/back@2x.png", 
+            "target": "back@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/back.png", 
+            "target": "back.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/unlock-all@2x.png", 
+            "target": "unlock-all@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/unlock-all.png", 
+            "target": "unlock-all.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/home-monster.png", 
+            "target": "home-monster.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/home-monster@2x.png", 
+            "target": "home-monster@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/unlock-btn.png", 
+            "target": "unlock-btn.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/unlock-btn@2x.png", 
+            "target": "unlock-btn@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/fire.m4a", 
+            "target": "fire.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/crunch.m4a", 
+            "target": "crunch.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/arrow-down.png", 
+            "target": "arrow-down.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/arrow-down@2x.png", 
+            "target": "arrow-down@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/brick-2.png", 
+            "target": "brick-2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/brick-2@2x.png", 
+            "target": "brick-2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/game-bg-2.png", 
+            "target": "game-bg-2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/game-bg-2@2x.png", 
+            "target": "game-bg-2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-1.png", 
+            "target": "saw-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-1@2x.png", 
+            "target": "saw-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-2.png", 
+            "target": "saw-2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-2@2x.png", 
+            "target": "saw-2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-3.png", 
+            "target": "saw-3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-3@2x.png", 
+            "target": "saw-3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-4.png", 
+            "target": "saw-4.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/saw-4@2x.png", 
+            "target": "saw-4@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/brick-3.png", 
+            "target": "brick-3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/brick-3@2x.png", 
+            "target": "brick-3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/game-bg-3.png", 
+            "target": "game-bg-3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/game-bg-3@2x.png", 
+            "target": "game-bg-3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/thm1-box.png", 
+            "target": "thm1-box.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/thm1-box@2x.png", 
+            "target": "thm1-box@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/thm1-helper.png", 
+            "target": "thm1-helper.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/thm1-helper@2x.png", 
+            "target": "thm1-helper@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/thm1-spring.png", 
+            "target": "thm1-spring.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/thm1-spring@2x.png", 
+            "target": "thm1-spring@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/spring.m4a", 
+            "target": "spring.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/red-brick.png", 
+            "target": "red-brick.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/red-brick@2x.png", 
+            "target": "red-brick@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Levels.plist", 
+            "target": "Levels.plist"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/sandclock.png", 
+            "target": "sandclock.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/sandclock@2x.png", 
+            "target": "sandclock@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin1@2x.png", 
+            "target": "coin1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin2@2x.png", 
+            "target": "coin2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin3@2x.png", 
+            "target": "coin3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin4@2x.png", 
+            "target": "coin4@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin5@2x.png", 
+            "target": "coin5@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin6@2x.png", 
+            "target": "coin6@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin1.png", 
+            "target": "coin1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin2.png", 
+            "target": "coin2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin3.png", 
+            "target": "coin3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin4.png", 
+            "target": "coin4.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin5.png", 
+            "target": "coin5.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/coin6.png", 
+            "target": "coin6.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/cashregister.m4a", 
+            "target": "cashregister.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/swoosh.m4a", 
+            "target": "swoosh.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/red-brick2@2x.png", 
+            "target": "red-brick2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/red-brick1@2x.png", 
+            "target": "red-brick1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/red-brick1.png", 
+            "target": "red-brick1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/red-brick2.png", 
+            "target": "red-brick2.png"
+        }, 
+        {
+            "asset": "Falling Apple/icon-72.png", 
+            "target": "icon-72.png"
+        }, 
+        {
+            "asset": "Falling Apple/icon-72@2x.png", 
+            "target": "icon-72@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/icon.png", 
+            "target": "icon.png"
+        }, 
+        {
+            "asset": "Falling Apple/icon@2x.png", 
+            "target": "icon@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/themes-bg.png", 
+            "target": "themes-bg.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/themes-bg@2x.png", 
+            "target": "themes-bg@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/themes-doors-1.png", 
+            "target": "themes-doors-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/themes-doors-1@2x.png", 
+            "target": "themes-doors-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/themes-doors-2.png", 
+            "target": "themes-doors-2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/themes-doors-2@2x.png", 
+            "target": "themes-doors-2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-menu.png", 
+            "target": "btn-menu.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-menu@2x.png", 
+            "target": "btn-menu@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-pause.png", 
+            "target": "btn-pause.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-pause@2x.png", 
+            "target": "btn-pause@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-play.png", 
+            "target": "btn-play.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-play@2x.png", 
+            "target": "btn-play@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-restart.png", 
+            "target": "btn-restart.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-restart@2x.png", 
+            "target": "btn-restart@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/chest.png", 
+            "target": "chest.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/chest@2x.png", 
+            "target": "chest@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/treasure.png", 
+            "target": "treasure.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/treasure@2x.png", 
+            "target": "treasure@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/timp.m4a", 
+            "target": "timp.m4a"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level-1.png", 
+            "target": "level-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level-1@2x.png", 
+            "target": "level-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level-locked-1.png", 
+            "target": "level-locked-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/level-locked-1@2x.png", 
+            "target": "level-locked-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-small-empty-1.png", 
+            "target": "star-small-empty-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-small-empty-1@2x.png", 
+            "target": "star-small-empty-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/open-levels-bg-1.png", 
+            "target": "open-levels-bg-1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/open-levels-bg-1@2x.png", 
+            "target": "open-levels-bg-1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-bg.png", 
+            "target": "success-bg.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-bg@2x.png", 
+            "target": "success-bg@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-rotate.png", 
+            "target": "success-rotate.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-rotate@2x.png", 
+            "target": "success-rotate@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-empty@2x.png", 
+            "target": "star-empty@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-full.png", 
+            "target": "star-full.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/star-full@2x.png", 
+            "target": "star-full@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-line.png", 
+            "target": "success-line.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-line@2x.png", 
+            "target": "success-line@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-menu.png", 
+            "target": "success-menu.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-menu@2x.png", 
+            "target": "success-menu@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-next.png", 
+            "target": "success-next.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-next@2x.png", 
+            "target": "success-next@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-restart.png", 
+            "target": "success-restart.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/success-restart@2x.png", 
+            "target": "success-restart@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-unlock-all.png", 
+            "target": "btn-unlock-all.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/btn-unlock-all@2x.png", 
+            "target": "btn-unlock-all@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g1.png", 
+            "target": "candy-g1.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g1@2x.png", 
+            "target": "candy-g1@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g2.png", 
+            "target": "candy-g2.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g2@2x.png", 
+            "target": "candy-g2@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g3.png", 
+            "target": "candy-g3.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g3@2x.png", 
+            "target": "candy-g3@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g4.png", 
+            "target": "candy-g4.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g4@2x.png", 
+            "target": "candy-g4@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g5.png", 
+            "target": "candy-g5.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-g5@2x.png", 
+            "target": "candy-g5@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-shine.png", 
+            "target": "candy-shine.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy-shine@2x.png", 
+            "target": "candy-shine@2x.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy.png", 
+            "target": "candy.png"
+        }, 
+        {
+            "asset": "Falling Apple/Resources/Candy/candy@2x.png", 
+            "target": "candy@2x.png"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "Falling Candy", 
+        "APPLICATION_IDENTIFIER": "_4Apps.Falling_Candy", 
+        "APPLICATION_NAME": "FallingCandy", 
+        "LONG_VERSION": "310", 
+        "SHORT_VERSION": "1.0", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "Falling Candy", 
+            "PRODUCT_NAME": "Falling Candy"
+        }, 
+        "URL_SCHEME": [
+            "db-8eep9mvdfsmiopm", 
+            "db-8eep9mvdfsmiopm"
+        ]
+    }, 
+    "defines": {
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 50000
+    }, 
+    "deps": [
+        "UIKit", 
+        "Security", 
+        "CoreImage", 
+        "AudioToolbox", 
+        "OpenAL", 
+        "Twitter", 
+        "StoreKit", 
+        "AVFoundation", 
+        "QuartzCore", 
+        "CoreMotion", 
+        "UIKit", 
+        "Foundation", 
+        "CoreGraphics", 
+        "CoreData", 
+        "SystemConfiguration", 
+        "DropboxSDK"
+    ], 
+    "flags": [
+        "-DNS_BLOCK_ASSERTIONS=1", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "Falling Candy.hmap", 
+            "hmap": {
+                "AnimatedCCMenuItemImage.h": {
+                    "key": "AnimatedCCMenuItemImage.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "AnimatedCCMenuItemImage.h"
+                }, 
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "Falling Apple/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "AppIAPHelper.h": {
+                    "key": "AppIAPHelper.h", 
+                    "prefix": "Falling Apple/Third Party/", 
+                    "suffix": "AppIAPHelper.h"
+                }, 
+                "Appirater.h": {
+                    "key": "Appirater.h", 
+                    "prefix": "Falling Candy v2/Appirater/", 
+                    "suffix": "Appirater.h"
+                }, 
+                "AppiraterDelegate.h": {
+                    "key": "AppiraterDelegate.h", 
+                    "prefix": "Falling Candy v2/Appirater/", 
+                    "suffix": "AppiraterDelegate.h"
+                }, 
+                "BackgroundLayer.h": {
+                    "key": "BackgroundLayer.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "BackgroundLayer.h"
+                }, 
+                "Box2D.h": {
+                    "key": "Box2D.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/", 
+                    "suffix": "Box2D.h"
+                }, 
+                "BrickSprite.h": {
+                    "key": "BrickSprite.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "BrickSprite.h"
+                }, 
+                "CCAction.h": {
+                    "key": "CCAction.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCAction.h"
+                }, 
+                "CCActionCamera.h": {
+                    "key": "CCActionCamera.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionCamera.h"
+                }, 
+                "CCActionCatmullRom.h": {
+                    "key": "CCActionCatmullRom.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionCatmullRom.h"
+                }, 
+                "CCActionEase.h": {
+                    "key": "CCActionEase.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionEase.h"
+                }, 
+                "CCActionGrid.h": {
+                    "key": "CCActionGrid.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionGrid.h"
+                }, 
+                "CCActionGrid3D.h": {
+                    "key": "CCActionGrid3D.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionGrid3D.h"
+                }, 
+                "CCActionInstant.h": {
+                    "key": "CCActionInstant.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionInstant.h"
+                }, 
+                "CCActionInterval.h": {
+                    "key": "CCActionInterval.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionInterval.h"
+                }, 
+                "CCActionManager.h": {
+                    "key": "CCActionManager.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionManager.h"
+                }, 
+                "CCActionPageTurn3D.h": {
+                    "key": "CCActionPageTurn3D.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionPageTurn3D.h"
+                }, 
+                "CCActionProgressTimer.h": {
+                    "key": "CCActionProgressTimer.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionProgressTimer.h"
+                }, 
+                "CCActionTiledGrid.h": {
+                    "key": "CCActionTiledGrid.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionTiledGrid.h"
+                }, 
+                "CCActionTween.h": {
+                    "key": "CCActionTween.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCActionTween.h"
+                }, 
+                "CCAnimation.h": {
+                    "key": "CCAnimation.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCAnimation.h"
+                }, 
+                "CCAnimationCache.h": {
+                    "key": "CCAnimationCache.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCAnimationCache.h"
+                }, 
+                "CCArray.h": {
+                    "key": "CCArray.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "CCArray.h"
+                }, 
+                "CCAtlasNode.h": {
+                    "key": "CCAtlasNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCAtlasNode.h"
+                }, 
+                "CCCamera.h": {
+                    "key": "CCCamera.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCCamera.h"
+                }, 
+                "CCClippingNode.h": {
+                    "key": "CCClippingNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCClippingNode.h"
+                }, 
+                "CCConfiguration.h": {
+                    "key": "CCConfiguration.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCConfiguration.h"
+                }, 
+                "CCDirector.h": {
+                    "key": "CCDirector.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCDirector.h"
+                }, 
+                "CCDirectorIOS.h": {
+                    "key": "CCDirectorIOS.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCDirectorIOS.h"
+                }, 
+                "CCDirectorMac.h": {
+                    "key": "CCDirectorMac.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCDirectorMac.h"
+                }, 
+                "CCDrawNode.h": {
+                    "key": "CCDrawNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCDrawNode.h"
+                }, 
+                "CCDrawingPrimitives.h": {
+                    "key": "CCDrawingPrimitives.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCDrawingPrimitives.h"
+                }, 
+                "CCES2Renderer.h": {
+                    "key": "CCES2Renderer.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCES2Renderer.h"
+                }, 
+                "CCESRenderer.h": {
+                    "key": "CCESRenderer.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCESRenderer.h"
+                }, 
+                "CCEventDispatcher.h": {
+                    "key": "CCEventDispatcher.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCEventDispatcher.h"
+                }, 
+                "CCExtensions.h": {
+                    "key": "CCExtensions.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CCExtensions.h"
+                }, 
+                "CCFileUtils.h": {
+                    "key": "CCFileUtils.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "CCFileUtils.h"
+                }, 
+                "CCFontDefinition.h": {
+                    "key": "CCFontDefinition.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCFontDefinition.h"
+                }, 
+                "CCGL.h": {
+                    "key": "CCGL.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/", 
+                    "suffix": "CCGL.h"
+                }, 
+                "CCGLProgram.h": {
+                    "key": "CCGLProgram.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCGLProgram.h"
+                }, 
+                "CCGLView.h": {
+                    "key": "CCGLView.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCGLView.h"
+                }, 
+                "CCGrabber.h": {
+                    "key": "CCGrabber.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCGrabber.h"
+                }, 
+                "CCGrid.h": {
+                    "key": "CCGrid.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCGrid.h"
+                }, 
+                "CCLabelAtlas.h": {
+                    "key": "CCLabelAtlas.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCLabelAtlas.h"
+                }, 
+                "CCLabelBMFont.h": {
+                    "key": "CCLabelBMFont.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCLabelBMFont.h"
+                }, 
+                "CCLabelTTF.h": {
+                    "key": "CCLabelTTF.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCLabelTTF.h"
+                }, 
+                "CCLayer.h": {
+                    "key": "CCLayer.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCLayer.h"
+                }, 
+                "CCMenu.h": {
+                    "key": "CCMenu.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCMenu.h"
+                }, 
+                "CCMenuItem.h": {
+                    "key": "CCMenuItem.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCMenuItem.h"
+                }, 
+                "CCMotionStreak.h": {
+                    "key": "CCMotionStreak.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCMotionStreak.h"
+                }, 
+                "CCMoveByXY.h": {
+                    "key": "CCMoveByXY.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CCMoveByXY.h"
+                }, 
+                "CCNS.h": {
+                    "key": "CCNS.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/", 
+                    "suffix": "CCNS.h"
+                }, 
+                "CCNode+Debug.h": {
+                    "key": "CCNode+Debug.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCNode+Debug.h"
+                }, 
+                "CCNode.h": {
+                    "key": "CCNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCNode.h"
+                }, 
+                "CCParallaxNode.h": {
+                    "key": "CCParallaxNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCParallaxNode.h"
+                }, 
+                "CCParallaxSpriteBatchNode.h": {
+                    "key": "CCParallaxSpriteBatchNode.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CCParallaxSpriteBatchNode.h"
+                }, 
+                "CCParticleBatchNode.h": {
+                    "key": "CCParticleBatchNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCParticleBatchNode.h"
+                }, 
+                "CCParticleExamples.h": {
+                    "key": "CCParticleExamples.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCParticleExamples.h"
+                }, 
+                "CCParticleSystem.h": {
+                    "key": "CCParticleSystem.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCParticleSystem.h"
+                }, 
+                "CCParticleSystemQuad.h": {
+                    "key": "CCParticleSystemQuad.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCParticleSystemQuad.h"
+                }, 
+                "CCPhysicsDebugNode.h": {
+                    "key": "CCPhysicsDebugNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCPhysicsDebugNode.h"
+                }, 
+                "CCPhysicsSprite.h": {
+                    "key": "CCPhysicsSprite.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCPhysicsSprite.h"
+                }, 
+                "CCProfiling.h": {
+                    "key": "CCProfiling.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "CCProfiling.h"
+                }, 
+                "CCProgressTimer.h": {
+                    "key": "CCProgressTimer.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCProgressTimer.h"
+                }, 
+                "CCProtocols.h": {
+                    "key": "CCProtocols.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCProtocols.h"
+                }, 
+                "CCRenderTexture.h": {
+                    "key": "CCRenderTexture.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCRenderTexture.h"
+                }, 
+                "CCRotateAround.h": {
+                    "key": "CCRotateAround.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CCRotateAround.h"
+                }, 
+                "CCScene.h": {
+                    "key": "CCScene.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCScene.h"
+                }, 
+                "CCScheduler.h": {
+                    "key": "CCScheduler.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCScheduler.h"
+                }, 
+                "CCShaderCache.h": {
+                    "key": "CCShaderCache.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCShaderCache.h"
+                }, 
+                "CCShake.h": {
+                    "key": "CCShake.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CCShake.h"
+                }, 
+                "CCSprite.h": {
+                    "key": "CCSprite.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCSprite.h"
+                }, 
+                "CCSpriteBatchNode.h": {
+                    "key": "CCSpriteBatchNode.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCSpriteBatchNode.h"
+                }, 
+                "CCSpriteFont.h": {
+                    "key": "CCSpriteFont.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CCSpriteFont.h"
+                }, 
+                "CCSpriteFrame.h": {
+                    "key": "CCSpriteFrame.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCSpriteFrame.h"
+                }, 
+                "CCSpriteFrameCache.h": {
+                    "key": "CCSpriteFrameCache.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCSpriteFrameCache.h"
+                }, 
+                "CCTMXLayer.h": {
+                    "key": "CCTMXLayer.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTMXLayer.h"
+                }, 
+                "CCTMXObjectGroup.h": {
+                    "key": "CCTMXObjectGroup.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTMXObjectGroup.h"
+                }, 
+                "CCTMXTiledMap.h": {
+                    "key": "CCTMXTiledMap.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTMXTiledMap.h"
+                }, 
+                "CCTMXXMLParser.h": {
+                    "key": "CCTMXXMLParser.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTMXXMLParser.h"
+                }, 
+                "CCTexture2D.h": {
+                    "key": "CCTexture2D.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTexture2D.h"
+                }, 
+                "CCTextureAtlas.h": {
+                    "key": "CCTextureAtlas.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTextureAtlas.h"
+                }, 
+                "CCTextureCache.h": {
+                    "key": "CCTextureCache.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTextureCache.h"
+                }, 
+                "CCTexturePVR.h": {
+                    "key": "CCTexturePVR.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTexturePVR.h"
+                }, 
+                "CCTileMapAtlas.h": {
+                    "key": "CCTileMapAtlas.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTileMapAtlas.h"
+                }, 
+                "CCTouchDelegateProtocol.h": {
+                    "key": "CCTouchDelegateProtocol.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchDelegateProtocol.h"
+                }, 
+                "CCTouchDispatcher.h": {
+                    "key": "CCTouchDispatcher.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchDispatcher.h"
+                }, 
+                "CCTouchHandler.h": {
+                    "key": "CCTouchHandler.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchHandler.h"
+                }, 
+                "CCTransition.h": {
+                    "key": "CCTransition.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTransition.h"
+                }, 
+                "CCTransitionPageTurn.h": {
+                    "key": "CCTransitionPageTurn.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTransitionPageTurn.h"
+                }, 
+                "CCTransitionProgress.h": {
+                    "key": "CCTransitionProgress.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "CCTransitionProgress.h"
+                }, 
+                "CCVertex.h": {
+                    "key": "CCVertex.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "CCVertex.h"
+                }, 
+                "CCWindow.h": {
+                    "key": "CCWindow.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCWindow.h"
+                }, 
+                "CDAudioManager.h": {
+                    "key": "CDAudioManager.h", 
+                    "prefix": "Falling Apple/Third Party/CocosDenshion/", 
+                    "suffix": "CDAudioManager.h"
+                }, 
+                "CDConfig.h": {
+                    "key": "CDConfig.h", 
+                    "prefix": "Falling Apple/Third Party/CocosDenshion/", 
+                    "suffix": "CDConfig.h"
+                }, 
+                "CDOpenALSupport.h": {
+                    "key": "CDOpenALSupport.h", 
+                    "prefix": "Falling Apple/Third Party/CocosDenshion/", 
+                    "suffix": "CDOpenALSupport.h"
+                }, 
+                "CDXMacOSXSupport.h": {
+                    "key": "CDXMacOSXSupport.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/CocosDenshion/", 
+                    "suffix": "CDXMacOSXSupport.h"
+                }, 
+                "CDXPropertyModifierAction.h": {
+                    "key": "CDXPropertyModifierAction.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/CocosDenshion/", 
+                    "suffix": "CDXPropertyModifierAction.h"
+                }, 
+                "CGPointExtension.h": {
+                    "key": "CGPointExtension.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "CGPointExtension.h"
+                }, 
+                "CandySprite.h": {
+                    "key": "CandySprite.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CandySprite.h"
+                }, 
+                "CocosDenshion.h": {
+                    "key": "CocosDenshion.h", 
+                    "prefix": "Falling Apple/Third Party/CocosDenshion/", 
+                    "suffix": "CocosDenshion.h"
+                }, 
+                "CommingSoonScene.h": {
+                    "key": "CommingSoonScene.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CommingSoonScene.h"
+                }, 
+                "CustomScrollLayer.h": {
+                    "key": "CustomScrollLayer.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "CustomScrollLayer.h"
+                }, 
+                "DragView.h": {
+                    "key": "DragView.h", 
+                    "prefix": "Levitor/", 
+                    "suffix": "DragView.h"
+                }, 
+                "FSNConnection.h": {
+                    "key": "FSNConnection.h", 
+                    "prefix": "Falling Candy v2/FSNetworking/", 
+                    "suffix": "FSNConnection.h"
+                }, 
+                "FSNData.h": {
+                    "key": "FSNData.h", 
+                    "prefix": "Falling Candy v2/FSNetworking/", 
+                    "suffix": "FSNData.h"
+                }, 
+                "FSN_categories.h": {
+                    "key": "FSN_categories.h", 
+                    "prefix": "Falling Candy v2/FSNetworking/", 
+                    "suffix": "FSN_categories.h"
+                }, 
+                "Falling Candy v2-Prefix.pch": {
+                    "key": "Falling Candy v2-Prefix.pch", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "Falling Candy v2-Prefix.pch"
+                }, 
+                "Falling Candy-Prefix.pch": {
+                    "key": "Falling Candy-Prefix.pch", 
+                    "prefix": "Falling Apple/", 
+                    "suffix": "Falling Candy-Prefix.pch"
+                }, 
+                "FlippedNSView.h": {
+                    "key": "FlippedNSView.h", 
+                    "prefix": "Levitor/", 
+                    "suffix": "FlippedNSView.h"
+                }, 
+                "GAI.h": {
+                    "key": "GAI.h", 
+                    "prefix": "./", 
+                    "suffix": "GAI.h"
+                }, 
+                "GAIDictionaryBuilder.h": {
+                    "key": "GAIDictionaryBuilder.h", 
+                    "prefix": "./", 
+                    "suffix": "GAIDictionaryBuilder.h"
+                }, 
+                "GAIFields.h": {
+                    "key": "GAIFields.h", 
+                    "prefix": "./", 
+                    "suffix": "GAIFields.h"
+                }, 
+                "GAILogger.h": {
+                    "key": "GAILogger.h", 
+                    "prefix": "./", 
+                    "suffix": "GAILogger.h"
+                }, 
+                "GAITrackedViewController.h": {
+                    "key": "GAITrackedViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "GAITrackedViewController.h"
+                }, 
+                "GAITracker.h": {
+                    "key": "GAITracker.h", 
+                    "prefix": "./", 
+                    "suffix": "GAITracker.h"
+                }, 
+                "GAITransaction.h": {
+                    "key": "GAITransaction.h", 
+                    "prefix": "Frameworks/GATracker/", 
+                    "suffix": "GAITransaction.h"
+                }, 
+                "GAITransactionItem.h": {
+                    "key": "GAITransactionItem.h", 
+                    "prefix": "Frameworks/GATracker/", 
+                    "suffix": "GAITransactionItem.h"
+                }, 
+                "GB2ShapeCache.h": {
+                    "key": "GB2ShapeCache.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "GB2ShapeCache.h"
+                }, 
+                "GLES-Render.h": {
+                    "key": "GLES-Render.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "GLES-Render.h"
+                }, 
+                "GameBatchNode.h": {
+                    "key": "GameBatchNode.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "GameBatchNode.h"
+                }, 
+                "GameScene.h": {
+                    "key": "GameScene.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "GameScene.h"
+                }, 
+                "HomeScene.h": {
+                    "key": "HomeScene.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "HomeScene.h"
+                }, 
+                "IAPHelper.h": {
+                    "key": "IAPHelper.h", 
+                    "prefix": "Falling Apple/Third Party/", 
+                    "suffix": "IAPHelper.h"
+                }, 
+                "ImageSpriteCache.h": {
+                    "key": "ImageSpriteCache.h", 
+                    "prefix": "Levitor/", 
+                    "suffix": "ImageSpriteCache.h"
+                }, 
+                "LMCustomSprite.h": {
+                    "key": "LMCustomSprite.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "LMCustomSprite.h"
+                }, 
+                "LevelCompletedScene.h": {
+                    "key": "LevelCompletedScene.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "LevelCompletedScene.h"
+                }, 
+                "LevelsScene.h": {
+                    "key": "LevelsScene.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "LevelsScene.h"
+                }, 
+                "Levitor-Prefix.pch": {
+                    "key": "Levitor-Prefix.pch", 
+                    "prefix": "Levitor/", 
+                    "suffix": "Levitor-Prefix.pch"
+                }, 
+                "LoaderLayer.h": {
+                    "key": "LoaderLayer.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "LoaderLayer.h"
+                }, 
+                "Macros.h": {
+                    "key": "Macros.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "Macros.h"
+                }, 
+                "NSThread+performBlock.h": {
+                    "key": "NSThread+performBlock.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "NSThread+performBlock.h"
+                }, 
+                "OpenGL_Internal.h": {
+                    "key": "OpenGL_Internal.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "OpenGL_Internal.h"
+                }, 
+                "OverlayColorLayer.h": {
+                    "key": "OverlayColorLayer.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "OverlayColorLayer.h"
+                }, 
+                "PauseLayer.h": {
+                    "key": "PauseLayer.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "PauseLayer.h"
+                }, 
+                "PhysicsSprite.h": {
+                    "key": "PhysicsSprite.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "PhysicsSprite.h"
+                }, 
+                "PhysicsUIImageView.h": {
+                    "key": "PhysicsUIImageView.h", 
+                    "prefix": "Falling Apple/Extensions/", 
+                    "suffix": "PhysicsUIImageView.h"
+                }, 
+                "PhysicsUIView.h": {
+                    "key": "PhysicsUIView.h", 
+                    "prefix": "Falling Apple/Extensions/", 
+                    "suffix": "PhysicsUIView.h"
+                }, 
+                "PlaygroundView.h": {
+                    "key": "PlaygroundView.h", 
+                    "prefix": "Falling Apple/Extensions/", 
+                    "suffix": "PlaygroundView.h"
+                }, 
+                "ProgressBarLayer.h": {
+                    "key": "ProgressBarLayer.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "ProgressBarLayer.h"
+                }, 
+                "SettingsScene.h": {
+                    "key": "SettingsScene.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "SettingsScene.h"
+                }, 
+                "SharedActions.h": {
+                    "key": "SharedActions.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "SharedActions.h"
+                }, 
+                "ShatteredSprite.h": {
+                    "key": "ShatteredSprite.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "ShatteredSprite.h"
+                }, 
+                "SimpleAudioEngine.h": {
+                    "key": "SimpleAudioEngine.h", 
+                    "prefix": "Falling Apple/Third Party/CocosDenshion/", 
+                    "suffix": "SimpleAudioEngine.h"
+                }, 
+                "Spinner.h": {
+                    "key": "Spinner.h", 
+                    "prefix": "Falling Candy v2/", 
+                    "suffix": "Spinner.h"
+                }, 
+                "TGAlib.h": {
+                    "key": "TGAlib.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "TGAlib.h"
+                }, 
+                "TestFlight+AsyncLogging.h": {
+                    "key": "TestFlight+AsyncLogging.h", 
+                    "prefix": "Falling Candy v2/TestFlight/", 
+                    "suffix": "TestFlight+AsyncLogging.h"
+                }, 
+                "TestFlight+ManualSessions.h": {
+                    "key": "TestFlight+ManualSessions.h", 
+                    "prefix": "Falling Candy v2/TestFlight/", 
+                    "suffix": "TestFlight+ManualSessions.h"
+                }, 
+                "TestFlight.h": {
+                    "key": "TestFlight.h", 
+                    "prefix": "Falling Candy v2/TestFlight/", 
+                    "suffix": "TestFlight.h"
+                }, 
+                "TransformUtils.h": {
+                    "key": "TransformUtils.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "TransformUtils.h"
+                }, 
+                "ViewController.h": {
+                    "key": "ViewController.h", 
+                    "prefix": "Falling Apple/", 
+                    "suffix": "ViewController.h"
+                }, 
+                "ZipUtils.h": {
+                    "key": "ZipUtils.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "ZipUtils.h"
+                }, 
+                "aabb.h": {
+                    "key": "aabb.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "aabb.h"
+                }, 
+                "b2BlockAllocator.h": {
+                    "key": "b2BlockAllocator.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Common/", 
+                    "suffix": "b2BlockAllocator.h"
+                }, 
+                "b2Body.h": {
+                    "key": "b2Body.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/", 
+                    "suffix": "b2Body.h"
+                }, 
+                "b2BroadPhase.h": {
+                    "key": "b2BroadPhase.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/", 
+                    "suffix": "b2BroadPhase.h"
+                }, 
+                "b2ChainAndCircleContact.h": {
+                    "key": "b2ChainAndCircleContact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2ChainAndCircleContact.h"
+                }, 
+                "b2ChainAndPolygonContact.h": {
+                    "key": "b2ChainAndPolygonContact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2ChainAndPolygonContact.h"
+                }, 
+                "b2ChainShape.h": {
+                    "key": "b2ChainShape.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/Shapes/", 
+                    "suffix": "b2ChainShape.h"
+                }, 
+                "b2CircleContact.h": {
+                    "key": "b2CircleContact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2CircleContact.h"
+                }, 
+                "b2CircleShape.h": {
+                    "key": "b2CircleShape.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/Shapes/", 
+                    "suffix": "b2CircleShape.h"
+                }, 
+                "b2Collision.h": {
+                    "key": "b2Collision.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/", 
+                    "suffix": "b2Collision.h"
+                }, 
+                "b2Contact.h": {
+                    "key": "b2Contact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2Contact.h"
+                }, 
+                "b2ContactManager.h": {
+                    "key": "b2ContactManager.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/", 
+                    "suffix": "b2ContactManager.h"
+                }, 
+                "b2ContactSolver.h": {
+                    "key": "b2ContactSolver.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2ContactSolver.h"
+                }, 
+                "b2Distance.h": {
+                    "key": "b2Distance.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/", 
+                    "suffix": "b2Distance.h"
+                }, 
+                "b2DistanceJoint.h": {
+                    "key": "b2DistanceJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2DistanceJoint.h"
+                }, 
+                "b2Draw.h": {
+                    "key": "b2Draw.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Common/", 
+                    "suffix": "b2Draw.h"
+                }, 
+                "b2DynamicTree.h": {
+                    "key": "b2DynamicTree.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/", 
+                    "suffix": "b2DynamicTree.h"
+                }, 
+                "b2EdgeAndCircleContact.h": {
+                    "key": "b2EdgeAndCircleContact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2EdgeAndCircleContact.h"
+                }, 
+                "b2EdgeAndPolygonContact.h": {
+                    "key": "b2EdgeAndPolygonContact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2EdgeAndPolygonContact.h"
+                }, 
+                "b2EdgeShape.h": {
+                    "key": "b2EdgeShape.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/Shapes/", 
+                    "suffix": "b2EdgeShape.h"
+                }, 
+                "b2Fixture.h": {
+                    "key": "b2Fixture.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/", 
+                    "suffix": "b2Fixture.h"
+                }, 
+                "b2FrictionJoint.h": {
+                    "key": "b2FrictionJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2FrictionJoint.h"
+                }, 
+                "b2GearJoint.h": {
+                    "key": "b2GearJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2GearJoint.h"
+                }, 
+                "b2GrowableStack.h": {
+                    "key": "b2GrowableStack.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Common/", 
+                    "suffix": "b2GrowableStack.h"
+                }, 
+                "b2Island.h": {
+                    "key": "b2Island.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/", 
+                    "suffix": "b2Island.h"
+                }, 
+                "b2Joint.h": {
+                    "key": "b2Joint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2Joint.h"
+                }, 
+                "b2Math.h": {
+                    "key": "b2Math.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Common/", 
+                    "suffix": "b2Math.h"
+                }, 
+                "b2MotorJoint.h": {
+                    "key": "b2MotorJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2MotorJoint.h"
+                }, 
+                "b2MouseJoint.h": {
+                    "key": "b2MouseJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2MouseJoint.h"
+                }, 
+                "b2PolygonAndCircleContact.h": {
+                    "key": "b2PolygonAndCircleContact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2PolygonAndCircleContact.h"
+                }, 
+                "b2PolygonContact.h": {
+                    "key": "b2PolygonContact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Contacts/", 
+                    "suffix": "b2PolygonContact.h"
+                }, 
+                "b2PolygonShape.h": {
+                    "key": "b2PolygonShape.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/Shapes/", 
+                    "suffix": "b2PolygonShape.h"
+                }, 
+                "b2PrismaticJoint.h": {
+                    "key": "b2PrismaticJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2PrismaticJoint.h"
+                }, 
+                "b2PulleyJoint.h": {
+                    "key": "b2PulleyJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2PulleyJoint.h"
+                }, 
+                "b2RevoluteJoint.h": {
+                    "key": "b2RevoluteJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2RevoluteJoint.h"
+                }, 
+                "b2Rope.h": {
+                    "key": "b2Rope.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Rope/", 
+                    "suffix": "b2Rope.h"
+                }, 
+                "b2RopeJoint.h": {
+                    "key": "b2RopeJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2RopeJoint.h"
+                }, 
+                "b2Settings.h": {
+                    "key": "b2Settings.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Common/", 
+                    "suffix": "b2Settings.h"
+                }, 
+                "b2Shape.h": {
+                    "key": "b2Shape.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/Shapes/", 
+                    "suffix": "b2Shape.h"
+                }, 
+                "b2StackAllocator.h": {
+                    "key": "b2StackAllocator.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Common/", 
+                    "suffix": "b2StackAllocator.h"
+                }, 
+                "b2TimeOfImpact.h": {
+                    "key": "b2TimeOfImpact.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Collision/", 
+                    "suffix": "b2TimeOfImpact.h"
+                }, 
+                "b2TimeStep.h": {
+                    "key": "b2TimeStep.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/", 
+                    "suffix": "b2TimeStep.h"
+                }, 
+                "b2Timer.h": {
+                    "key": "b2Timer.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Common/", 
+                    "suffix": "b2Timer.h"
+                }, 
+                "b2WeldJoint.h": {
+                    "key": "b2WeldJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2WeldJoint.h"
+                }, 
+                "b2WheelJoint.h": {
+                    "key": "b2WheelJoint.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/Joints/", 
+                    "suffix": "b2WheelJoint.h"
+                }, 
+                "b2World.h": {
+                    "key": "b2World.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/", 
+                    "suffix": "b2World.h"
+                }, 
+                "b2WorldCallbacks.h": {
+                    "key": "b2WorldCallbacks.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/Box2d/Dynamics/", 
+                    "suffix": "b2WorldCallbacks.h"
+                }, 
+                "base64.h": {
+                    "key": "base64.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "base64.h"
+                }, 
+                "ccCArray.h": {
+                    "key": "ccCArray.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "ccCArray.h"
+                }, 
+                "ccConfig.h": {
+                    "key": "ccConfig.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccConfig.h"
+                }, 
+                "ccDeprecated.h": {
+                    "key": "ccDeprecated.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccDeprecated.h"
+                }, 
+                "ccFPSImages.h": {
+                    "key": "ccFPSImages.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccFPSImages.h"
+                }, 
+                "ccGLStateCache.h": {
+                    "key": "ccGLStateCache.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccGLStateCache.h"
+                }, 
+                "ccMacros.h": {
+                    "key": "ccMacros.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccMacros.h"
+                }, 
+                "ccShader_PositionColorLengthTexture_frag.h": {
+                    "key": "ccShader_PositionColorLengthTexture_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionColorLengthTexture_frag.h"
+                }, 
+                "ccShader_PositionColorLengthTexture_vert.h": {
+                    "key": "ccShader_PositionColorLengthTexture_vert.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionColorLengthTexture_vert.h"
+                }, 
+                "ccShader_PositionColor_frag.h": {
+                    "key": "ccShader_PositionColor_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionColor_frag.h"
+                }, 
+                "ccShader_PositionColor_vert.h": {
+                    "key": "ccShader_PositionColor_vert.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionColor_vert.h"
+                }, 
+                "ccShader_PositionTextureA8Color_frag.h": {
+                    "key": "ccShader_PositionTextureA8Color_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureA8Color_frag.h"
+                }, 
+                "ccShader_PositionTextureA8Color_vert.h": {
+                    "key": "ccShader_PositionTextureA8Color_vert.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureA8Color_vert.h"
+                }, 
+                "ccShader_PositionTextureColorAlphaTest_frag.h": {
+                    "key": "ccShader_PositionTextureColorAlphaTest_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColorAlphaTest_frag.h"
+                }, 
+                "ccShader_PositionTextureColor_frag.h": {
+                    "key": "ccShader_PositionTextureColor_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColor_frag.h"
+                }, 
+                "ccShader_PositionTextureColor_vert.h": {
+                    "key": "ccShader_PositionTextureColor_vert.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColor_vert.h"
+                }, 
+                "ccShader_PositionTexture_frag.h": {
+                    "key": "ccShader_PositionTexture_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_frag.h"
+                }, 
+                "ccShader_PositionTexture_uColor_frag.h": {
+                    "key": "ccShader_PositionTexture_uColor_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_uColor_frag.h"
+                }, 
+                "ccShader_PositionTexture_uColor_vert.h": {
+                    "key": "ccShader_PositionTexture_uColor_vert.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_uColor_vert.h"
+                }, 
+                "ccShader_PositionTexture_vert.h": {
+                    "key": "ccShader_PositionTexture_vert.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_vert.h"
+                }, 
+                "ccShader_Position_uColor_frag.h": {
+                    "key": "ccShader_Position_uColor_frag.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_Position_uColor_frag.h"
+                }, 
+                "ccShader_Position_uColor_vert.h": {
+                    "key": "ccShader_Position_uColor_vert.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShader_Position_uColor_vert.h"
+                }, 
+                "ccShaders.h": {
+                    "key": "ccShaders.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccShaders.h"
+                }, 
+                "ccTypes.h": {
+                    "key": "ccTypes.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "ccTypes.h"
+                }, 
+                "ccUtils.h": {
+                    "key": "ccUtils.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "ccUtils.h"
+                }, 
+                "cocos2d.h": {
+                    "key": "cocos2d.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/", 
+                    "suffix": "cocos2d.h"
+                }, 
+                "kazmath.h": {
+                    "key": "kazmath.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "kazmath.h"
+                }, 
+                "mat3.h": {
+                    "key": "mat3.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "mat3.h"
+                }, 
+                "mat4.h": {
+                    "key": "mat4.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "mat4.h"
+                }, 
+                "mat4stack.h": {
+                    "key": "mat4stack.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/GL/", 
+                    "suffix": "mat4stack.h"
+                }, 
+                "matrix.h": {
+                    "key": "matrix.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/GL/", 
+                    "suffix": "matrix.h"
+                }, 
+                "neon_matrix_impl.h": {
+                    "key": "neon_matrix_impl.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "neon_matrix_impl.h"
+                }, 
+                "plane.h": {
+                    "key": "plane.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "plane.h"
+                }, 
+                "quaternion.h": {
+                    "key": "quaternion.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "quaternion.h"
+                }, 
+                "ray2.h": {
+                    "key": "ray2.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "ray2.h"
+                }, 
+                "uthash.h": {
+                    "key": "uthash.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "uthash.h"
+                }, 
+                "utility.h": {
+                    "key": "utility.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "utility.h"
+                }, 
+                "utlist.h": {
+                    "key": "utlist.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/cocos2d/Support/", 
+                    "suffix": "utlist.h"
+                }, 
+                "vec2.h": {
+                    "key": "vec2.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "vec2.h"
+                }, 
+                "vec3.h": {
+                    "key": "vec3.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "vec3.h"
+                }, 
+                "vec4.h": {
+                    "key": "vec4.h", 
+                    "prefix": "Frameworks/Cocos2D_v2.1/kazmath/include/kazmath/", 
+                    "suffix": "vec4.h"
+                }
+            }, 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./Falling Apple/Falling Candy-Info.plist"
+    ], 
+    "libs": [
+        "z", 
+        "GoogleAnalytics"
+    ], 
+    "modules": [], 
+    "pchs": [
+        "./Falling Apple/Falling Candy-Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "Falling Apple/AppDelegate.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Extensions/PhysicsUIImageView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Extensions/PhysicsUIView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Extensions/PlaygroundView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Third Party/AppIAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Third Party/CocosDenshion/CDAudioManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Third Party/CocosDenshion/CDOpenALSupport.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Third Party/CocosDenshion/CocosDenshion.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Third Party/CocosDenshion/SimpleAudioEngine.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/Third Party/IAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "Falling Apple/ViewController.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Falling Apple/main.m"
+        }
+    ], 
+    "type": "app", 
+    "version": "1", 
+    "xcode_project": "Falling Candy.xcodeproj"
+}
