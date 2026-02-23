@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Archive artifacts
+__MACOSX/
+
+# Xcode
+build/
+DerivedData/
+*.xcarchive
+xcuserdata/
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Python
+*.pyc
+__pycache__/
